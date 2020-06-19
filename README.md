@@ -1,5 +1,7 @@
 # DataUsageInMIR
-This is a published collection of the data used in "Data Usage in MIR: History, future recommendations, and community response" by Chen et al. If you use these datasets or wish to discuss any of the dataset contents, please open an issue!
+This is a published collection of the data used in "Data Usage in MIR: History, future recommendations, and community response" by Chen et al. 
+
+If you use these datasets or wish to discuss any of the dataset contents, please open an issue!
 
 ## Background
 For this study, all available accepted papers from each of the Conferences of the International Society of Music Information Retrieval (ISMIR) were reviewed by the authors. _Include general overview of how and why papers were reviewed_
@@ -24,8 +26,12 @@ Each dataset contains the following variables:
 ## Copyright Information
 Not sure about this at the moment
 
+This dataset is released under the MIT license.
+
 # Jordan's Meeting Checklist
 - Is everyone satisfied with the name? something shorter like __DUMIR__? If anyone has other suggestions, I am open to them
+
+- Not sure how to refer to a currently unpublished paper.
 
 - Exactly what datasets are we using? I suggest at the very least all separate years and one full collection, but anything else? Overall dataset usage sheet?
 
