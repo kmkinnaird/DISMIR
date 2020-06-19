@@ -1,2 +1,23 @@
 # DataUsageInMIR
-Data used in "Data Usage in MIR: History, future recommendations, and community response" by Chen et al.
+This is a collection of the data used in "Data Usage in MIR: History, future recommendations, and community response" by Chen et al.
+For this study, all available accepted papers from each of the Conferences of the International Society of Music Information Retrieval (ISMIR) were reviewed by the authors. The datasets used
+
+All reviewed papers can be found in the conference proceedings from the [ISMIR website](http://ismir.net/conferences/).
+
+## Datasets
+### Available Datasets
+There are 22 (change to 21 if no overview) datasets available:
+- 1-20: Each individual conference, denoted by ismirdata_'conference year'.csv i.e. ismirdata_2019.csv
+- 21: ismirdata_full - concatenated dataset containing all years
+
+### Dataset Content
+Each dataset contains the name
+
+## Copyright Information
+Not sure about this at the moment
+
+# Jordan's Meeting Checklist
+- Is everyone satisfied with the name? something shorter like __DUMIR__? If anyone has other suggestions, I am open to them
+- Exactly what datasets are we using? I suggest at the very least all separate years and one full collection, but anything else? Overall dataset usage sheet?
+- To the dataset team: What exactly is being included in the datasets? This will change what is included in the Dataset Content section of the ReadMe
+- Are we using the correct license? Currently we are using the MIT license because it is suggested for those not sure of what license to use, but would it be more prudent to use a Creative Commons license or even just leave it public domain?
