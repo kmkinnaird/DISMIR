@@ -1,4 +1,4 @@
-# DataUsageInMIR
+# DISMIR: Data Usage In ISMIR
 This is a published collection of the data used in "Data Usage in MIR: History, future recommendations, and community response" by Chen et al. 
 
 If you use these datasets or wish to discuss any of the dataset contents, please open an issue!
