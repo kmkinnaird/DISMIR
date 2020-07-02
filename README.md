@@ -10,7 +10,7 @@ All reviewed papers can be found in the conference proceedings from the [ISMIR w
 
 ## Datasets
 ### Available Datasets
-There are 21 (_change to 22 if overview_) datasets available:
+There are 21 dataset .csv files available:
 - 1-20: Each individual conference, denoted by ismirdata_'conference year'.csv i.e. ismirdata_2019.csv
 - 21: ismirdata_full - concatenated dataset containing all years
 
@@ -23,19 +23,8 @@ Each dataset contains the following variables:
 - `Genre`: 'str' - Description of genres included in used datasets
 - `Genre Clean`: 'fct' - Standardized categorization of used genres
 
+Additionally, the ismirdata_full dataset alone contains the following variable:
+- `Year`: 'fct' - Conference year the paper was accepted
+
 ## Copyright Information
-Not sure about this at the moment
-
 This dataset is released under the MIT license.
-
-# Jordan's Meeting Checklist
-- Is everyone satisfied with the name? something shorter like __DUMIR__? If anyone has other suggestions, I am open to them
-
-- Not sure how to refer to a currently unpublished paper.
-
-- Exactly what datasets are we using? I suggest at the very least all separate years and one full collection, but anything else? Overall dataset usage sheet?
-
-- To the dataset team: What exactly is being included in the datasets? This will change what is included in the Dataset Content section of the ReadMe
-
-- Are we using the correct license? Currently we are using the MIT license because it is suggested for those not sure of what license to use, but would it be more prudent to use a Creative Commons license or even just leave it public domain?
-  - Other github data sources use public domain, BSD-3
