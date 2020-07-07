@@ -1,0 +1,35 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Content-based Identification of Audio Material Using MPEG-7 Low Level Description,2001,1,FALSE,not specified,Rock/Pop,"Rock, Pop"
+Figured Bass and Tonality Recognition,2001,1,FALSE,not specified,Classical,Classical
+MUSART: Music Retrieval Via Aural Queries,2001,1,FALSE,constructed database of sung queries,unspecified,Doesn't Specify
+Building a Platform for Performance Study of Various Music Information Retrieval Approaches,2001,1,FALSE,CWEB Technology dataset,Chinese and English Pop,"Pop, Non-Western"
+An Approach Towards A Polyphonic Music Retrieval System,2001,1,FALSE,excerpt from classicalarchives.com,Classical,Classical
+A Technique for Regular Expression Style Searching in Polyphonic Music,2001,0,FALSE,none,n/a,N/A
+Expressive and Efficient Retrieval of Symbolic Musical Data,2001,1,FALSE,Lester S. Levy Collection of Sheet Music,"30,000 pieces of American popular music, dating as far back as 1780",Pop
+Melody Spotting Using Hidden Markov Models,2001,1,FALSE,self collected melodic data,"collection of simple monophonic melodies recorded by Clarinet, Flute, Piano, Soprano Saxophone, and Violin",Instrumental
+Towards a Cognitive Model of Melodic Similarity,2001,0,FALSE,none,n/a,N/A
+GUIDO/MIR – An Experimental Musical Information Retrieval System based on GUIDO Music Notation,2001,1,TRUE,GUIDO Database,about 150 files,Various
+The JRing System for Computer-Assisted Musicological Analysis,2001,0,FALSE,none,n/a,N/A
+Score Processing For MIR,2001,0,FALSE,none,n/a,N/A
+Thematic Extractor,2001,1,FALSE,60 classical music pieces,Classical,Classical
+Music Signal Spotting Retrieval by a Humming Query Using Start Frame Feature Dependent Continuous Dynamic Programming,2001,1,FALSE,self collected songs,"Japanese pop, children's songs, animation songs, japanese enka",Non-Western
+An Audio Front End for Query-by-Humming Systems,2001,1,FALSE,5 live test singers,4 simple melodies,Instrumental
+A Naturalist Approach to Music File Name Analysis,2001,3,FALSE,"CDDB database, RadioFrance/Fip, in-house music",a large variety,Various
+Automated Rhythm Transcription,2001,1,FALSE,excerpts from two songs,Classical,Classical
+Efficient Multidimensional Searching Routines,2001,0,FALSE,none/non-musical,n/a,N/A
+Musical Works as Information Retrieval Entities: Epistemological Perspectives,2001,0,FALSE,none,n/a,N/A
+Automatic Musical Genre Classification of Audio Signals,2001,1,FALSE,30-second clips,15 different genres,Various
+Using Long-Term Structure to Retrieve Music: Representation and Matching,2001,1,FALSE,database with different versions of different songs,unspecified,Doesn't Specify
+Statistical Significance in Song-Spotting in Audio,2001,1,FALSE,24 hours of radio music,unspecified,Doesn't Specify
+"The Music Information Retrieval Annotated Bibliograpy Project, Phase I",2001,0,FALSE,none,n/a,N/A
+MIRACLE: A Music Information Retrieval System with Clustered Computing Engines,2001,1,FALSE,1550 vocal clips,unspecified,Doesn't Specify
+A Three-Layer Approach for Music Retrieval in Large Databases,2001,0,FALSE,none,n/a,N/A
+Melody Matching Directly From Audio,2001,2,FALSE,unspecified,big band swing and the beatles,"Pop, Jazz"
+Usage of the MELDEX Digital Music Library,2001,1,FALSE,non-musical,n/a,N/A
+Addressing the Same but Different - Different but Similar Problem in Automatic Music Classification,2001,0,FALSE,none,n/a,N/A
+Musical Information Retrieval for Delta and Neumatic Systems,2001,1,FALSE,non-musical,byzantine music,Other
+Adaptive User Modeling in a Content-Based Music Retrieval System,2001,0,FALSE,none,n/a,N/A
+Discovering Themes by Exact Pattern Matching,2001,0,FALSE,"used Bach example, but no dataset",Classical,Classical
+Melodic Resolution in Music Retrieval,2001,0,FALSE,used typed input not audio,n/a,N/A
+Sound Spotting – a Frame-Based Approach,2001,0,FALSE,none,n/a,N/A
+Music Database Retrieval Based on Spectral Similarity,2001,1,FALSE,"unspecified, 120 music pieces",unspecified,Doesn't Specify
