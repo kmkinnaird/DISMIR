@@ -1,0 +1,13 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Techniques for Automatic Music Transcription,2000,0,no,Unspecified,n/a,N/A
+Optical Music Recognition System within a Large-Scale Digitization Project,2000,1,no,"The Lester S. Levy
+Collection of Sheet Music","""american popular music"", not otherwise specified",Pop
+PROMS: A Web-based Tool for Searching in Polyphonic Music,2000,1,no,PROMS database,MIDI data,Doesn't Specify
+ARTHUR: Retrieving Orchestral Music by Long-Term Structure,2000,1,no,Unspecified (in-house),"Mostly classical with some rock (Pink Floyd, Beatles) and jazz (John Coltrane)","Classical, Pop, Rock, Jazz"
+Towards Instrument Segmentation for Music Content Description: a Critical Review of Instrument Classification Techniques,2000,0,no,n/a,n/a,N/A
+SEMEX - An efficient Music Retrieval Prototype,2000,1,no,"""database of 2million musical elements - notes and chords""",Excerpts,Single Instrument
+Mel Frequency Cepstral Coefficients for Music Modeling,2000,1,no,3 hours of labeled in-house data from a broadcast news show,n/a,N/A
+A Comparison of Language Modeling and Probabilistic Text Information Retrieval Approaches to Monophonic Music Retrieval,2000,1,no,"Meldex Collection: 9,400 North American, British, Irish and German folksongs, German ballads, and Chinese ethnic and provincial songs",folk,Folk
+XML4MIR: Extensible Markup Language for Music Information Retrieval,2000,0,no,n/a,n/a,N/A
+Audio Information Retrieval (AIR) Tools,2000,1,no,"""two hours of audio broken into 30 second sound files
+containing a variety of styles, textures, recording conditions and speakers.""","classical, modern, & jazz","Classical, Pop, Jazz"
