@@ -11,20 +11,18 @@ All reviewed papers can be found in the conference proceedings from the [ISMIR w
 ## Datasets
 ### Available Datasets
 There are 21 dataset .csv files available:
-- 1-20: Each individual conference, denoted by ismirdata_'conference year'.csv i.e. ismirdata_2019.csv
-- 21: ismirdata_full - concatenated dataset containing all years
+- 1-20: Papers from each individual conference, denoted by `ismirdata_'conference year'.csv` i.e. `ismirdata_2019.csv`
+- 21: `ismirdata_full` - joined dataset containing all years
 
 ### Dataset Content
 Each dataset contains the following variables:
 - `Paper Name`: 'str' - Title of reviewed paper
+- `Year`: 'fct' - Conference year the paper was accepted
 - `Num Datasets`: 'int' - Number of datasets used in paper
 - `Dataset Introduced`: 'bool' - True if paper introduced a newly available dataset, False otherwise
 - `Dataset Used`: 'str' - Description of datasets used in paper analysis
 - `Genre`: 'str' - Description of genres included in used datasets
 - `Genre Clean`: 'fct' - Standardized categorization of used genres
-
-Additionally, the ismirdata_full dataset alone contains the following variable:
-- `Year`: 'fct' - Conference year the paper was accepted
 
 ## Copyright Information
 This dataset is released under the MIT license.
