@@ -1,0 +1,144 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Integrating Musicology's Heterogeneous Data Sources for Better Exploration,2009,3,FALSE,"includes the  British  Library  Music  Collections  cata-logue,  the  British  Library  Sound  Archive  catalogue,  Ce-cilia, Copac, Grove Music Online, Naxos Music Library, RILM, and RISM UK and Ireland",various,Various
+An Ecosystem for Transparent Music Similarity in an Open World,2009,0,FALSE,NA,folk (both western and non),N/A
+Interfaces for Document Representation in Digital Music Libraries,2009,3,FALSE,"Google Books, Neue Mozart Ausgabe, Digital Image Archive of Medieval music, NMA",Image/ document archives - sheet music,Classical
+Body Movement in Music Information Retrieval,2009,1,FALSE,INA/GRM,Soundbite/media collection,Classical
+Who Is Who in the End? Recognizing Pianists by Their Final Ritardandi,2009,1,FALSE,commercial CD recordings  of  Chopin’s  Nocturnes,Classical (Chopin's Nocturnes,Classical
+"An Analysis of ISMIR Proceedings: Patterns of Authorship, Topic, and Citation",2009,0,FALSE,n/a,NA,N/A
+The ISMIR Cloud: A Decade of ISMIR Conferences at Your Fingertips,2009,1,FALSE,ismir publication data,na,N/A
+Towards Automated Extraction of Tempo Parameters from Expressive Music Recordings,2009,1,FALSE,RWC,"classical, jazz, pop",Various
+Probabilistic Segmentation and Labeling of Ethnomusicological Field Recordings,2009,1,FALSE,Ethno-Muse digital archive,3  second  long  field  recording  fragments--folk,Folk
+A Music Classification Method based on Timbral Features,2009,3,FALSE,"ISMIR 2004 genre classification dataset, artist20 dataset, and jazz17 dataset","6 different genres are contained within the ismir 2004 dataset, including ELC, JAZZ, ROCK, NWES, CLS, and POP. unspecified for artist20 dataset. jazz for the jazz17 dataset.",Various
+A Periodicity-based Theory for Harmony Perception and Scales,2009,0,NA,"none; chord and note based, not songs",Chords,N/A
+Automatic Generation of Musical Instrument Detector by Using Evolutionary Learning Method,2009,1,FALSE,in-house data,"100 files- pop, rock, jazz, world instruments - vocal, piano, guitar",Various
+Rhythmic Similarity in Traditional Turkish Music,2009,1,FALSE,presumably in-house data,traditional turkish music,Non-Western
+Pitched Instrument Onset Detection based on Auditory Spectra,2009,2,FALSE,"dataset from the MIREX 2006 beat tracking task, and a non-specific ""Cretan music"" dataset.","unable to determine for the MIREX 2006 beat tracking task as that information is held only by MIREX. SINST, NWES, and OT for the Cretan music.",Non Western
+Shades of Music: Letting Users Discover Sub-Song Similarities,2009,0,FALSE,none,na,N/A
+A Comparison of Score-Level Fusion Rules for Onset Detection in Music Signals,2009,2,FALSE,in-house and MIDI data,"""pitched nonpercussive (bowed strings), pitched percussive (e.g., piano),
+nonpitched percussive (e.g., drums) and complex mixtures
+(e.g., pop music)""",Single Instrument
+Lyric-based Song Emotion Detection with Affective Lexicon and Fuzzy Clustering Method,2009,1,FALSE,classified catalogue accord-ing to emotion in www.koook.com,"pop, rock & roll, and rap. All Chinese",Various
+Browsing Music Recommendation Networks,2009,1,FALSE,FM4 Soundpark,"any and all, artists of any kind can upload their music to the FM4 soundpark for free.",Other
+Full-Automatic DJ Mixing System with Optimal Tempo Adjustment based on Measurement Function of User Discomfort,2009,1,FALSE,18 songs from RWC music database,pop,Pop
+Fingering Watermarking in Symbolic Digital Scores,2009,1,FALSE,KernScores,classical (chopin piano),Classical
+Improving Musical Concept Detection by Ordinal Regression and Context Fusion,2009,1,FALSE,Computer Audition Lab 500-Song (cal500) dataset,"western, annotated w 135 musical concepts",Pop
+Template-based Chord Recognition : Influence of the Chord Types,2009,1,FALSE,The Beatles (13 different albums),"POP, ROCK","Pop, Rock"
+Tag-Aware Spectral Clustering of Music Items,2009,1,FALSE,last.fm tagging data,NA,N/A
+Multiple F0 Estimation in the Transform Domain,2009,1,FALSE,MIS,N/A,N/A
+Motive Identification in 22 Folksong Corpora Using Dynamic Time Warping and Self Organizing Maps,2009,1,FALSE,"22 folksong corpora,  each  of  them  consisting  of  600-2400  melodies, representing   Hungarian,   Slovak,   Moravian,   Chinese, Mongolian,    Kyrgyz,    Mari-Chuvash-Tatar,    Karachay-Balkar,  Anatolian  Turkish,  Azeri,  Sicilian,  Spanish,  Ru-manian,  Bulgarian,  Polish-  Cassubian,  Finnish,  Norwe-gian,    German,    Luxembourgian-Lotharingian, French, Dutch  and  Irish-Scottish-English    musical  traditions.",folk (both western and non),Folk
+Improving Rhythmic Similarity Computation by Beat Histogram Transformations,2009,1,FALSE,"from page 180, ""a diverse set of 753 songs from
+60 different genres and sub-genres was compiled"". no other specifics given.",Various,Various
+Using Source Separation to Improve Tempo Detection,2009,1,FALSE,20 publicly available MIREX 06 training excerpts; 27 thirty second electronic music clips,electronic music,Electronic
+A Mid-Level Representation for Capturing Dominant Tempo and Pulse Information in Music Recordings,2009,2,FALSE,"moslty in-house, also RWC","rwc(2 classical, 3 jazz, 2 pop) other: classical",Various
+Adaptive Multimodal Exploration of Music Collections,2009,1,FALSE,"In a first experiment we aurally presented an unknown song and measured the time needed to find it in a collection of about 100 tracks, that were randomly distributed over a flat exploration plane",Various,Various
+Singing Pitch Extraction from Monaural Polyphonic Songs by Contextual Audio Modeling and Singing Harmonic Enhancement,2009,2,FALSE,"MIR-1K, and ""commercial set"" (presumably in-house).","MIR-1K contains clips of chinese pop karaoke songs sung by the lab members, and ""commercial set"" is unspecified: Chinese Pop and Unspecfied",Various
+Usability Evaluation of Visualization Interfaces for Content-based Music Retrieval Systems,2009,1,FALSE,J-pop songs added to a collection of K-pop songs,k and j pop,"Pop, Non-Western"
+Music Paste: Concatenating Music Clips based on Chroma and Rhythm Features,2009,1,FALSE,in-house,chinese pop songs,"Pop, Non-Western"
+Musical Bass-Line Pattern Clustering and Its Application to Audio Genre Classification,2009,1,FALSE,GTZAN,"blues, classical, country, disco, hiphop, jazz, metal, pop,reggae, and rock",Various
+Unsupervised Detection of Cover Song Sets: Accuracy Improvement and Original Identification,2009,1,FALSE,"refers to citation [13], indicating ""J. Serra, X. Serra, and R. G. Andrzejak. Cross recurrence quantification for cover song identification. New Journal of Physics. Under review"" which lists its dataset as being ""a music collection comprising a total of 1953 commercial songs"" (pg 11). a second dataset is then referenced as being the ""MIREX 2008 audio cover song identification contest"" (pg 227).",DS,Various
+Using Musical Structure to Enhance Automatic Chord Transcription,2009,1,FALSE,125 beatles songs,pop and rock,"Pop, Rock"
+Visualising Musical Structure Through Performance Gesture,2009,1,FALSE,Chopin dataset (see notes),classical,Classical
+From Low-Level to Song-Level Percussion Descriptors of Polyphonic Music,2009,2,FALSE,"ENST-Drums, MAMI, in-house","classic, rock, jazz, dance, hip-hop, pop, r&b",Various
+Music Genre Classification Using Locality Preserving Non-Negative Tensor Factorization and Sparse Representations,2009,2,FALSE,"GTZAN, and the dataset used in the ISMIR 2004 Genre
+classification contest","non-specific ""10 genres"" for GTZAN, non-specific ""6 genres"" for the ISMIR 2004 dataset.",Various
+A Quantitative Evaluation of a Two Stage Retrieval Approach for a Melodic Query by Example System,2009,1,FALSE,self-compiled corpus of polyphonic midi files,pop and rock music including beatles,"Pop, Rock"
+A Web-based Approach to Determine the Origin of an Artist.,2009,1,FALSE,"Last.fm artist page, Freebase",N/A,N/A
+Chronicle: Representation of Complex Time Structures,2009,0,FALSE,na,na,N/A
+Efficient Acoustic Feature Extraction for Music Information Retrieval Using Programmable Gate Arrays,2009,1,FALSE,Magnatune Collection,various,Various
+Accelerating Query-by-Humming on GPU,2009,3,FALSE,"Roger Jang's corpus, Essen collection, subset of RISM A/II",children's songs (see: https://slideplayer.com/slide/9109985/),Other
+Learning to Control a Reverberator Using Subjective Perceptual Descriptors,2009,1,FALSE,"in-house: Prior to the study, a database of 1024
+impulse response functions was generated using the reverberator described in Section 3.1","refered to as ""audio examples, don't think genre applies",Other
+Interactive Gttm Analyzer,2009,1,FALSE,"gathered by a musicologist in house data: The musicologist collected
+three hundred 8-bar-long, monophonic, classical music
+pieces including notes, rests, slurs, accents, and articulations entered manually with music notation software
+called Finale",Classical,Classical
+Estimating the Error Distribution of a Single Tap Sequence without Ground Truth,2009,1,FALSE,"""Using live acoustic music, two sets of hand tap times
+were collected, and Figure 2 shows differences between
+corresponding hand tap times. In this example, the music
+was from a big-band jazz rehearsal"" (pg 300). As far as I can tell, only other reference to the data used in this paper is that ""Since our goal is to describe a representation and its theory, we show only a couple of typical examples from data collected from
+a growing collection of songs, performers, and tappers"" (pg 300).","Jazz, other",Jazz
+"Using ACE XML 2.0 to Store and Share Feature, Instance and Class Data for Musical Classification",2009,0,FALSE,none tech overview,na,N/A
+An Efficient Multi-Resolution Spectral Transform for Music Analysis,2009,0,FALSE,none,N/A,N/A
+Evaluation of Multiple-F0 Estimation and Tracking Systems,2009,3,FALSE,"MIREX (multi-f0, 2007, 2008), RWC, more data generated by by recording a MIDI-controlled Disklavier playback piano","classical, monophonic",Classical
+"Scalability, Generality and Temporal Aspects in Automatic Recognition of Predominant Musical Instruments in Polyphonic Music",2009,2,FALSE,"The public datasets are later elaborated on as being ""the ENST-Drums database [12] and the MAMI database"" (pg 323).","jazz, classical, pop, rock",Various
+Musical Instrument Recognition in Polyphonic Audio Using Source-Filter Model for Sound Separation,2009,1,FALSE,RWC Music Instrument sound DB,single instrument four note clips,Single Instrument
+Harmonically Informed Multi-Pitch Tracking,2009,1,FALSE,Recordings of 10 music performances,Classical,Classical
+Continuous pLSI and Smoothing Techniques for Hybrid Music Recommendation,2009,1,FALSE,Japanese songs recorded insingle CDs that were ranked in weekly top-20 sales rank-ings from Apr. 2000 to Dec. 2005. -- in-house data,J-pop,"Pop, Non-Western"
+Steerable Playlist Generation by Learning Song Similarity from Radio Station Playlists,2009,1,FALSE,"""Radio Paradise"", an online radio station, and ""Yes Radio"", another online radio station (located at yes.com).",Various (both),Various
+Evaluating and Analysing Dynamic Playlist Generation Heuristics Using Radio Logs and Fuzzy Set Theory,2009,1,FALSE,last.fm user playlist addition data,na,N/A
+Smarter than Genius? Human Evaluation of Music Recommender Systems,2009,1,FALSE,In-house,"The genres include rock, alternative, punk, soft rock, classic rock, folk, pop, electronica, experimental, blues, jazz, soul and hip-hop",Various
+Tag Integrated Multi-Label Music Style Classification with Hypergraph,2009,1,FALSE,"""For experimental purpose, we created a data set consisting of 403 artists."" - in-house",Doesn't specify,Other
+Easy As CBA: A Simple Probabilistic Model for Tagging Music,2009,1,FALSE,CAL500,Western pop,Pop
+Using Artist Similarity to Propagate Semantic Information,2009,1,FALSE,3500 artists and tags from Pandora's Music Genome Project,"no audio or specific songs, just artists",Other
+Music Mood Representations from Social Tags,2009,1,FALSE,"Last.fm, others are unclear","""social tags from 5,000 main genres on last.fm""",Other
+Evaluation of Algorithms Using Games: The Case of Music Tagging,2009,1,FALSE,TagATune dataset,"Genres include Classical, New Age, Elec-tronica, Rock, Pop, World, Jazz, Blues, Metal, Punk etc.",Various
+Automatic Identification for Singing Style based on Sung Melodic Contour Characterized in Phase Plane,2009,1,FALSE,"""The following singing signals of six singers were used: one of each gender in the categories of professional classical, professional pop, and amateur. With/without musical accompaniment, each subject sang songs with Japanese lyrics and hummed. The songs were “Twinkle, Twinkle, Little Star”, and “Ode to Joy” and five etudes."" (pg 395)",other?,Other
+Using Regression to Combine Data Sources for Semantic Music Discovery,2009,3,FALSE,"Lastfm, Pandora Music Genome Project and In-House",Various,Various
+Lyric Text Mining in Music Mood Classification,2009,3,FALSE,"in-house data, Last.fm, Lyricwiki.org, Magnatune","US Pop, USCRAP, American Music, Metal Music, Beatles, , Assorted Pop",Various
+Robust and Fast Lyric Search based on Phonetic Confusion Matrix,2009,1,FALSE,"""A database of 10000 lyrics was collected containing both Japanese and English lyrics""","lyrics, no actual music. doesn't specify genre",Other
+Using Harmonic and Melodic Analyses to Automate the Initial Stages of Schenkerian Analysis,2009,1,FALSE,Chopin and Schubert.,classical,Classical
+Hierarchical Sequential Memory for Music: A Cognitive Model,2009,0,FALSE,none,n/a,N/A
+Additions and Improvements in the ACE 2.0 Music Classifier,2009,0,FALSE,none - seems more of an overview about the new changes to ACE 2.0,N/A,N/A
+A Probabilistic Topic Model for Unsupervised Learning of Musical Key-Profiles,2009,1,FALSE,collection of 235 MIDIfiles compiled from http://www.classicalmusicmidipage.com,classical,Classical
+Publishing Music Similarity Features on the Semantic Web,2009,2,FALSE,SoundBite and MusicBrainz,"various, unspecified",Various
+Genre Classification Using Bass-Related High-Level Features and Playing Styles,2009,2,FALSE,"We use two data sets consisting of symbolic (MIDI) and real audio (AUDIO) each with 50 respectively 40 excerpts from each of the genres PopRock (POP), Swing (SWI), Latin (LAT), Funk (FUN), Blues (BLU), and MetalHardRock (MHR).",Various,Various
+From Multi-Labeling to Multi-Domain-Labeling: A Novel Two-Dimensional Approach to Music Genre Classification,2009,1,FALSE,GlobalMusic2One: uses 16 world music genres,world music,Non Western
+21st Century Electronica: MIR Techniques for Classification and Performance,2009,1,FALSE,"""six  genres  across  the  spectrum  of  electronic music were selected for their diverse character-istics and wide-spread popularity. ""--probably in-house?","intelligent dance music (IDM), house, techno drum and bass (DnB), trance, and downtempo",Electronic
+Relationships Between Lyrics and Melody in Popular Music,2009,1,FALSE,"""Our database consisted of 679 popular music lead sheets in MusicXML format. 229 of our lead sheets came from a private collection; the remaining 450 came from Wikifonia.org, an online lead sheet repository. Our data spans a variety of popular genres, including pop, rock, R&B, country, Latin, and jazz, with a small sampling of folk music.""",various,Various
+RhythMiXearch: Searching for Unknown Music by Mixing Known Music,2009,1,FALSE,356 songs with one genre and at leaszt 20 ratings from Amazon,various (11 genres total),Various
+Musical Structure Retrieval by Aligning Self-Similarity Matrices,2009,1,FALSE,CDM (database created by Queen Mary University),XML annotations of western pop songs,Pop
+Exploring African Tone Scales,2009,1,TRUE,audio archive of the RMCA (Royal Museum for Central Africa) in Belgium,Central African Music,Non-Western
+A Discrete Filter Bank Approach to Audio to Score Matching for Polyphonic Music,2009,1,FALSE,recordings from CD collections,classical,Classical
+Accelerating Non-Negative Matrix Factorization for Audio Source Separation on Multi-Core and Many-Core Architectures,2009,0,FALSE,no music data of any kind,NA,N/A
+Musical Models for Melody Alignment,2009,1,FALSE,Dutch Song Database,Folk,Folk
+Heterogeneous Embedding for Subjective Artist Similarity,2009,1,FALSE,"aset400 data set of Ellis, et al [9]. (D. Ellis, B. Whitman, A. Berenzweig, and S. Lawrence. The  quest  for  ground  truth  in  musi-cal artist similarity. In Proceedings of the International Symposium on Music Information Retrieval (ISMIR2002), pages 170–177, October 2002.)",Pop,Pop
+The Intersection of Computational Analysis and Music Manuscripts: A New Model for Bach Source Studies of the 21st Century,2009,0,FALSE,"The Well-Tempered Clavier II, by Bach",classical,Classical
+On Rhythm and General Music Similarity,2009,1,FALSE,ISMIR '04 Genre Class and Homburg dataset,recordings from 6 genres,Various
+Grouping Recorded Music by Structural Similarity,2009,2,FALSE,"S67 (in house), P56",classical piano recordings,Classical
+A Filter-and-Refine Indexing Method for Fast Similarity Search in Millions of Music Tracks,2009,1,FALSE,"""collection of 2.5 million songs to evaluate the performance and to show the practicalfeasibility of our approach. The 2.5 million tracks consist of 30 second snippets of songs gathered by crawling an online music store offering free audio preview files.""",30 second snippets,Various
+A Measure of Melodic Similarity based on a Graph Representation of the Music Structure,2009,1,FALSE,"the MIREX 2005 dataset for the Symbolic Melodic
+Similarity which is based on the RISM ds",doesn't specify,Other
+Modeling Harmonic Similarity Using a Generative Grammar of Tonal Harmony,2009,1,FALSE,assembled dataset of 72 web-scraped Band-in-a-Box chord label sequences,jazz,Jazz
+Symbolic and Structural Representation of Melodic Expression,2009,1,FALSE,in-house,"folk songs, folk-like songs, christmas carols, popular music from various eras",Folk
+Use of Hidden Markov Models and Factored Language Models for Automatic Chord Recognition,2009,1,FALSE,"""songs taken from 12 Beatles albums, ground-truth annota-tions for which were kindly provided by C. A. Harte""",Beatles,"Pop, Rock"
+Auditory Spectral Summarisation for Audio Signals with Musical Applications,2009,0,FALSE,"The Well-Tempered Clavier, by Bach, and norwegian wood by the Beatles",Classical and Pop/Rock,Various
+Cover Song Retrieval: A Comparative Study of System Component Choices,2009,4,FALSE,"4 used: Covers80, beethoven piano sonatas, Songs (recordings of student competition performances and other covers), and Beatles (original and cover beatles songs)","Classical, coversongs, beatles",Various
+Augmenting Text-based Music Retrieval with Audio Similarity: Advantages and Limitations,2009,2,FALSE,"c35k, CAL500",western pop songs,Pop
+Improving Accuracy of Polyphonic Music-to-Score Alignment,2009,1,FALSE,"""database consisting of the first movements of 11 Mozart sonatas played by a professional pianist."" - in house",classical,Classical
+Formalizing Invariances for Content-based Music Retrieval,2009,0,FALSE,NA,NA,N/A
+Calculating Similarity of Folk Song Variants with Melody-based Features,2009,1,FALSE,subset of 650 songs from Ethnomuse archive,dutch/slovenian folk songs,Folk
+Automatic Generation of Lead Sheets from Polyphonic Music Signals,2009,1,FALSE,BIAB,Pop and Rock,"Pop, Rock"
+Minimum Classification Error Training to Improve Isolated Chord Recognition,2009,1,FALSE,"""The evaluation database is the set of studio albums by The Beatles, which were transcribed at the chord level by Chris Harte et. al[10]."" (C.  Harte,  M.  Sandler,  S.  Abdallah,  and  E.  G ́omez“Symbolic Representation of Musical Chords:  A Pro-posed  Syntax  for  Text  Annotations,”Proc. ISMIR,pp. 66-71, 2005.)",Beatles,"Pop, Rock"
+A Method for Visualizing the Pitch Content of Polyphonic Music Signals,2009,2,FALSE,"McGill University Master Samples (MUMS) database, RWC Pop and RWC Genre","Instrument samples, Pop, and ?",Various
+Prediction of Multidimensional Emotional Ratings in Music from Audio Using Multivariate Regression Models,2009,1,FALSE,360 unidentified audio excerpts,doesn't specify,Doesn't Specify
+Optical Audio Reconstruction for Stereo Phonograph Records Using White Light Interferometry,2009,0,FALSE,n/a,n/a,N/A
+Song Ranking based on Piracy in Peer-to-Peer Networks,2009,1,FALSE,"Songs determined from P2P Search Queries and Billboard Hot 100, data collected independently",Pop,Pop
+Meter Class Profiles for Music Similarity and Retrieval,2009,2,FALSE,"""Two databases are considered in this paper. The first one is composed of short artificial audio musical pieces (60 seconds long at 16 kHz) that have been synthesized according to different metric properties... The second database is a collection of real pop audio songs indexed using the time signature."" (pg 641)","unspecified for the first dataset, pop for the second",Pop
+Sheet Music-Audio Identification,2009,1,FALSE,dataset gotten from 5 sheet music books - all classical,classical,Classical
+SMERS: Music Emotion Recognition Using Support Vector Regression,2009,3,FALSE,"AllMusic.com, Last.fm, in-house data",covered almost all music genres...,Various
+Music Mood and Theme Classification - a Hybrid Approach,2009,1,FALSE,AllMusic.com,allmusic.com pages corresponding to music themes and moods,Other
+Using XML-Formatted Scores in Real-Time Applications,2009,0,FALSE,NA,NA,N/A
+Genre Classification Using Harmony Rules Induced from Automatic Chord Transcriptions,2009,1,FALSE,popular and jazz and academic) - data provided from university (in-house),"popular, jazz, and academic (classical),blues, celtic, pop",Various
+SongExplorer: A Tabletop Application for Exploring Large Collections of Songs,2009,0,FALSE,no dataset used,N/A,N/A
+An Efficient Signal-Matching Approach to Melody Indexing and Search Using Continuous Pitch Contours and Wavelets,2009,1,FALSE,"from  the  RWC  Music  Database  [11],  and  the  rest were commercially-distributed pop songs",Various and pop,Pop
+Tonal-Atonal Classification of Music Audio Using Diffusion Maps,2009,2,FALSE,"no specific databases are referenced, the paper used ""25 complete atonal pieces
+composed by Boulez, Schoenberg and Webern"" (pg 690) and ""the audio of monophonic instrument sounds playing major scales"" (pg 690).",classical,Classical
+Easy Does It: The Electro-Acoustic Music Analysis Toolbox,2009,1,FALSE,Machine Stops by Tae Hong Park and Riverrun by Barry Truax,electro-acoustic?,Electronic
+MIR in ENP - Rule-based Music Information Retrieval from Symbolic Music Notation,2009,1,FALSE,In-house,Tango music?,Other
+An Integrated Approach to Music Boundary Detection,2009,1,FALSE,RWC  music  dataset,pop (both American and Japanese),Pop
+Automatic Detection of Internal and Imperfect Rhymes in Rap Lyrics,2009,1,FALSE,"""Our training corpus includes the lyrics of 31
+influential albums from the “Golden Age” of rap (1984-
+1994), chosen because they received the highest rating
+from The Source, the top-selling US rap music magazine
+of the time, plus nine additional albums by influential
+artists from the time period (Run-DMC, LL Cool J, The
+Beastie Boys, Public Enemy, Eric B. and Rakim)"" (pg 712).",rap,Rap
+Slave: A Score-Lyrics-Audio-Video-Explorer,2009,0,FALSE,none,n/a,N/A
+Lyric Extraction and Recognition on Digital Images of Early Music Sources,2009,1,FALSE,DIAMM: medieval music images,Medieval Music,Other
+Global Feature Versus Event Models for Folk Song Classification,2009,1,FALSE,Europa-6 collection,European folk,Folk
+Robust Segmentation and Annotation of Folk Song Recordings,2009,1,FALSE,"""folk song
+recordings of the Onder de groene linde"" (pg 735)",dutch folk songs,Folk
+Supporting Folk-Song Research by Automatic Metric Learning and Ranking,2009,1,FALSE,onder de groene linde - a collection of dutch folksongs,Folk songs,Folk
+Exploring Social Music Behavior: An Investigation of Music Selection at Parties,2009,0,FALSE,none,N/A,N/A
+Music and Geography: Content Description of Musical Audio from Different Parts of the World,2009,1,FALSE,in-house,various western + nonwestern,Various
+You Call That Singing? Ensemble Classification for Multi-Cultural Collections of Music Recordings,2009,1,FALSE,"""The Lomax data set consisted of 1000 tracks from all over the globe including recordings sung in different languages, music played on “exotic” instruments, singing, polyrhythmic as well as rhythmically free melodies, nondiatonic, non-tempered scales, a great diversity of voice timbres, rhythms, harmonies and textures from heterophonic to uncoordinated, with considerable variation in the social organization of the performing group."" (pg 760)",presumably both western and nonwestern?,Various
