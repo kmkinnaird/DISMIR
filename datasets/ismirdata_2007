@@ -1,0 +1,130 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Fuzzy Song Sets for Music Warehouses,2007,2,FALSE,"Intelligent Sound, Music Brainz",Various (both),Various
+Music Clustering with Constraints,2007,1,FALSE,in-house,"Pop, Rock","Pop, Rock"
+Sequence Representation of Music Structure Using Higher-Order Similarity Matrix and Maximum-Likelihood Approach,2007,1,FALSE,MPEG-7,"alanis morisette, pink floyd, nirvana, beatles","Pop, Rock"
+Algorithms for Determining and Labelling Approximate Hierarchical Self-Similarity,2007,1,FALSE,in-house mazurka collection,Classical,Classical
+Transposition-Invariant Self-Similarity Matrices,2007,1,FALSE,in-house,Classical,Classical
+A Supervised Approach for Detecting Boundaries in Music Using Difference Features and Boosting,2007,1,FALSE,RWC,Pop,Pop
+Automatic Derivation of Musical Structure: A Tool for Research on Schenkerian Analysis,2007,0,FALSE,N/A,N/A,N/A
+Improving Genre Classification by Combination of Audio and Symbolic Descriptors Using a Transcription Systems,2007,3,FALSE,"GTZAN, ISMIRrhythm, ISMIRgenre","Various (1), Latin American & ballroom (2), Various (3)","Various, Other"
+"Exploring Mood Metadata: Relationships with Genre, Artist and Usage Metadata",2007,3,FALSE,"AllMusicGuide.com, epinions.com, Last.fm","Doesn't specify (calls them music databases, but may be popular music, or that databases themselves are popular) (all)",Other
+How Many Beans Make Five? The Consensus Problem in Music-Genre Classification and a New Evaluation Method for Single-Genre Categorisation Systems,2007,1,FALSE,MAMI,Various,Various
+Bayesian Aggregation for  Hierarchical Genre Classification,2007,1,FALSE,MIREX 2005 symbolic genre classification dataset,Various,Various
+Finding New Music: A Diary Study of Everyday Encounters with Novel Songs,2007,0,FALSE,N/A,N/A,N/A
+Improving Efficiency and Scalability of Model-Based Music Recommender System Based on Incremental Training,2007,1,FALSE,"in-house: ""Japanese songs on single CDs that were ranked in the weekly top-20 sales rankings""",J-Pop,Pop
+Virtual Communities for Creating Shared Music Channels,2007,1,FALSE,"EasyAccess, MovieLens","Doesn't specify (1), N/A (2)","Doesn't Specify, N/A"
+MusicSun: A New Approach to Artist Recommendation,2007,1,FALSE,in-house created by web scraping,Various,Various
+"Evaluation of Distance Measures Between Gaussian Mixture Models of MFCCs, → poster",2007,2,FALSE,"900 synthesized MIDI songs with 30 different melodies and 30 different instruments, MIREX 2004 genre dataset","Doesn't specify (1), Various (2)","Doesn't Specify, N/A"
+"An Analysis of the Mongeau-Sankoff Algorithm for Music Information Retrieval, → poster",2007,1,FALSE,symbolic melodic similarity task of MIREX 2005.,Doesn't specify,Doesn't Specify
+Assessment of Perceptual Music Similarity,2007,1,FALSE,in-house,Pop,Pop
+"jWebMiner: A Web-Based Feature Extractor, → poster",2007,3,FALSE,"iTunes  XML, ACE XML, Weka ARFF",Doesn't specify (all 3),Doesn't Specify
+Meaningfully Browsing Music Services,2007,1,FALSE,in-house,Various,Various
+"Web-Based Detection of Music Band Members and Line-Up, → poster",2007,1,FALSE,in-house,Metal,Rock
+"Tool Play Live: Dealing with Ambiguity in Artist Similarity Mining from the Web, → poster",2007,2,FALSE,"small set and large set, both in-house
+",Various (both),Various
+"Keyword Generation for Lyrics, → poster",2007,1,FALSE,DigiTrad,Folk,Folk
+Towards Musicdiff: A Foundation for Improved Optical Music Recognition Using Multiple Recognizers,2007,2,FALSE,"""original collection of pieces from thefeasibility study by Byrd and Schindele"", ""second data set wascreated from a collection of unaccompanied recorder mu-sic (Van Eyck, 1986) ""","Classical (1), Doesn't Specify (2)","Classical, Doesn't Specify"
+"MIR in Matlab (II): A Toolbox for Musical Feature Extraction from Audio, → poster",2007,0,FALSE,N/A,N/A,N/A
+"A Demonstration of the SyncPlayer System, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Performance of Philips Audio Fingerprinting under Desynchronisation, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Robust Music Identification, Detection, and Analysis, → poster",2007,1,FALSE,in-house,Doesn't specify,Doesn't Specify
+"Audio Identification Using Sinusoidal Modeling and Application to Jingle Detection, → poster",2007,1,FALSE,extracts of jingles from the French news radio  France Info,Jingles,Other
+Audio Fingerprint Identification by Approximate String Matching,2007,1,FALSE,"in-house --- ""fingerprints of 350 songs of approximately 4 minutes each""",Doesn't specify,Doesn't Specify
+"Desoloing Monaural Audio Using Mixture Models, → poster",2007,1,FALSE,"an excerpt from the 2nd move-ment of Oboe Concerto in C major, K. 314, by Mozart",Classical,Classical
+"Monaural Source Separation from Musical Mixtures Based on Time-Frequency Timbre Models, → poster",2007,3,FALSE,"single notes, note sequences, chords (all in-house) > RWC Music Instrument DB",Single instrument genre N/A (all 3),Single Instrument
+"Indexing Music Collections Through Graph Spectra, → poster",2007,1,FALSE,Onder de groene linde,Dutch folk songs,Folk
+"Metadata Infrastructure for Sound Recordings, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Enabling Access to Sound Archives Through Integration, Enrichment and Retrieval: The EASAIER Project, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Musical Memory of the World - Data Infrastructure in Ethnomusicological Archives, → poster",2007,0,FALSE,N/A,N/A,N/A
+"A Digital Collection of Brazilian Lundus, → poster",2007,1,TRUE,Dpace,Brazilian lundu,Non Western
+"Alternative Digitization Approach for Stereo Phonograph Records Using Optical Audio Reconstruction, → poster",2007,1,FALSE,33rpm long-playing stereo records,Doesn't specify,Doesn't Specify
+"Globe of Music - Music Library Visualization Using Geosom, → poster",2007,1,FALSE,training part of the ISMIR Genre Classifi-cation Collection of the ISMIR 2004 contest,Various,Various
+"Strike-A-Tune: Fuzzy Music Navigation Using a Drum Interface, → poster",2007,1,FALSE,"in-house --- ""one of the authors 3207 song personal music library""",Doesn't specify,Doesn't Specify
+"Using 3D Visualizations to Explore and Discover Music, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Music Browsing Using a Tabletop Display, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Search & Select – Intuitively Retrieving    Music from Large Collections, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Ensemble Learning for Hybrid Music Recommendation, → poster",2007,1,FALSE,"in-house ""dataset containing a collection of 63,949 popular music pieces""",Pop,Pop
+Music Recommendation Mapping and Interface Based on Structural Network Entropy,2007,1,FALSE,MyStrands,Various,Various
+"Influence of Tempo and Subjective Rating of Music in Step Frequency of Running, → poster",2007,1,FALSE,in-house (selected from songs participants ran to),Doesn't specify,Doesn't Specify
+"Sociology and Music Recommendation Systems, → poster",2007,0,FALSE,N/A,N/A,N/A
+Visualizing Music: Tonal Progressions and Distributions,2007,2,FALSE,in-house (both),"Classical (1), Armenian traditional music (2)","Classical, Other"
+Localized Key Finding from Audio Using Nonnegative Matrix Factorization for Segmentation,2007,3,FALSE,"in-house, Naxos set, ""music taken from the Tonal Harmony textbook by Kostka and Payne""","Pop (1), Classical (2-3)","Classical, Pop"
+Pitch Spelling with Conditionally Independent Voices,2007,1,FALSE,in-house,Classical,Classical
+A Symmetry Based Approach for Musical Tonality Analysis,2007,1,FALSE,"""probe tone ratings of 12 major and 12 minor keys""",N/A,N/A
+Polyphonic Instrument Recognition Using Spectral Clustering,2007,1,FALSE,"""combination of 54 differ-ent instruments and mixtures of 2-, 3- and 4-notes wascreated (i.e. 18 audio files for each case)""","Single instrument, genre N/A",Single Instrument
+Supervised and Unsupervised Sequence Modelling for Drum Transcription,2007,1,FALSE,ENST-Drums,Various,Various
+Combining Temporal and Spectral Features in HMM-Based Drum Transcription,2007,3,FALSE,"in-house ""simple drums"", in-house ""complex drums, RWC
+","Doesn't specify (1+2), Pop","Single Instrument, Pop"
+Improving the Classification of Percussive Sounds with Analytical Features: A Case Study,2007,1,FALSE,"""2448 complete Pandeiro sounds (408 of each 6 types)""","Single instrument, genre N/A",Single Instrument
+Automatic Instrument Recognition in a Polyphonic Mixture Using Sparse Representations,2007,4,FALSE,"RWC Musical Intrument Sound Database, Iowa database, Studio online database, ""artificial  mixes  of  solo  phrases  extracted  from  commercial  CDs""",Single instrument genre N/A (all),Single Instrument
+"Audio-Based Cover Song Retrieval Using Approximate Chord Sequences: Testing Shifts, Gaps, Swaps and Beats",2007,1,FALSE,"in-house ""collection of 3208 mp3 files of commercially-available music""","Pop, Rock","Pop, Rock"
+A Unified System for Chord Transcription and Key Extraction Using Hidden Markov Models,2007,1,FALSE,"""excerpts and the 48 fugue subjects from the Well-Tempered Clavier"" AND 2 Beatles Albums",Classical,"Classical, Pop"
+A Cross-Validated Study of Modelling Strategies for Automatic Chord Recognition in Audio,2007,1,FALSE,in-house data of 20 Beatles songs,"Pop, Rock","Pop, Rock"
+Discovering Chord Idioms Through Beatles and Real Book Songs,2007,2,FALSE,"Harte's Beatles Chord Database, the Real Book","Pop/Rock (1), Jazz (2)","Pop, Jazz"
+Automated Synchronization of Scanned Sheet Music with Audio Recordings,2007,1,FALSE,"""data provided by the Bavarian State Library""",Classical,Classical
+A Probabilistic Framework for Matching Music Representations,2007,1,FALSE,RWC Musical Instrument Sound Database,Single instrument/ N/A,Single Instrument
+A Methodology for the Segmentation and Identification of Music Works,2007,1,FALSE,in-house,Classical,Classical
+Polyphonic Music Note Onset Detection Using Semi-Supervised Learning,2007,1,FALSE,RWC - notes from Blue Danube?,Classical,Classical
+ATTA: Implementing GTTM on a Computer,2007,0,FALSE,N/A,N/A,N/A
+"An Experiment on the Role of Pitch Intervals in Melodic Segmentation, → poster",2007,1,FALSE,short melodic sequences,"snippets, genre N/A",N/A
+"Vivo - Visualizing Harmonic Progressions and Voice-Leading in PWGL, → poster",2007,0,FALSE,N/A,N/A,N/A
+"Visualizing Music on the Metrical Circle, → poster",2007,1,FALSE,Essen Folksong Database,Irish folk songs,Folk
+"Applying Rhythmic Similarity Based on Inner Metric Analysis to Folksong Research, → poster",2007,1,FALSE,Onder de groene linde,Dutch folk songs,Folk
+"Music Retrieval by Rhythmic Similarity Applied on Greek and African Traditional Music, → poster",2007,2,FALSE,"in-house, archives of the Royal Museum of Central-Africa in Tervuren","Greek Traditional dance Music (1), Traditional African Music (2)",Non Western
+"An Application of Empirical Mode Decomposition on Tempo Induction from Music Recordings, → poster",2007,1,FALSE,400 recordings found at http://www.di.uoa.gr/pikrakis/tempo.html,"Pop, Rock, Greek Tradiational","Pop, Rock, Folk"
+"A Dynamic Programming Approach to the Extraction of Phrase Boundaries from Tempo Variations in Expressive Performances, → poster",2007,1,FALSE,performances of Chopin,Classical,Classical
+Creating a Simplified Music Mood Classification Ground-Truth Set,2007,2,TRUE,"USPOP, Last.fm,","Pop (1), Various (2)","Pop, Various"
+"Assessment of State-of-the-Art Meter Analysis Systems with an Extended Meter Description Model, → poster",2007,2,FALSE,"data used in MIREX2006 beat tracking and tempo detection contests, data used in M. McKinney and D. Moelants,“Ambiguity in tempo perception:  what draws listeners to different metrical levels?",Doesn't specify (both),Doesn't Specify
+"Evaluation of Real-Time Audio-to-Score Alignment, → poster",2007,1,FALSE,MIREX06 Score Following Reference Database,Classical,Classical
+"Evaluating a Chord-Labelling Algorithm, → poster",2007,1,FALSE,80% of 1178 beats from 12 songs with chord root and type identical to solution provided by 1 expert(Rhodes et al. 2007),Doesn't specify,Doesn't Specify
+"A Qualitative Assessment of Measures for the Evaluation of a Cover Song Identification System, → poster",2007,1,FALSE,database of 2054 songs,Doesn't specify,Doesn't Specify
+The Music Information Retrieval Evaluation Exchange ``Do-It-Yourself'' Web Service,2007,0,FALSE,N/A,N/A,N/A
+Preliminary Analyses of Information Features Provided by Users for Identifying Music,2007,1,FALSE,Google Answers,Various?,N/A
+Finding Music in Scholarly Sets and Series: The Index to Printed Music (IPM),2007,1,TRUE,Index to Printed Music,Various?,Various
+"Towards Query by Singing/Humming on Audio Databases, → poster",2007,1,FALSE,in-house,"Pop, Rock, Beat, Soul","Pop, Rock, Beat, Soul"
+"A Query by Humming System that Learns from Experience, → poster",2007,1,FALSE,QBSH corpus used  during  the  2006  MIREX comparison  of  query-by-humming systems,"Beatles (Pop, Rock), Folk, Classical","Pop, Folk, Classical"
+"Classifying Music Audio with Timbral and Chroma Features, → poster",2007,1,FALSE,uspop2002 (w some additions),Pop,Pop
+A Closer Look on Artist Filters for Musical Genre Classification,2007,1,FALSE,ISMIR 2004,Various,Various
+A Demonstrator for Automatic Music Mood Estimation,2007,1,FALSE,"in-house ""1059 excerpts from 12 music genres across 12 subjects""",Various,Various
+"Mood-ex-Machina: Towards Automation of Moody Tunes, → poster",2007,1,FALSE,"collection consisting of around 30,000 songs",Various,Various
+"Pedagogical Transcription for Multimodal Sitar Performance, → poster",2007,1,FALSE,music performed for study on sitar,North Indian Classical Music,"Classical, Non-Western"
+"Drum Transcription in Polyphonic Music Using Non-Negative Matrix Factorisation, → poster",2007,1,FALSE,1 minute song divided into 5-second chunks,Jazz,Jazz
+"A Simple Algorithm for Automatic Generation of Polyphonic Piano Fingerings, → poster",2007,0,NA,N/A,N/A,N/A
+"Tuning Frequency Estimation Using Circular Statistics, → poster",2007,1,FALSE,"""for ISMIR 2004 Audio Description Contest, the Music Technology Group of the Pompeu Fabra University assembled a diverse set of 20 polyphonic musical audiopieces""","Jazz, Pop, Opera","Jazz, Pop, Opera"
+"TagATune: A Game for Music and Sound Annotation, → poster",2007,1,FALSE,FreeSound database,Various,Various
+"A Web-Based Game for Collecting Music Metadata, → poster",2007,1,FALSE,Doesn't specify,Various,Various
+"Autotagging Music Using Supervised Machine Learning, → poster",2007,1,FALSE,Last.fm,Various,Various
+"Phoneme Recognition in Popular Music, → poster",2007,1,FALSE,Doesn't specify,Pop,Pop
+"A Stochastic Representation of the Dynamics of Sung Melody, → poster",2007,1,FALSE,RWC Pop,Pop,Pop
+"Singing Melody Extraction in Polyphonic Music by Harmonic Tracking, → poster",2007,2,FALSE,"MIREX 2005 Audio Melody Extraction test set, ISMIR2004 Audio Melody Extraction test set","Doesn't specify (1), Pop (2)","Doesn't Specify, Pop"
+"Singer Identification in Polyphonic Music Using Vocal Separation and Pattern Recognition Methods, → poster",2007,1,FALSE,created for study,Doesn't specify,Doesn't Specify
+Multipitch Analysis with Harmonic Nonnegative Matrix Approximation,2007,1,FALSE,in-house,Classical,Classical
+Automatic Transcription of Music Audio Through Continuous Parameter Tracking,2007,1,FALSE,in-house,Classical,Classical
+Synthesized Polyphonic Music Database with Verifiable Ground Truth for Multiple F0 Estimation,2007,1,FALSE,RWC Musical Instrument Sound Database,Single Instrument genre N/A,Single Instrument
+High Time-Resolution Estimation of Multiple Fundamental Frequencies,2007,2,FALSE,"RWC Music Instrument Sound database, University of Iowa Musical Instrument Samples database",Single Instrument genre N/A (both),Single Instrument
+Identifying Words that are Musically Meaningful,2007,2,FALSE,"CAL500, Web2131","Pop (1), doesn't specify (2)","Pop, Doesn't Specify"
+A Semantic Space for Music Derived from Social Tags,2007,1,FALSE,"""5,722 tracks drawn from all of the mainstream genres""",Various,Various
+The Music Ontology,2007,0,FALSE,N/A,N/A,N/A
+Signal + Context = Better Classification,2007,1,FALSE,in-house,Doesn't specify,Doesn't Specify
+Raag Recognition Using Pitch-Class and Pitch-Class Dyad Distributions,2007,1,FALSE,in-house,Non-western (Indian raag),Non-Western
+Towards a Human-Friendly Melody Characterization by Automatically Induced Rules,2007,4,FALSE,"small (in-house), large (in-house), RWC Genre, RWC Popular","Classical/Jazz/Pop (1&2), Various (3), Pop (4)","Classical, Jazz, Pop"
+Stereo Panning Features for Classifying Recording Production Style,2007,2,FALSE,both in-house,"Rock (1), Jazz (2)","Rock, Jazz"
+VISA: The Voice Integration/Segregation Algorithm,2007,1,FALSE,in-house,"Classical, Ragtime",Classical
+Using Pitch Stability Among a Group of Aligned Query Melodies to Retrieve Unidentified Variant Melodies,2007,1,FALSE,in-house,"Dutch folk songs, ring-tone melodies","Folk, Other"
+Algorithms for Polyphonic Music Retrieval: The Hausdorff Metric and Geometric Hashing,2007,1,FALSE,KernScores,Classical,Classical
+Content-Based Music Retrieval Using Query Integration for Users with Diverse Preferences,2007,1,FALSE,uspop2002,Pop,Pop
+A Music Information Retrieval System Based on Singing Voice Timbre,2007,1,FALSE,RWC Music Database: Popular Music: RWC-MDB-P-2001,Pop,Pop
+Methodological Considerations in Studies of Musical Similarity,2007,1,FALSE,in-house,Pop,Pop
+Similarity Based on Rating Data,2007,1,FALSE,"1,449,335 ratings of jazz songs provided by users of the Yahoo",Jazz,Jazz
+A Study on Attribute-Based Taxonomy for Music Information Retrieval,2007,1,FALSE,USpop2002,Pop,Pop
+Variable-Size Gaussian Mixture Models for Music Similarity Measures,2007,1,FALSE,Magnatune,Various,Various
+Comparative Analysis of Multiple Musical Performances,2007,1,FALSE,"2,500 recorded performances for 49 of Chopin’s mazurkas",Classical,Classical
+The Probado Music Repository at the Bavarian State Library,2007,1,NA,Bavarian State Library,Classical and recordings of German Piano Songs?,Classical
+Towards Integration of MIR and Folk Song Research,2007,0,FALSE,N/A,N/A,N/A
+A Comparative Survey of Image Binarisation Algorithms for Optical Recognition on Degraded Musical Sources,2007,1,FALSE,five 16th-century music books >> RISM,Old music? Doesn't specify really,Classical
+MAP Adaptation to Improve Optical Music Recognition of Early Music Documents Using Hidden Markov Models,2007,1,FALSE,sixteenth-century music prints held at the Marvin Duchow Music Library at McGill University and the Isham Memorial Library at Harvard University.,Old music? Doesn't specify really,Other
+From Rhythm Patterns to Perceived Tempo,2007,3,FALSE,"Ballroom, Songs, in-house","ballroom dance (1), Various (2), Pop (3)","Ballroom, Various, Pop"
+The Quest for Ground Truth in Musical Artist Tagging in the Social Web Era,2007,1,FALSE,Last.fm,Various,Various
+Annotating Music Collections: How Content-Based Similarity Helps to Propagate Labels,2007,1,FALSE,in-house,Various,Various
+A Game-Based Approach for Collecting Semantic Annotations of Music,2007,1,FALSE,CAL500,"Doesn't specify, probably Various",Various
+Human Similarity Judgments: Implications for the Design of Formal Evaluations,2007,1,FALSE,MIREX,Doesn't specify,Doesn't Specify
