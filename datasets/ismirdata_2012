@@ -1,0 +1,116 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Influence in Early Electronic Dance Music: An Audio Content Analysis Investigation,2012,1,FALSE,in-house,"Various (Chicago House, Detroit Techno, 1980s Pop, Funk, Disco, Synth Pop, Electro and Hip Hop, Punk/Post-Punk)",Various
+Association Mining of Folk Music Genres and Toponyms,2012,1,FALSE,corpus of 1902 Basque folk tunes,Folk,Folk
+Characterization of Embellishments in Ney Performances of Makam Music in Turkey,2012,1,FALSE,recordings of turkish ney players covering music from 1920 to 2000,Various,Various
+Cross-cultural Music Mood Classification: A Comparison on English and Chinese Songs,2012,1,FALSE,in-house set of Chinese pop songs,Chinese Pop,Non-Western
+Towards a (Better) Definition of the Description of Annotated MIR Corpora,2012,0,FALSE,N/A,N/A,N/A
+Modeling Musical Mood From Audio Features and Listening Context on an In-Situ Data Set,2012,1,FALSE,collected for study --- survey listeners moods and genre they listened to,Various,Various
+Analyzing Drum Patterns Using Conditional Deep Belief Networks,2012,1,FALSE,"f 173 twelve-measure sequences comprising a total of 33,216 beat subdivisions, each of which
+contains bass drum, snare drum, and hi-hat activations.",Instrument Recordings,Single Instrument
+N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data,2012,1,FALSE,"""13 popular makams, some of which are very similar to each other""",traditional Turkish makams,Folk
+Evaluating the Online Capabilities of Onset Detection Methods,2012,3,FALSE,"""87 tracks were taken from the dataset used in[11], 23 from [2], and 92 from [13].""",Doesn't specify (all 3),Doesn't Specify
+Structure-Based Audio Fingerprinting for Music Retrieval,2012,1,FALSE,Mazurka Project,Classical (Chopin's Mazurkas),Classical
+Bridging Printed Music and Audio Through Alignment Using a Mid-level Score Representation,2012,2,FALSE,"IMSLP’s Petrucci Library, Mazurka Project",Classical (both),Classical
+Real-time Online Singing Voice Separation from Monaural Recordings Using Robust Low-rank Modeling,2012,1,FALSE,MIR-1K,Chinese karoake,Non-Western
+Folksonomy-based Tag Recommendation for Online Audio Clip Sharing,2012,1,FALSE,Freesound,Various,Various
+Infinite Composite Autoregressive Models for Music Signal Analysis,2012,1,FALSE,30 pieces from ENSTDkCI - subset of MAPS,Piano music,Single Instrument
+Professionally-produced Music Separation Guided by Covers,2012,1,FALSE,"""series of 4 well-known pop-music songs""",Pop,Pop
+Bayesian Nonnegative Harmonic-Temporal Factorization and Its Application to Multipitch Analysis,2012,1,FALSE,the RWC Music Database,"Jazz, Classical","Jazz, Classical"
+A Scape Plot Representation for Visualizing Repetitive Structures of Music Recordings,2012,2,FALSE,"recordings of 12 albums by The Beatles, 49 Mazurkas","Pop (1), Classical (2)","Pop, Rock, Classical"
+A Systematic Comparison of Music Similarity Adaptation Approaches,2012,1,FALSE,MagnaTagATune (Magnatune),Various,Various
+Using Hyper-genre Training to Explore Genre Information for Automatic Chord Estimation,2012,1,FALSE,SALAMI,Doesn't specify,Doesn't Specify
+Semi-supervised NMF with Time-frequency Annotations for Single-channel Source Separation,2012,2,FALSE,"QUASI database, SISEC database",Doesn't specify (both),Doesn't Specify
+Neon.js: Neume Editor Online,2012,0,FALSE,N/A,N/A,N/A
+Modeling Chord and Key Structure with Markov Logic,2012,1,FALSE,Beatles from Center for Digital Music Website,Pop/Rock,"Pop, Rock"
+A Geometric Language for Representing Structure in Polyphonic Music,2012,0,FALSE,N/A,N/A,N/A
+Unsupervised Learning of Local Features for Music Classification,2012,1,FALSE,GTZAN,Various (10 genres),Various
+Modeling Piano Interpretation Using Switching Kalman Filter,2012,1,FALSE,created for study (in house),Classical,Classical
+Interpreting Rhythm in Optical Music Recognition,2012,1,FALSE,"2nd move-ment of the Mozart Quintet for Clarinet and Strings, K. 581",Classical,Classical
+Assigning a Confidence Threshold on Automatic Beat Annotation in Large Datasets,2012,2,FALSE,manually annotated dataset containing 1360 song excerpts and the Million Song Dataset,Various (Acoustic;  Afro-American;  Jazz/Blues;  Classical;  Choral;Electronic; Rock/Pop; Balkan/Greek; and Samba),Various
+A Corpus-based Study of Rhythm Patterns,2012,1,FALSE,pulled from internet,"Various (Pop/Rock, Film, Jazz, Classical, Country/Folk)",Various
+"One in the Jungle: Downbeat Detection in Hardcore, Jungle, and Drum and Bass",2012,1,FALSE,236 excerpts of between 30 seconds and 2 minutes in duration,EDM,Other
+A MIREX Meta-analysis of Hubness in Audio Music Similarity,2012,1,FALSE,2011 “Audio Music Similarity and  Retrieval” task within the annual MIREX,"Various (Baroque, Country, Edance, Jazz, Metal, Rap/Hip Hop, Rock&Roll, Romntic, Blues, Classical)",Various
+How Significant is Statistically Significant? The case of Audio Music Similarity and Retrieval,2012,1,FALSE,"""similarity judgments collected for the 2011 edition of the MIREX AMS task: a total of 18 systems by 10 research teams were evaluated with 100 queries""",N/A,N/A
+Statistical Characterisation of Melodic Pitch Contours and its Application for Melody Extraction,2012,1,FALSE,65 audio excerpts,"Various (Rock, Pop, R&B, Jazz, Opera)",Various
+Detecting Melodic Motifs from Audio for Hindustani Classical Music,2012,1,FALSE,4 full-length CD-quality recorded concerts of well-known  Hindustani khyal vocalists,Non-western (Hindustani classical music),Non-western
+Characterization of Intonation in Carnatic Music by Parametrizing Pitch Histograms,2012,1,FALSE,170 performances in 16 raagas,Non-western (Indian raaga),Non-Western
+Discriminative Non-negative Matrix Factorization for Multiple Pitch Estimation,2012,3,FALSE,"RAND piano chords (part of MAPS), ORC, MUS","genre N/A (1&2), Classical (3)",Classical
+A Feature Relevance Study for Guitar Tone Classification,2012,1,FALSE,"""Single guitar tones of three high-quality classical guitars (by the luthiers Hense, Marin, and Wichmann) played by four players on three different fret positions""",genre N/A,Single Instrument
+String Methods for Folk Tune Genre Classification,2012,1,FALSE,Dance-9,Folk,Folk
+A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr,2012,1,TRUE,SymbTr,Turkish makam music,Folk
+Polyphonic Music Classification on Symbolic Data Using Dissimilarity Functions,2012,2,FALSE,"The set of classical music MIDI files described in [27], A set of Japanese POP (JPOP) music MIDI files for KARAOKE downloaded from a commercial site by YAMAHA","Classical (1), J-Pop (2)","Classical, Non-Western"
+"Semiotic Structure Labeling of Music Pieces: Concepts, Methods and Annotation Conventions",2012,1,TRUE,"""The set of approximately 500 music pieces, for which an-notations in terms of structural boundaries have been re-leased in 2011 [13], has been updated and complemented with semiotic labels obtained with the present methodol-ogy  and  is  accessible  at  [15]""",Doesn't specify,Doesn't Specify
+Large-Scale Cover Song Recognition Using the 2D Fourier Transform Magnitude,2012,1,FALSE,SecondHandSongs,Pop,Pop
+Creating Ground Truth for Audio Key Finding: When the Title Key May Not Be the Key,2012,1,FALSE,provided by Classical KUSC,Classical,Classical
+Understanding User Requirements for Music Information Services,2012,0,FALSE,N/A,N/A,N/A
+The Impact of MIREX on Scholarly Research (2005 – 2010),2012,0,FALSE,N/A,N/A,N/A
+An Emotion Model for Music Using Brain Waves,2012,1,FALSE,in-house,"Folk, Jazz, Pop, Rock",Various
+Music Structure Analysis by Ridge Regression of Beat-synchronous Audio Features,2012,1,FALSE,Beatles dataset,Pop/Rock,"Pop, Rock"
+Score-Informed Leading Voice Separation from Monaural Audio,2012,1,FALSE,"The  database  used  in  this  work  is  composed  of  nineseparated-track versions of well-known popular songs, forwhich a MIDI transcription was found on the internet.",Pop/Rock,"Pop, Rock"
+On Measuring Syncopation to Drive an Interactive Music System,2012,2,FALSE,"Drum Loops-dataset of many genres, and RWC western pop dataset","rock, funk, disco dance (loops), and Western pop",Various
+Current Challenges in the Evaluation of Predominant Melody Extraction Algorithms,2012,3,FALSE,"""collection of 30 music clips from publicly available MIREX training sets: 10 from ADC 2004, 9 similar to MIREX05 and 11 similar to MIREX09.""",Doesn't specify (all 3),Doesn't Specify
+Improving Audio Chord Transcription by Exploiting Harmonic and Metric Knowledge,2012,1,FALSE,"179 songs  from  12  Beatles  albums,  20  Queen  songs,  and  18 Zweieck songs","Pop, Rock, EDM",Various
+Reducing Tempo Octave Errors by Periodicity Vector Coding And SVM Learning,2012,2,FALSE,ISMIR 2004 Tempo Induction Evaluation Exchange Dataset: ballroom and songs datasets,"Ballroom (1), Doesn't specify (2)
+",Other
+Context-free 2D Tree Structure Model of Musical Notes for Bayesian Modeling of Polyphonic Spectrograms,2012,1,FALSE,"""piano recordings (RWC-MDB-C-2001 No. 26, 27, 30) excerpted from the RWC music database""",Classical - these pieces are all Chopin or Mozart,Classical
+Compressing Music Recordings into Audio Summaries,2012,1,FALSE,collection of solo piano music compiled by the Mazurka Project,Classical,Classical
+Second Fiddle is Important Too: Pitch Tracking Individual Voices in Polyphonic Music,2012,1,FALSE,RWC musical instrument database,Single instrument,Single Instrument
+Feature Learning in Dynamic Environments: Modeling the Acoustic Structure of Musical Emotion,2012,1,FALSE,uspop2002,Pop,Pop
+User-centered Measures vs. System Effectiveness in Finding Similar Songs,2012,1,FALSE,MIREX Audio Music Similarity data,"Various (Baroque, Romantic, Classical, Country, Jazz, Blues, Rock&Roll, Rap/HipHop, Metal, Edance)",Various
+Towards Time-resilient MIR Processes,2012,0,FALSE,N/A,N/A,N/A
+Hypergraph Models of Playlist Dialects,2012,2,FALSE,"Art of the Mix, Million Song Dataset",Various (both),Various
+Learning to Embed Songs and Tags for Playlist Prediction,2012,2,FALSE,"Yes.com, Last.fm",Various (both),Various
+Extracting Semantic Information from an Online Carnatic Music Forum,2012,2,FALSE,"in-house CD collection, MusicBrainz",Indian Carnatic music (all),Non-Western
+Ranking Lyrics for Online Search,2012,1,FALSE,musicXmatch (subset of Million Song Dataset),Various?,Various
+The Role Of Music in the Lives of Homeless Young People: A Preliminary Report,2012,0,FALSE,N/A,N/A,N/A
+A Survey on Music Listening and Management Behaviours,2012,0,FALSE,N/A,N/A,N/A
+Automatic Music Transcription: Breaking the Glass Ceiling,2012,0,FALSE,N/A,N/A,N/A
+Putting the User in the Center of Music Information Retrieval,2012,0,NA,N/A,N/A,N/A
+The Impact (or Non-impact) of User Studies in Music Information Retrieval,2012,0,FALSE,N/A,N/A,N/A
+Mel Cepstrum & Ann Ova: The Difficult Dialog Between MIR and Music Cognition,2012,0,FALSE,N/A,N/A,N/A
+Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics,2012,0,FALSE,N/A,N/A,N/A
+"Reuse, Remix, Repeat: the Workflows of MIR",2012,0,FALSE,N/A,N/A,N/A
+Multi-Template Shift-Variant Non-Negative Matrix Deconvolution for Semi-Automatic Music Transcription,2012,1,FALSE,"""same dataset as in [4] was used. The dataset was based on monophonicrecordings of musical phrases from 12 different instruments, each with a length of approximately 30""",Doesn't specify,Doesn't Specify
+Tracking Melodic Patterns in Flamenco Singing by Analyzing Polyphonic Music Recordings,2012,1,FALSE,provided by Centro andaluzde flamenco de la Junta de Andaluc ́ıa,Flamenco,Other
+A Cross-version Approach for Stabilizing Tempo-based Novelty Detection,2012,1,FALSE,Mazurka Project,Classical,Classical
+Fast Identification of Piece and Score Position via Symbolic Fingerprinting,2012,2,FALSE,"""The first dataset (described in [11]) consists of performan-ces of the first movements of 13 Mozart piano sonatas byRoland Batik.  The second, much larger, dataset consistsof nearly the complete solo piano works by Chopin per-formed by Nikita Magaloff [4].""",Classical (both),Classical
+"A Multimedia Search and Navigation Prototype, Including Music and Video-clips",2012,1,FALSE,in-house,Doesn't specify,Doesn't Specify
+Chord Recognition Using Duration-explicit Hidden Markov Models,2012,2,FALSE,Beatles set by Harte [8] and Uspop set by Cho [7],"Pop/Rock (1), Pop (2)","Pop, Rock"
+Finding Repeating Stanzas in Folk Songs,2012,1,FALSE,"in-house ""set  of  folk songs from an ethnomusicological archive""",Folk,Folk
+Detecting Episodes with Harmonic Sequences for Fugue Analysis,2012,1,FALSE,first book of Bach’s Well-Tempered Clavier,Classical,Classical
+Inferring Chord Sequence Meanings via Lyrics: Process and Evaluation,2012,1,FALSE,Mood Tag Dataset (MTD) prepared by Hu et al. [6] --- used in MIREX-2011,"Doesn't specify, probably various",Various
+Facilitating Comprehensive Benchmarking Experiments on the Million Song Dataset,2012,1,FALSE,Million Song Dataset,Various,Various
+Decoding Tempo and Timing Variations in Music Recordings from Beat Annotations,2012,2,FALSE,"Beatles dataset, Moonlight Sonata","Pop/Rock (1), Classical (2)","Pop, Rock, Classical"
+Unsupervised Chord-Sequence Generation from an Audio Example,2012,5,FALSE,"""Five audio inputs have been selected to evaluate the method:a  guitar  chord  sequence  based  on  the  song  “If I fell in love with you” by  the Beatles, a Bach choral played on the piano, part of the “Funeral March” by Chopin, a guitar flamenco excerpt and a piano chord sequence by a non-musician (Examples No.1-5)""","Pop/Rock (1), Classical (2&3), Flamenco, genre N/A",Various
+Listening Level Changes Music Similarity,2012,1,FALSE,"""random subset of 500 recordings fromthe Magnatagatune data set""",Various,Various
+Pitch Content Visualization Tools for Music Performance Analysis,2012,2,FALSE,case studies on diaphonic singing of the Shope region in west-central Bulgaria and Muddy Waters --- Long Distance Call,"Bulgarian Folk, Blues","Non-Western, Folk, Blues"
+A Multipitch Approach to Tonic Identification in Indian Classical Music,2012,1,FALSE,CompMusic,Indian Classical Music,"Non-Western, Classical"
+Separating Presentation and Content in MEI,2012,1,FALSE,MEI,Doesn't Specify,Doesn't Specify
+A Study of Intonation in Three-Part Singing using the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT),2012,1,FALSE,created for study on three-part  chord  progression written by Bendedetti,Doesn't specify,Doesn't Specify
+Influence of Peak Selection Methods on Onset Detection,2012,1,FALSE,"Bello Dataset: 4 sets of short excerpts from
+a range of instruments, classed into the following groups: drums, guitar, piano, violin, CM has jazz excerpts","Various (styles at least, should be double checked) - Instrument recordings and Jazz",Single Instrument
+Evaluation of Musical Features for Emotion Classification,2012,1,FALSE,in-house dataset of 2904 songs. Details at https://code.soundsoftware.ac.uk/projects-/emotion-recognition,Pop,Pop
+BLAST for Audio Sequences Alignment: A Fast Scalable Cover Identification Tool,2012,2,FALSE,"TSD, Million song dataset","Pop (1), Various (2)","Pop, Various"
+A Cross-cultural Study of Music Mood Perception between American and Chinese Listeners,2012,2,FALSE,"MIREX AMC, USPOP","Various (1), Pop (2)","Pop, Various"
+Shortest Path Techniques for Annotation and Retrieval of Environmental Sounds,2012,2,FALSE,"Soundwalks, Freesound","Environmental noises, Genre N/A (both)",N/A
+Multivariate Autoregressive Mixture Models for Music Auto-Tagging,2012,1,FALSE,CAL500,Pop,Pop
+Building Musically-relevant Audio Features through Multiple Timescale Representations,2012,1,FALSE,TagATune,Various,Various
+A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals,2012,2,FALSE,"Two different datasets have been created for training and testing, based on the database originally compiled by Fuhrmann [6].",Doesn't specify (both),Doesn't Specify
+Learning Sparse Feature Representations for Music Annotation and Retrieval,2012,1,FALSE,CAL500,Pop,Pop
+Score Analyzer: Automatically Determining Scores Difficulty Level for Instrumental e-Learning,2012,1,FALSE,fifty piano pieces  selected to be representative of a classical  piano  cursus  in  a  French  Music  Conservatory,Classical,Classical
+Digital Document Image Retrieval Using Optical Music Recognition,2012,1,FALSE,Liber Usualis,Gregorian chant,Classial
+Music/Voice Separation Using the Similarity Matrix,2012,1,FALSE,in-house,Pop,Pop
+Breathy or Resonant – A Controlled and Curated Dataset for Phonation Mode Detection in Singing,2012,1,FALSE,"""The dataset consists of ca. 700 WAV files. Each file contains a single recording of a sustained sung vowel.""",Genre N/A,Genre N/A
+Robust Singer Identification in Polyphonic Music using Melody Enhancement and Uncertainty-based Learning,2012,1,FALSE,RWC Popular music database,Pop,Pop
+Predominant Fundamental Frequency Estimation vs Singing Voice Separation for the Automatic Transcription of Accompanied Flamenco Singing,2012,1,FALSE,"We gathered 26.74 minutes of music, consisting of 30 per-formances of singing voice with guitar accompaniment (Fandango style)",Fandango - spanish dance music,Other
+Using Linked Open Data for Novel Artist Recommendations,2012,1,FALSE,Freebase,Various,Various
+Chordify: Chord transcription for the masses,2012,0,FALSE,N/A,N/A,N/A
+A Music similarity game prototype using the CASIMIR API,2012,2,FALSE,"MagnaTagATune, Million Song Dataset",Various (both),Various
+Notes from the ISMIR12 Late-Breaking session on evaluation in music information retrieval,2012,0,FALSE,N/A,N/A,N/A
+Infrastructures and Interfaces for data collection in MIR,2012,0,FALSE,N/A,N/A,N/A
+Music Imagery IR: Bringing the song on your mind back to your ears,2012,0,FALSE,N/A,N/A,N/A
+Late-break session on Music Structure Analysis,2012,0,FALSE,N/A,N/A,N/A
+MIReS Roadmap: Challenges for Discussion,2012,0,FALSE,N/A,N/A,N/A
+Shared Open Vocabularies and Semantic Media,2012,0,FALSE,N/A,N/A,N/A
+Teaching MIR: educational resourcs related to MIR,2012,0,FALSE,N/A,N/A,N/A
+"Past, Present and Future in Ethnomusicology: the computational challenge",2012,0,FALSE,N/A,N/A,N/A
