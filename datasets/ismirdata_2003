@@ -1,56 +1,56 @@
-paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
-"01 ""I Found It, How Can I Use It?"" - Dealing With the Ethical and Legal Constraints of Information Access",PDF,0,FALSE,n/a,n/a,N/A
-02 An Industrial Strength Audio Search Algorithm,PDF,1,FALSE,"Shazam, commercial music recognition service with over 1.8M tracks in the database",various,Various
-03 Toward the scientific evaluation of music information retrieval systems,PDF,1,TRUE,"still under construction: internationally-accessible, large-scale MIR testing and development database","Classical, Jazz, and Asian digital recordings",Various
-04 Effectiveness of HMM-based retrieval on large databases,PDF,1,FALSE,Beatles database,various,"Pop, Rock"
-04 The MUSART testbed for query-by-humming evaluation,PDF,1,FALSE,not specified,various,Various
-05 The dangers of parsimony in query-by-humming applications,PDF,1,FALSE,generated a collection of 10000 synthetic database songs,pop and classical,"Pop, Classical"
-"06 Effects of song familiarity, singing training and recent song exposure on the singing of melodies",PDF,1,FALSE,Beatles database,NA,"Pop, Rock"
-07 The MAMI query-by-voice experiment: collecting and annotating vocal queries for music information retrieval,PDF,1,FALSE,"30 pieces of music were selected, from a larger MAMI target database","popular music, ranging from chanson to heavy metal, well-known Flemish children songs and classical music.",Various
-08 Was Parsons right? An experiment in usability of music representations for melody-based music retrieval,PDF,1,FALSE,"collection of 10,466 MIDI ﬁles of well-known melodies",doesn't specify said melodies were like twinkle twinkle star,Doesn't Specify
-09 Automatic mood detection from acoustic music data,PDF,1,FALSE,250 pieces of music,classical and romantic,Classical
-10 Discovering musical pattern through perceptual heuristics,PDF,0,FALSE,n/a,n/a,N/A
-11 A large-scale evalutation of acoustic and subjective music similarity measures,PDF,1,TRUE,uspop2002: compiled a large dataset from audio and Web sources,pop,Pop
-12 Using transportation distances for measuring melodic similarity,PDF,1,FALSE,RISM A/II collection,various,Various
-13 Automatic labeling of tabla signals,PDF,1,FALSE,64 phrases with a total of 5715 bols,North Indian percussion instrument,Instrument Recording
-14 Application of missing feature theory to the recognition of musical instruments in polyphonic audio,PDF,1,FALSE,commercially available CDs,doesn't specify,Various
-15 Ground-truth transcriptions of real music from force-aligned MIDI syntheses,PDF,1,FALSE,MIDI files downloaded from the MIDI search engine http://www.musicrobot.com,9 songs,Various
-16 Improving polyphonic and poly-instrumental music to score alignment,PDF,1,FALSE,reconstituted MIDI files of performances,"classical, contemporary,songs without percussion",Classical
-17  Features for audio and music classification,PDF,1,FALSE,database used in the current study is a “quintessential” subset of a larger database.,"classical music, popular music, speech, crowd noise, and noise",Various
-18 Classification of dance music by periodicity patterns,PDF,1,FALSE,a set of dance CDs,standard and Latin dance music,Other
-19 Blind clustering of popular music recordings based on singer voice characteristics,PDF,1,FALSE,416 tracks from Mandarin pop music CDs,pop,Pop
-20 Harmonic analysis with probabilistic graphical models,PDF,1,FALSE,MIDI files,classical,Classical
-21 Chord segmentation and recognition using EM-trained hidden markov models,PDF,1,FALSE,Twenty songs from three early Beatles albums were selected for our experiments,Beatles,"Pop, Rock"
-22 Geometric algorithms for transposition invariant content based music retrieval,PDF,11,FALSE,"database of the Mutopia project: ""For the experiments we created 10 copies of it. So, in total our database contained 2790 musical documents that comprised 1,215,520 chords and 2,158,840 notes.""",classical,Classical
-23 Exploring music collections by browsing different views,PDF,0,FALSE,n/a,n/a,N/A
-24 A scalable peer-to-peer system for music content and information retrieval,PDF,1,FALSE,Marsyas,representing a variety of genres and styles,Various
-25 The Danish Collaborative Project,link,1,TRUE,Digital Sheet Music - the Danish project,digital database of sheet music made thru partnership with sheetmusicnow.com,Doesn't Specify
-26 Building Chopin Early Editions,PDF,1,TRUE,http://chopin.lib.uchicago.edu/,classical,Classical
-27 The Sheet Music Consortium: A Specialized Open Archives Initiative harvester project,PDF,1,TRUE,Open Archives Initiative,digiltal sheet music collection -,NA
-28 The Basics of Music Copyright,link,0,FALSE,n/a,n/a,N/A
-29 Intellectual Property and Designers of Music Information Retrieval Systems,link,0,FALSE,n/a,n/a,N/A
-30 Intellectual Property and Music Information Retrieval Systems,NA,0,FALSE,n/a,n/a,N/A
-31  A multiple feature model for musical similarity retrieval.,PDF,1,FALSE,small set of 21 reference items,"pop, jazz, classical, rap, rhythm & blues",Various
-"32 Automatic synchronization of music data in score-, MIDI- and PCM-format.",PDF,1,FALSE,variety of classical polyphonic piano pieces of different complexity and length,piano music,Instrumental
-33  Determining context-defining windows: Pitch spelling using the spiral array.,PDF,0,FALSE,the first movement of Beethoven’s Piano Sonata No.30 in E M,Classical,Classical
-34 Analysis of queries to a Wizard-of-Oz MIR system: Challenging assumptions about what people really want.,PDF,0,FALSE,n/a,n/a,N/A
-35 Position Indexing of Adjacent and Concurrent N-Grams for Polyphonic Music Retrieval.,PDF,1,FALSE,collection of 5456 polyphonic pieces encoded in the MIDI format,various,Various
-36  Music scene description project: Toward audio-based real-time music understanding.,PDF,1,FALSE,RWC database,pop,Pop
-37 RWC Music Database: Music genre database and musical instrument sound database.,PDF,6,TRUE,"RWC database comprised of: Popular Music Database, Royalty-Free Music Database, Classical Music Database, Jazz Music Database, Music Genre Database, and Musical Instrument Sound Database",Various,Various
-"38  Automatic segmentation, learning and retrieval of melodies using a self-organizing neural network.",PDF,1,FALSE,a set of contemporary melodies,Various,Various
-39 Three-dimensional continuous DP algorithm for multiple pitch candidates in a music information retrieval system.,PDF,1,FALSE,"music database consists of children’s songs, and 155 pieces of music from Japan and foreign countries",children's songs (japan and foreign countries),Non Western
-40  The C-BRAHMS project.,PDF,1,TRUE,Mutopia project,various,various
-41  Detecting emotion in music.,PDF,1,FALSE,collection of 499 sound ﬁles was created from 128 music albums,"Ambient, Classical, Fusion, and Jazz",Various
-42  The importance of cross database evaluation in musical instrument sound classification: A critical approach.,PDF,1,FALSE,Minus-1 DB,"Bassoon, Contrabass, Clarinet, French horn, Flute, Oboe, and Cello sounds",Instrumental
-43 An SVM-based classification approach to musical audio,PDF,1,FALSE,recorded 10 songs  by both male and female singers at different time periods with a stereo,Sri Lankan songs,Non Western
-44 An auditory model based transriber of vocal queries.,PDF,1,FALSE,vocal queries db,vocal query,Instrumental
-45  Chopin early editions: The construction and usage of a collection of digital scores.,PDF,1,TRUE,Chopin Early Editions collection,classical,Classical
-46  An HMM-based pitch tracker for audio queries,PDF,1,FALSE,18 audio queries sung by untrained users,Not specified,Doesn't Specify
-47 Rhythmic similarity through elaboration,PDF,1,FALSE,collection of 38 songs from the Dave Matthews Band,Rock,Rock
-48  Key-specific shrinkage techniques for harmonic models.,PDF,1,FALSE,3000-piece data collection provided by the Center for Computer Assisted Research in the Humanities,classical,Classical
-49  Using morphological description for generic sound retrieval.,PDF,1,FALSE,built a small database - comprised of sounds,sounds (not really music),Other
-50 Design patterns in XML music representation.,PDF,1,FALSE,Music Encoding Initiative (MEI) DTD,Not specified,Doesn't Specify
-51  Music Notation as a MEI Feasability Test.,PDF,1,FALSE,MEI,classical,Classical
-52  Music identification by leadsheets: Converging perceptive and productive musical principles for estimation of semantic similarity of musical documents.,PDF,1,FALSE,lead sheet templates - don't use actual music data,not specified,N/A
-53  Automatic rhythm transcription from multiphonic MIDI signals.,PDF,1,FALSE,3 pieces recorded in the MIDI format performed 2 times by 5 players for each piece,classical,Classical
-54  Quantitative comparisons into content-based music recognition with the self organising map.,PDF,1,FALSE,an archive of many contemporary music albums,various,Various
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean,X9
+"01 ""I Found It, How Can I Use It?"" - Dealing With the Ethical and Legal Constraints of Information Access",2003,0,FALSE,n/a,n/a,N/A,NA
+02 An Industrial Strength Audio Search Algorithm,2003,1,FALSE,"Shazam, commercial music recognition service with over 1.8M tracks in the database",various,Various,NA
+03 Toward the scientific evaluation of music information retrieval systems,2003,1,TRUE,"still under construction: internationally-accessible, large-scale MIR testing and development database","Classical, Jazz, and Asian digital recordings",Various,NA
+04 Effectiveness of HMM-based retrieval on large databases,2003,1,FALSE,Beatles database,various,"Pop, Rock",NA
+04 The MUSART testbed for query-by-humming evaluation,2003,1,FALSE,not specified,various,Various,NA
+05 The dangers of parsimony in query-by-humming applications,2003,1,FALSE,generated a collection of 10000 synthetic database songs,pop and classical,"Pop, Classical",NA
+"06 Effects of song familiarity, singing training and recent song exposure on the singing of melodies",2003,1,FALSE,Beatles database,NA,"Pop, Rock",NA
+07 The MAMI query-by-voice experiment: collecting and annotating vocal queries for music information retrieval,2003,1,FALSE,"30 pieces of music were selected, from a larger MAMI target database","popular music, ranging from chanson to heavy metal, well-known Flemish children songs and classical music.",Various,NA
+08 Was Parsons right? An experiment in usability of music representations for melody-based music retrieval,2003,1,FALSE,"collection of 10,466 MIDI ﬁles of well-known melodies",doesn't specify said melodies were like twinkle twinkle star,Doesn't Specify,NA
+09 Automatic mood detection from acoustic music data,2003,1,FALSE,250 pieces of music,classical and romantic,Classical,NA
+10 Discovering musical pattern through perceptual heuristics,2003,0,FALSE,n/a,n/a,N/A,NA
+11 A large-scale evalutation of acoustic and subjective music similarity measures,2003,1,TRUE,uspop2002: compiled a large dataset from audio and Web sources,pop,Pop,NA
+12 Using transportation distances for measuring melodic similarity,2003,1,FALSE,RISM A/II collection,various,Various,NA
+13 Automatic labeling of tabla signals,2003,1,FALSE,64 phrases with a total of 5715 bols,North Indian percussion instrument,Instrument Recording,NA
+14 Application of missing feature theory to the recognition of musical instruments in polyphonic audio,2003,1,FALSE,commercially available CDs,doesn't specify,Various,NA
+15 Ground-truth transcriptions of real music from force-aligned MIDI syntheses,2003,1,FALSE,MIDI files downloaded from the MIDI search engine http://www.musicrobot.com,9 songs,Various,Maybe pop
+16 Improving polyphonic and poly-instrumental music to score alignment,2003,1,FALSE,reconstituted MIDI files of performances,"classical, contemporary,songs without percussion",Classical,NA
+17  Features for audio and music classification,2003,1,FALSE,database used in the current study is a “quintessential” subset of a larger database.,"classical music, popular music, speech, crowd noise, and noise",Various,NA
+18 Classification of dance music by periodicity patterns,2003,1,FALSE,a set of dance CDs,standard and Latin dance music,Other,NA
+19 Blind clustering of popular music recordings based on singer voice characteristics,2003,1,FALSE,416 tracks from Mandarin pop music CDs,pop,Pop,NA
+20 Harmonic analysis with probabilistic graphical models,2003,1,FALSE,MIDI files,classical,Classical,NA
+21 Chord segmentation and recognition using EM-trained hidden markov models,2003,1,FALSE,Twenty songs from three early Beatles albums were selected for our experiments,Beatles,"Pop, Rock",NA
+22 Geometric algorithms for transposition invariant content based music retrieval,2003,11,FALSE,"database of the Mutopia project: ""For the experiments we created 10 copies of it. So, in total our database contained 2790 musical documents that comprised 1,215,520 chords and 2,158,840 notes.""",classical,Classical,NA
+23 Exploring music collections by browsing different views,2003,0,FALSE,n/a,n/a,N/A,NA
+24 A scalable peer-to-peer system for music content and information retrieval,2003,1,FALSE,Marsyas,representing a variety of genres and styles,Various,NA
+25 The Danish Collaborative Project,2003,1,TRUE,Digital Sheet Music - the Danish project,digital database of sheet music made thru partnership with sheetmusicnow.com,Doesn't Specify,Can't find that this actually exists
+26 Building Chopin Early Editions,2003,1,TRUE,http://chopin.lib.uchicago.edu/,classical,Classical,NA
+27 The Sheet Music Consortium: A Specialized Open Archives Initiative harvester project,2003,1,TRUE,Open Archives Initiative,digiltal sheet music collection -,NA,NA
+28 The Basics of Music Copyright,2003,0,FALSE,n/a,n/a,N/A,NA
+29 Intellectual Property and Designers of Music Information Retrieval Systems,2003,0,FALSE,n/a,n/a,N/A,NA
+30 Intellectual Property and Music Information Retrieval Systems,2003,0,FALSE,n/a,n/a,N/A,NA
+31  A multiple feature model for musical similarity retrieval.,2003,1,FALSE,small set of 21 reference items,"pop, jazz, classical, rap, rhythm & blues",Various,NA
+"32 Automatic synchronization of music data in score-, MIDI- and PCM-format.",2003,1,FALSE,variety of classical polyphonic piano pieces of different complexity and length,piano music,Instrumental,NA
+33  Determining context-defining windows: Pitch spelling using the spiral array.,2003,0,FALSE,the first movement of Beethoven’s Piano Sonata No.30 in E M,Classical,Classical,NA
+34 Analysis of queries to a Wizard-of-Oz MIR system: Challenging assumptions about what people really want.,2003,0,FALSE,n/a,n/a,N/A,NA
+35 Position Indexing of Adjacent and Concurrent N-Grams for Polyphonic Music Retrieval.,2003,1,FALSE,collection of 5456 polyphonic pieces encoded in the MIDI format,various,Various,NA
+36  Music scene description project: Toward audio-based real-time music understanding.,2003,1,FALSE,RWC database,pop,Pop,NA
+37 RWC Music Database: Music genre database and musical instrument sound database.,2003,6,TRUE,"RWC database comprised of: Popular Music Database, Royalty-Free Music Database, Classical Music Database, Jazz Music Database, Music Genre Database, and Musical Instrument Sound Database",Various,Various,NA
+"38  Automatic segmentation, learning and retrieval of melodies using a self-organizing neural network.",2003,1,FALSE,a set of contemporary melodies,Various,Various,NA
+39 Three-dimensional continuous DP algorithm for multiple pitch candidates in a music information retrieval system.,2003,1,FALSE,"music database consists of children’s songs, and 155 pieces of music from Japan and foreign countries",children's songs (japan and foreign countries),Non Western,NA
+40  The C-BRAHMS project.,2003,1,TRUE,Mutopia project,various,various,NA
+41  Detecting emotion in music.,2003,1,FALSE,collection of 499 sound ﬁles was created from 128 music albums,"Ambient, Classical, Fusion, and Jazz",Various,NA
+42  The importance of cross database evaluation in musical instrument sound classification: A critical approach.,2003,1,FALSE,Minus-1 DB,"Bassoon, Contrabass, Clarinet, French horn, Flute, Oboe, and Cello sounds",Instrumental,NA
+43 An SVM-based classification approach to musical audio,2003,1,FALSE,recorded 10 songs  by both male and female singers at different time periods with a stereo,Sri Lankan songs,Non Western,NA
+44 An auditory model based transriber of vocal queries.,2003,1,FALSE,vocal queries db,vocal query,Instrumental,NA
+45  Chopin early editions: The construction and usage of a collection of digital scores.,2003,1,TRUE,Chopin Early Editions collection,classical,Classical,NA
+46  An HMM-based pitch tracker for audio queries,2003,1,FALSE,18 audio queries sung by untrained users,Not specified,Doesn't Specify,NA
+47 Rhythmic similarity through elaboration,2003,1,FALSE,collection of 38 songs from the Dave Matthews Band,Rock,Rock,NA
+48  Key-specific shrinkage techniques for harmonic models.,2003,1,FALSE,3000-piece data collection provided by the Center for Computer Assisted Research in the Humanities,classical,Classical,NA
+49  Using morphological description for generic sound retrieval.,2003,1,FALSE,built a small database - comprised of sounds,sounds (not really music),Other,NA
+50 Design patterns in XML music representation.,2003,1,FALSE,Music Encoding Initiative (MEI) DTD,Not specified,Doesn't Specify,NA
+51  Music Notation as a MEI Feasability Test.,2003,1,FALSE,MEI,classical,Classical,NA
+52  Music identification by leadsheets: Converging perceptive and productive musical principles for estimation of semantic similarity of musical documents.,2003,1,FALSE,lead sheet templates - don't use actual music data,not specified,N/A,NA
+53  Automatic rhythm transcription from multiphonic MIDI signals.,2003,1,FALSE,3 pieces recorded in the MIDI format performed 2 times by 5 players for each piece,classical,Classical,NA
+54  Quantitative comparisons into content-based music recognition with the self organising map.,2003,1,FALSE,an archive of many contemporary music albums,various,Various,NA
