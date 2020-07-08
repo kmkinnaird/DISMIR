@@ -1,0 +1,44 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Singer Identification in Popular Music Recordings Using Voice Coding Features,2002,1,FALSE,Subset of NECI Minnowmatch testbed,"pop, rock, electronic",Various
+The Quest for Ground Truth in Musical Artist Similarity,2002,1,FALSE,songs from 412 artists with various genre,mostly pop and rock,"Pop, Rock"
+Measuring the Similarity of Rhythmic Patterns,2002,1,FALSE,"database of rhythmic patterns, consisted of nine standard rhythm patterns with a couple of variations, totalling to 14
+different patterns","Classical, Electronic/Dance, Hip Hop/Rap, Jazz/Blues, Rock/Pop, Soul/RnB/Funk, World/Folk",Various
+Music Similarity Measures : What’s the use?,2002,1,FALSE,"database of 17,075 popular music titles, together
+with metadata extracted automatically through different techniques.
+Metadata include information about artists, genres, tempo, energy,
+… and the timbre models discussed here","18 genre families: Ambiance, Blues, Classical, Country,
+Electronica, Folk, Hard, Hip Hop, Jazz, New Age, Pop, Reggae,
+Rhythm&Blues, Rock, Rock&Roll, Soul, Variety, World",Various
+Interactive Music Summarization based on GTTM,2002,0,FALSE,n/a,n/a,N/A
+Toward Automatic Music Audio Summary Generation from Signal Analysis,2002,1,FALSE,not specified - in house,various genres including pop,Various
+Automatic Music Summarization via Similarity Analysis,2002,1,FALSE,"Vivaldi's Spring, The Magical Mystery Tour by the Beatles, Wild Honey by U2, Duke Ellington ""Take the 'A' Train""","classical, pop/rock, jazz",Various
+Pattern Discovery Techniques for Music Audio,2002,1,FALSE,"Beethoven’s Minuet in G , Samantha Mumba “Baby Come On Over"", Beatles Let it Be, ""Naima"" by John Coltrane","classical, jazz, pop/rock",Various
+MACSIS: A Scalable Acoustic Index for Content-Based Music Retrieval,2002,1,TRUE,"database of 2,000 minutes of music recordings - in house",classical and modern,Classical
+Using Psycho-Acoustic Models and Self-Organizing Maps to Create a Hierarchical Structuring of Music by Musical Styles,2002,2,TRUE,"small subset of the entire archive, consisting of 77 pieces of music, with a total playing time of about 5 hours, AND 2) larger collection of 359 pieces","""variety of genres"" pop, classical, and potentially others",Various
+Combining Musical and Cultural Features for Intelligent Style Detection,2002,2,FALSE,"Minnowmatch testbed, ground truth: All Music Guide","1) five genres, and 2) metadata of pop songs",Various
+A Review of Factors Affecting Music Recommender Success,2002,0,FALSE,n/a,n/a,N/A
+PATS: Realization and user evaluation of an automatic playlist generator,2002,1,TRUE,"extracted from CD booklets, discographies, books on jazz music education and training, and systematic listening - in house",jazz,Jazz
+Interdisciplinary Communities and Research Issues in Music Information Retrieval,2002,0,FALSE,n/a,n/a,N/A
+Usability of Musical Digital Libraries: a Multimodal Analysis,2002,4,FALSE,"comparison of digital libraries: NZDL Music Library, Folk Music Collection, JC’s ABC Tunefinder, NZDL Music Videos Collection","folk, pop, rock, and tunes",Various
+Categories of Music Description and Search Terms and Phrases Used by Non-Music Experts,2002,1,FALSE,7 classical music pieces - in house versions?,classical,Classical
+A Highly Robust Audio Fingerprinting System,2002,1,FALSE,"""To determine the distribution of the BER with real fingerprint blocks a fingerprint database of 10,000 songs was generated""",various,Various
+Polyphonic Score Retrieval Using Polyphonic Audio Queries: A Harmonic Modeling Approach,2002,4,FALSE,"1. data provided by the Center for Computer Assisted Research in the Humanities
+2. 26 individual variations on the tune known to English speakers
+as ‘Twinkle, twinkle, little star'
+3. 75 versions of John Dowland’s ‘Lachrimae Pavan’, collected as
+part of the ECOLM project
+4. 50 variations by four different composers on the well-known
+baroque tune ‘Les Folies d’Espagne'",classical and other (little star),"Classical, Other"
+Mid-Level Music Melody Representation of Polyphonic Audio for Query-by-Humming System,2002,1,FALSE,music database that is composed of 92 melody clips.,"kpop, pop",Pop and K-pop
+A Comparative and Fault-tolerance Study of the Use of N-grams with Polyphonic Music,2002,1,FALSE,collection of 5380 polyphonic music pieces encoded in the MIDI format,various,Various
+Johnny Can’t Sing: A Comprehensive Error Model for Sung Music Queries,2002,1,FALSE,"small set of queries by five subjects, each subject was asked to sing passages from four well-known songs",pop,Pop
+An Auditory Model Based Transcriber of Singing Sequences,2002,1,FALSE,Five men and six women were asked to sing two excerpts from two different songs,not specified,Doesn't Specify
+Automatic Transcription of Piano Music,2002,1,FALSE,Mozart piano sonatas,classical,Classical
+Voice Separation – A Local Optimization Approach,2002,1,FALSE,"the inventions and chorals by J.S. Bach, a waltz by F.Chopin, parts of ‘Mikrokosmos’ by B. Bartok, and several other pieces",classical,Classical
+Indexing Music Databases Using Automatic Extraction of Frequent Phrases,2002,1,FALSE,database consisting of 130 polyphonic Irish folk music pieces,Irish folk,Folk
+Pitch Histograms in Audio and Symbolic Music Information Retrieval,2002,1,FALSE,"set of 100 musical pieces in MIDI format NOTE: ""An additional 5*100 audio pieces were generated using the Timidity software audio synthesizer to convert the MIDI files. Moreover, 5*100 general audio pieces (not corresponding to the MIDI files but belonging to the same genres) were also used for comparison and evaluation""","Electronica, Classical, Jazz, Irish Folk and Rock",Various
+A Comparison of Manual and Automatic Melody Segmentation,2002,1,FALSE,"excerpts of Bach, Beethoven, Chopin, and Mozart",classical,Classical
+Indexing Hidden Markov Models for Music Retrieval,2002,1,FALSE,"277 pieces of music encoded as MIDI from public domain sites on the web: 277 pieces of music encoded as MIDI from public domain sites on the web. The corpus contains a wide variety of genres, including Classical, Broadway show tunes, Jazz and popular music from the past 40 years",various,Various
+The CUIDADO Project,2002,1,TRUE,"performs the identification of unknown music excerpts, found on the Web, with a reference copyrighted title database",various,Various
+CubyHum: a fully operational ‚“query by humming“ system,2002,1,FALSE,a database with 510 popular melodies,pop,Pop
+A Kind of Content-Based Music Information Retrieval Method in a Peer-to-Peer Environment,2002,0,FALSE,n/a,n/a,N/A
