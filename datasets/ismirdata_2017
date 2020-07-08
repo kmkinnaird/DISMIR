@@ -1,0 +1,113 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+"Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features",2017,1,TRUE,MuMu (modified from Million Song Dataset),Various,Various
+The Significance of the Low Complexity Dimension in Music Similarity Judgements,2017,1,FALSE,generated for study,Doesn't specify,Doesn't Specify
+Towards Computational Modeling of the Ungrammatical in a Raga Performance,2017,1,FALSE,Dunya,Indian Raga,Non-Western
+A Collection of Music Scores for Corpus Based Jingju Singing Research,2017,1,TRUE,Comp-Music Jingju Music Corpus,jingju (Beijing/Peking opera),Non-Western
+Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks,2017,1,FALSE,Bach10,Classical,Classical
+Deep Salience Representations for F0 Tracking in Polyphonic Music,2017,2,FALSE,"MedleyDB, in-house pop","Doesn't specify (1), Pop (2)",Pop
+An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets,2017,2,FALSE,"MedleyDB, Bach10","Doesn't specify (1), Classical (2)",Classical
+Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings,2017,1,FALSE,generated for study,Classical,Classical
+Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database,2017,1,FALSE,Discogs,Various,Various
+The Music Listening Histories Dataset,2017,1,TRUE,Music Listening Histories Dataset,Various,Various
+"Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective",2017,1,FALSE,LFM-1b,Various,N/A
+Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment,2017,1,FALSE,in-house,Classical,Classical
+Video-Based Vibrato Detection and Analysis for Polyphonic String Music,2017,1,FALSE,URMP [15],Classical,Classical
+Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis,2017,1,FALSE,NMED-H [18],Bollywood,Non-Western
+Transfer Learning for Music Classification and Regression Tasks,2017,6,FALSE,"Extended ballroom, Gtzan genre, gtzan speech/music, EmoMusic, Jamendo, Urbansound8K","Ballroom (1), Various (2), Doesn't specify (3-5), Other (6)",Various
+Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks,2017,3,TRUE,"IDMT-SMT-Drums, ENST-Drums, RBMA Various Assets 2013",Doesn't specify (all 3),Single Instrument
+A Formalization of Relative Local Tempo Variations in Collections of Performances,2017,1,FALSE,"""access to 49 recordings of chopin's mazurka"" - in house",Chopins Mazurka,Classical
+Sampling Variations of Sequences for Structured Music Generation,2017,1,FALSE,"""Solar"" by Miles Davis",Jazz,Jazz
+Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription,2017,1,FALSE,"publicly available Carnatic and Hindustani music database used in [8, 9]",Indian Raga,Non-Western
+Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs,2017,1,FALSE,RWC Pop,Pop,Pop
+Structured Training for Large-Vocabulary Chord Recognition,2017,1,FALSE,"""dataset provided by Humphrey and Bello [11], which includes 1217 tracks from the Isophonics, Billboard, RWC Pop, and MARL collections.""",Doesn't specify --- probably Pop?,Pop
+Modeling and Digitizing Reproducing Piano Rolls,2017,1,FALSE,piano rolls --- doesn't seem to specify further,Classical,Classical
+Comparing Offertory Melodies of Five Medieval Christian Chant Traditions,2017,4,FALSE,"Maloy's Finale and Offeratories, Milanese mass book, critical edition of Beneventan chant, Mozarabic chant books
+",offeratory chants (think Gregorian) (all),Other
+Counterpoint by Convolution,2017,1,FALSE,"""corpus of four-part Bach chorales. While the literature features many variants of this dataset [1, 4, 14, 27], we report results on that used by [4].""",Classical,Classical
+A Framework for Distributed Semantic Annotation of Musical Score: “Take It to the Bridge!”,2017,0,FALSE,N/A,N/A,N/A
+A Music Player with Song Selection Function for a Group of People,2017,1,FALSE,Last.fm,Various,Various
+A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning,2017,6,FALSE,"ACM MIRUM, ISMIR04 Songs, Ballroom, Hainsworth, GTZAN, SMC","Doesn't specify (likely Various) (1-3, 5-6), Ballroom (4)",Various
+A Statistical Analysis of Gamakas in Carnatic Music,2017,1,FALSE,CompMusic,Indian Raga,Non-Western
+Accurate Audio-to-Score Alignment for Expressive Violin Recordings,2017,1,FALSE,"10 expressions, each with 5 classical music pieces, totaling 50 excerpts",Classical,Classical
+Acoustic Features for Determining Goodness of Tabla Strokes,2017,1,FALSE,626 isolated strokes of 7 different bols was recorded,Non-western? Single note but on Indian instrument,Single Instrument
+Automatic Sample Detection in Polyphonic Music,2017,1,FALSE,whosampled.com / Youtube / Dailymotion,"Pop, Rock, Funk, Hip-Hop",Various
+Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields,2017,2,FALSE,"Bach Choral Harmony Dataset, TAVERN",Classical (both),Classical
+Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models,2017,2,FALSE,"""“Isophonics” dataset [11]. (Specifically the subset that is used for the MIREX chord estimation task. It contains 217 songs and is comprised of 12 Beatles albums (180 songs), a Queen compilation (19 songs) and one Zweieck album (18 songs)), second is the “RWC Popular”","Pop/Rock (1), Pop","Pop, Rock"
+Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application,2017,3,FALSE,"GTZAN dataset [34], the Ballroom Dataset [35] and the SMC Mirex Dataset [36].","Doesn't specify (1,3), Ballroom (2)",Various
+Early MFCC and HPCP Fusion for Robust Cover Song Identification,2017,3,TRUE,"Covers 80, Covers 1000, 8 versions of ""The Black Page"" by Frank Zappa","covers1000- pop, covers80 - doesn't specify, black page - covers of drum solo",Various
+Exploring the Music Library Association Mailing List: A Text Mining Approach,2017,1,FALSE,email messages posting in the Music Librarian Association mailing list (MLA-L) from 2000 to 2016,N/A,N/A
+Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification,2017,2,FALSE,"RWC Popular Music Dataset, in-house",Pop/J-Pop (Both),"Pop, Non-Western"
+FMA: A Dataset for Audio Analysis,2017,1,TRUE,Free Music Archive,Various,Various
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation,2017,1,FALSE,TheoryTab,Pop,Pop
+Modeling Harmony with Skip-Grams,2017,4,FALSE,"Kodaly/Haydn, Balik/Mozart, Zeilinger/Beethoven, Magaloff/Chopin",Classical (all),Classical
+NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music,2017,1,FALSE,"10 songs: ""First Fires"" by Bonobo, ""Oino"" by LA Priest, ""Tiptoes"" by Daedelus, ""Careless Love"" by Croquet Club, ""Lebanese Blonde"" by Thievery Corporation, ""Canopee"" by Polo & Pan, ""Doing Yoga"" by Kazy Lambist, ""Until the Sun Needs to Rise"" by Rufus du Sol, ""Silent Shout"" by The Knife, ""The Last Thing You Should Do"" by David Bowie",various,Various
+Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment,2017,2,FALSE,"The GM data consisted of seven performances of two excerpts of Chopin’s piano pieces (total of 2,815 aligned notes). The CJL data consisted of 21 pairs of piano MIDI files (total of 25,656 aligned notes), most of which are synthetic (not human-played) performances.","Classical, Single Instrument","Classical, Single Instrument"
+Piece Identification in Classical Piano Music Without Reference Scores,2017,1,FALSE,in-house,Classical,Classical
+"PiPo, a Plugin Interface for Afferent Data Stream Processing Operators",2017,0,FALSE,n/a,n/a,N/A
+Ranking-Based Emotion Recognition for Experimental Music,2017,1,FALSE,EMusic,"Various (blues, classical, country, electronic, folk, jazz, pop and
+rock.)",Various
+Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model,2017,1,FALSE,RWC Pop,Pop,Pop
+Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks,2017,1,FALSE,a cappella singing audio dataset 1,non-western (jingju),Non-Western
+Towards Automatic Mispronunciation Detection in Singing,2017,1,FALSE,a subset of a published dataset [8],"Other (popular English songs (like Do Re Mi, Silent Night, etc.).)",Other
+Understanding the Expressive Functions of Jingju Metrical Patterns through Lyrics Text Mining,2017,1,FALSE,xikao.com,non-western (jingju),Non-Western
+A Metric for Music Notation Transcription Accuracy,2017,1,FALSE,in-house,Classical,Classical
+A Multiobjective Music Recommendation Approach for Aspect-Based Diversification,2017,3,FALSE,"Last.fm, Music Brainz, DBpedia",Various (all),Various
+A Study on LSTM Networks for Polyphonic Music Sequence Modelling,2017,2,FALSE,"in-house combos of notes and chords, Piano-midi.de","Other (1), Classical (2)",Classical
+Audio to Score Matching by Combining Phonetic and Duration Information,2017,1,FALSE,jingju a cappella singing dataset,non-western (jingju),Non-Western
+Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation,2017,1,FALSE,SALAMI,doesn't specify,doesn't specify
+Automatic Playlist Sequencing and Transitions,2017,1,FALSE,"contained 30 “Discover Weekly”
+playlists",Various,Various
+Automatic Stylistic Composition of Bach Chorales with Deep LSTM,2017,1,FALSE,"the full set of Bach chorales in MusicXML format
+as provided by Cuthbert and Ariza [10]",Classical,Classical
+Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test,2017,2,FALSE,"two pieces of Chopin’s Mazurkas (Op. 24, No. 2 and Op. 30, No. 2) used in the previous works [10, 11] and Berekrev’s Islamey dataset, which Li et al [5] used.",Classical (both),Classical
+Discourse Analysis of Lyric and Lyric-Based Classification of Music,2017,1,FALSE,"A previously collected corpus of 275,905 sets of full lyrics
+was used for these experiments and we pre-processed the
+dataset in 6 different types to clean up lyrics [5]",Various,Various
+End-to-End Optical Music Recognition Using Neural Networks,2017,1,FALSE,"contains 94,984 random sequences from a vocabulary of 52 Common Western Music Notation symbols:",Other,Other
+Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval,2017,1,FALSE,"The dataset was collected by Pichl et al. [3] using Spotify
+API1. It contains 21,485 playlists created by 1,500 users,",Various,Various
+Freesound Datasets: A Platform for the Creation of Open Audio Datasets,2017,0,FALSE,n/a,n/a,N/A
+From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models,2017,2,FALSE,"WTC, Beatles dataset","Classical (1), Pop/Rock (2)","Classical, Pop, Rock"
+Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences,2017,1,FALSE,SALAMI,Pop,Pop
+High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM,2017,3,FALSE,"GTZAN, Ballroom, Soundtracks","Various (1), Other (2-3)",Various
+Identifying Raga Similarity Through Embeddings Learned from Compositions’ Notation,2017,1,FALSE,"Hindustani bandish dataset available from swarganga.org,",Non-western (raga),Non-Western
+Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method,2017,2,FALSE,"MAPS, RWC","Classical (1), Other (isolated note samples) (2)","Classical, Other"
+Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme,2017,6,FALSE,"20 tracks from the Chinese pop song dataset
+(CNPop20, or C); 29 tracks from the JayChou dataset (JayChou29, or J); 26 tracks from the Carole King + Queen dataset (K) dataset; 191 songs from the USPop dataset (U); 100 tracks from the RWC dataset (R); and 180 tracks from the TheBeatles180 (B) dataset [14].","Pop (1, 4-6), Doesn't specify (2), Rock (3, 6)",Pop
+Local Interpretable Model-Agnostic Explanations for Music Content Analysis,2017,1,FALSE,Jamendo,Doesn't specify,Doesn't Specify
+Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process,2017,1,FALSE,"""lyrics of commercially available
+popular music""",Pop,Pop
+Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers,2017,2,FALSE,"""two datasets of a capella recordings: one of 26 Bach Chorales and another of 22 Barbershop quartets. 2 Original recordings available at http://www.pgmusic.com/ {bachchorales.htm|barbershopquartet.htm}.","Classical (1), Other (barbershop music) (2)","Classical, Other"
+Onset Detection in Composition Items of Carnatic Music,2017,1,FALSE,"""Multi-track recordings of six live vocal concerts (~14
+hours)""",Non-western (Indian Carnatic music),Non-Western
+Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music,2017,1,FALSE,RWC-MDB-P-2001,pop,Pop
+The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology,2017,1,FALSE,Italian madrigal of the 16th century,Classical,Classical
+“I’m at #Osheaga!”: Listening to the Backchannel of a Music Festival on Twitter,2017,0,FALSE,n/a,n/a,N/A
+A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration,2017,1,TRUE,Projective Orchestral Database,Classical,Classical
+Analysis of Interactive Intonation in Unaccompanied SATB Ensembles,2017,2,FALSE,"""Two contrasting musical pieces were selected for this
+study: a Bach chorale, “Oh Thou, of God the Father”
+(BWV 164/6) and Leo Mathisen’s jazz song “To be or not
+to be”.""","Classical (1), Jazz (2)",Classical and Jazz
+Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks,2017,1,FALSE,IDMT-SMT-Drums,Doesn't specify,Instrument recordings
+Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data,2017,1,FALSE,compiled from Billboard charts,"Various (R&B/HipHop, Pop, Rock, Latin)",Various
+Chord Generation from Symbolic Melody Using BLSTM Networks,2017,1,FALSE,Wikifonia.org,"Various (Rock, Pop, Country, Jazz, Folk, R&B, Children's songs, etc.)",Various
+Cover Song Identification with Metric Learning Using Distance as a Feature,2017,1,FALSE,in-house,K-Pop,"Pop, Non-Western"
+Examining Musical Meaning in Similarity Thresholds,2017,0,FALSE,n/a,n/a,N/A
+Exploring Tonal-Dramatic Relationships in Richard Wagner’s Ring Cycle,2017,1,FALSE,Der Ring des Nibelungen,opera,Other
+Feature Discovery for Sequential Prediction of Monophonic Music,2017,2,FALSE,"1009 monophonic folk melodies from different countries and styles as well as the soprano lines of 185 Bach
+chorales.","Folk (1), Classical (2)","Folk, Classical"
+Generating Nontrivial Melodies for Music as a Service,2017,1,FALSE,"corpus of 10,000 MIDI files",Pop,Pop
+Geographical Origin Prediction of Folk Music Recordings from the United Kingdom,2017,1,FALSE,World & Traditional music collection of the British Library Sound Archive,Folk,Folk
+In Search of the Consensus Among Musical Pattern Discovery Algorithms,2017,2,FALSE,"Annotated Corpus of the Dutch Song Database, MIREX Discovery of Repeated Themes & Sections","Folk (1), Classical (2)","Folk, Classical"
+Informed Automatic Meter Analysis of Music Recordings,2017,2,FALSE,"Carnatic music rhythm dataset
+(CMR dataset), CompMusic Hindustani music research corpus",Non-western (both),Non-Western
+Intelligibility of Sung Lyrics: A Pilot Study,2017,1,FALSE,generated for study,"Various (Classical, Folk, Jazz, Pop/Rock, Rhythm & Blues)",Various
+Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network,2017,1,FALSE,LyricFind,Various,Various
+Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio,2017,2,FALSE,"Turkish dataset, lakh-vocal-segments","non-western (Turkish makam) (1), Pop (2)","Non-Western, Pop"
+Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music,2017,2,FALSE,"Jamendo, RWC-Pop","Doesn't specify (1), Pop (2)",Pop
+Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences,2017,1,FALSE,Lakh MIDI,Pop/Rock (Beatles),"Pop, Rock"
+"One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks",2017,2,FALSE,"The first corpus is a subset of 10 pages of the Einsiedeln, Stiftsbibliothek, Codex 611(89), from 1314. The second corpus consists of 10 pages of the Salzinnes Antiphonal manuscript (CDM-Hsmu M2149.14), music score dated 1554–5.",Other (Medieval music),Other
+Optical Music Recognition with Convolutional Sequence-to-Sequence Models,2017,1,FALSE,MuseScore,Doesn't specify,Doesn't Specify
+Re-Visiting the Music Segmentation Problem with Crowdsourcing,2017,2,FALSE,"Beatles-TUT, SALAMI",Pop/Rock (both),"Pop, Rock"
+Singing Voice Separation with Deep U-Net Convolutional Networks,2017,1,FALSE,generated for study,"Various (Pop, Rap, Dance & House, Electronica, R&B, Rock, Alternative, Children's, Metal, Latin, Indie Rock, Other)",Various
+Sketching Sonata Form Structure in Selected Classical String Quartets,2017,1,FALSE,in-house,Classical,Classical
