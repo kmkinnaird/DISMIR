@@ -10,14 +10,14 @@ The dataset genres were divided into ten categories, which are:
 - __Pop/Rock__: Western music with wide appeal (often found on record charts)
 - __Classical__: Western, often European, art music; generally produced between 1550 and 1900; includes both religious and secular music as well as classical opera
 - __Jazz__: a genre with many subgenres; often includes syncopation, improvisation, prominent meter, and distinctive performance techniques
-- _Folk_: music transmitted through oral tradition, often with unknown composers; often multigenerational and linked to national cultures
-- _Electronic_: music using electronic or digital instruments; electro-acoustic music also falls under this category
-- _Non-Western_: any non-North American popular music that does not fall under Pop/Rock or Classical genres
-- Instrument Recording: recordings of a single instrument playing a piece or single note/sound datasets; includes vocal datasets with single voices
-- Other: audio datasets that do not fit into other categories; i.e. ballroom music, movie/video game music, non-musical sounds, spoken voice, etc.
-- Various: datasets containing 3 or more of the above categories
-- Doesn't Specify: author does not specify the genre of the data used
-- N/A: non-audio datasets such as text or symbolic data
+- __Folk__: music transmitted through oral tradition, often with unknown composers; often multigenerational and linked to national cultures
+- __Electronic__: music using electronic or digital instruments; electro-acoustic music also falls under this category
+- __Non-Western__: any non-North American popular music that does not fall under Pop/Rock or Classical genres
+- __Instrument Recording__: recordings of a single instrument playing a piece or single note/sound datasets; includes vocal datasets with single voices
+- __Other__: audio datasets that do not fit into other categories; i.e. ballroom music, movie/video game music, non-musical sounds, spoken voice, etc.
+- __Various__: datasets containing 3 or more of the above categories
+- __Doesn't Specify__: author does not specify the genre of the data used
+- __N/A__: non-audio datasets such as text or symbolic data
 
 Some specific genres fall under multiple categories, such as Japanese or Korean pop music which is labelled as both Pop and Non-Western.
 
@@ -35,7 +35,7 @@ Each dataset contains the following variables:
 - `paper_name`: 'chr' - Title of reviewed paper
 - `year`: 'num' - Conference year the paper was accepted
 - `num_datasets`: 'num' - Number of datasets used in paper
-- `introduced`: 'bool' - True if paper introduced a newly available dataset, False otherwise
+- `introduced`: 'bool' - True if paper introduced a newly available dataset (publicly available or made available by request), False otherwise
 - `description`: 'chr' - Description of datasets used in paper analysis
 - `genre`: 'chr' - Description of genres included in used datasets
 - `genre_clean`: 'chr' - Standardized categorization of used genres (possible values in Background)
