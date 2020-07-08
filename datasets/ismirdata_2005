@@ -1,0 +1,124 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+01. Challenges in Cross-Cultural/Multilingual Music Information Seeking (pp. 1-7),2005,2,TRUE,"Naver 지식 (knowledge) iN2, and Google Answers",not music,Various
+"02. Music Information Retrieval, Memory and Culture: Some Philosohpical Remarks (pp. 8-12)",2005,0,FALSE,n/a,n/a,N/A
+03. Factors Affecting Automatic Genre Classification: An Investigation Incorporating Non-Western Musical Forms (pp. 13-20),2005,1,FALSE,In house Malay dataset,"Malay, Blues, Classical, Jazz, Pop and Rock","Non-Western, Various"
+04. Discovering and Visualizing Prototypical Artists by Web-Based Co-Occurrence Analysis (pp. 21-28),2005,2,FALSE,"data set containing 224
+artists from 14 genres and google queries",not music,Various
+05. Geospatial Location of Music and Sound Files for Music Information Retrieval (pp. 29-33),2005,1,FALSE,web crawl,not music,N/A
+06. Evaluation of Feature Extractors and Psycho-Acoustic Transformations for Music Genre Classification (pp. 34-41),2005,3,FALSE,"GTZAN, ISMIR 2004 Rhythm classification, and ISMIR 2004 Genre",GTZAN - 10 different Genres,Various
+07. ACE: A Framework for Optimizing Music Classification (pp. 42-49),2005,11,FALSE,five-class beat-box experiment - In house gathered data,beat box,Instrumental
+08. Collecting Ground Truth Annotations for Drum Detection in Polyphonic Music (pp. 50-57),2005,2,FALSE,In house - 52 music fragments,different genres,Various
+09. On Techniques for Content-Based Visual Annotation to Aid Intra-Track Music Navigation (pp. 58-65),2005,1,FALSE,In house,various,Various
+10. Symbolic Representation of Musical Chords: A Proposed Syntax for Text Annotations (pp. 66-71),2005,1,TRUE,created a text dataset on Beatles,pop,Pop
+11.  Annotating Musical Scores in ENP (pp. 72-76),2005,0,FALSE,n/a,n/a,N/A
+12.  MUCOSA: A Music Content Semantic Annotator (pp. 77-83),2005,1,TRUE,created dataset that is subset of  Magnatune,various,Various
+13. Specmurt Analysis of Multi-Pitch Music Signals with Adaptive Estimation of Common Harmonic Structure (pp. 84-91),2005,1,FALSE,subsets of RWC Music Database,Jazz and Classical,"Jazz, Classical"
+14. Drum Track Transcription of Polyphonic Music Using Noise Subspace Projection (pp. 92-99),2005,1,FALSE,Created in-house dataset,"various including ""blues, twist, metal, funk, celtic...""",Various
+15. Using a Pitch Detector for Onset Detection (pp. 100-106),2005,1,FALSE,"""Pitched non-percussive (PNP) soundfiles originally prepared and annotated by Juan Bello formed the test set. 11 source files were selected, containing 129 onsets, comprising slow attack and high vibrato sounds from strings and voices.""",string sounds and voice sounds,Instrumental
+16. Segmentation and Recognition of Tabla Strokes (pp. 107-114),2005,3,TRUE,3 tabla datasets - two built for the paper and one previous work,tabla,"Instrumental, Non-Western"
+17. Harmonic-Temporal Clustering via Deterministic Annealing EM Algorithm for Audio Feature Extraction (pp. 115-122),2005,1,FALSE,subsets of RWC Music Database,Jazz and Classical,"Jazz, Classical"
+18. A Proposal for Support of Work Relationships in a Digital Music Library (pp. 123-129),2005,0,FALSE,n/a,n/a,N/A
+19. New Music Interfaces for Rhythm-Based Retrieval (pp. 130-136),2005,3,TRUE,"three in house datasets - techno, tabla, and music clips (including jazz, funk, pop/rock. and dance)",various,Various
+20. Content-Based Music Information Retrieval in Wireless Ad-Hoc Networks (pp. 137-144),2005,1,FALSE,"in-house (""300 real acoustic sequences, which correspond to various pop songs"")",pop,Pop
+21. Fast Capture of Sheet Music for an Agile Digital Music Library (pp. 145-152),2005,0,FALSE,three test images of sheet music,not sound,N/A
+22. A Survey of Music Information Retrieval Systems (pp. 153-160),2005,0,FALSE,n/a,n/a,N/A
+23. A Classification Approach to Melody Transcription (pp. 161-166),2005,1,FALSE,"In-house - "" 30 multi-track recordings was obtained from genres such as jazz, pop, R&B, and rock""",various genres,Various
+24. A Pattern Extraction Algorithm for Abstract Melodic Representations that Allow Partial Overlapping of Intervallic Categories (pp. 167-174),2005,0,FALSE,n/a,n/a,N/A
+25. On the Detection of Melody Notes in Polyphonic Audio (pp. 175-182),2005,3,FALSE,Melody Extraction Contest (MEC-04) and in house set and  ISMIR 2004 Audio Description Contest (ADC),"various (including pop, classical, opera, scottish folk)",Various
+26. A Query-By-Example Technique for Retrieving Cover Versions of Popular Songs with Similar Melodies (pp. 183-190),2005,1,TRUE,"in-house pop music (3 subsets) contains three languages: english, Mandarin & Japanese",pop,"Pop, Non-Western"
+27. Efficient Extraction of Closed Motivic Patterns in Multi-Dimensional Symbolic Representations of Music (pp. 191-198),2005,1,FALSE,"Symbolic music (including classical, pop, and jazz)",various but symbolic,Various
+28. Iterative Deepening for Melody Alignment and Retrieval (pp. 199-206),2005,2,FALSE,"Created 1 of people humming/singing and second of synthetic ""themes""",various including pop and show tunes,Various
+29. Markov Random Fields and Maximum Entropy Modeling for Music Information Retrieval (pp. 207-214),2005,4,FALSE,"all symbolic, mostly baroque and Classical. Including 3 sets that are each versions of the same piece",mostly classical and baroque,Classical
+30. Polyphonic Musical Sequence Alignment for Database Search (pp. 215-222),2005,1,FALSE,"""300 Bach four-part chorale harmonizations, encoded as MIDI files"" previously available online",classical (but also MIDI),Classical
+31. A Bootstrap Method for Training an Accurate Audio Segmenter (pp. 223-229),2005,1,FALSE,"several versions of the ""english suite"" by R. Bernard Fitgerald, including MIDI and acoustic recording",English folk,Folk
+32. Exploiting the Tradeoff Between Precision and Cpu-Time to Speed Up Nearest Neighbor Search (pp. 230-237),2005,1,FALSE,"It doesn't explicitly say, but I thinkthey are using the Cuidado database from the first cited paper",various,Various
+33. Scalable Metadata and Quick Retrieval of Audio Signals (pp. 238-244),2005,1,FALSE,RWC database,NA,Various
+34. Applications of Binary Classification and Adaptive Boosting to the Query-By-Humming Problem (pp. 245-251),2005,2,FALSE,digital tradition database + collected sung recordings,folk melodies,Folk
+35. Genre Classification via an LZ78-Based String Kernel (pp. 252-259),2005,1,FALSE,"same as from ""Music genres
+classification of audio signals"" -- 100 songs of each 10 genres",various,Various
+36. Novelty Detection Based on Spectral Similarity of Songs (pp. 260-263),2005,1,FALSE,In house collection with 22 genres,various,Various
+37. Improving Content-Based Similarity Measures by Training a Collaborative Model (pp. 264-271),2005,2,FALSE,Collection of list of playlists AND extracted features of audio,various,Various
+38. A Music Retrieval System Based on User Driven Similarity and Its Evaluation (pp. 272-279),2005,2,FALSE,"First, a music collection comprising 2248 popular songs
+extracted from 169 CD albums from 111 different artists
+covering 7 different musical genres released in the period from 1963 to 2001 . Second, user study creating playlists",various,Various
+39. Comparing Pitch Spelling Algorithms (pp. 280-287),2005,1,FALSE,test corpus of classical works in MIDI format,classical (but symbolic),Classical
+40. Audio Matching via Chroma-Based Statistical Features (pp. 288-295),2005,1,FALSE,In house collection of classical music,classical,Classical
+41. Fuzzy Analysis in Pitch-Class Determination for Polyphonic Audio Key Finding (pp. 296-303),2005,1,FALSE,classical music (MIDI),classical (but symbolic),Classical
+42. A Robust Mid-Level Representation for Harmonic Content in Music Signals (pp. 304-311),2005,1,FALSE,test set from Harte and Sandler (2005) --> 28 Beatles recordings from two albums,pop,"Pop, Rock"
+43. A Probabilistic Model for Chord Progressions (pp. 312-319),2005,1,FALSE,"""52 jazz standards excerpts from Sher""",jazz,Jazz
+44. The 2005 Music Information retrieval Evaluation Exchange (MIREX 2005): Preliminary Overview (pp. 320-323),2005,1,FALSE,10 contests,various,Various
+45. Inferring Efficient Hierarchical Taxonomies for MIR Tasks: Application to Musical Instruments (pp. 324-328),2005,1,FALSE,inhouse data of musical solos,not specified,Instrumental
+46. Singer Identification Based on Accompaniment Sound Reduction and Reliable Frame Selection (pp. 329-336),2005,1,FALSE,RWC Music Database: Popular,J-Pop,"Pop, Non-Western"
+47. Separation of Vocals from Polyphonic Audio Recordings (pp. 337-344),2005,2,FALSE,"inhouse 240 tracks, and ISMIR 2004 Melody extraction (MEC-2004)",various (Eastern & Western music),Various
+48. Frame-Level Audio Feature Extraction Using AdaBoost (pp. 345-350),2005,1,FALSE,"data from 1997 - ""The data was collected at random from the radio by Eric Scheirer during his internship at Interval Research Corporation in the summer of 1996 under the supervision of Malcolm Slaney""",various,Various
+49. Classification of Musical Metre with Autocorrelation and Discriminant Functions (pp. 351-357),2005,2,FALSE,folk melodies in MIDI - Essen collection and the Digital Archive of Finnish Folk Tunes,folk,Folk
+50. ATTA: Automatic Time-Span Tree Analyzer Based on Extended GTTM (pp. 358-365),2005,1,FALSE,in house collection of 100 of symbolic 8 bar pieces,classical,Classical
+"51. Toward Automated Holistic Beat Tracking, Music Analysis and Understanding (pp. 366-373)",2005,1,FALSE,In house 16 song pop dataset,pop,Pop
+52. Rhythm-Based Segmentation of Popular Chinese Music (pp. 374-380),2005,1,FALSE,In house 21 Chinese pop songs,Chinese pop,"Pop, Non-Western"
+53. Syncplayer - An Advanced System for Multimodal Music Access (pp. 381-388),2005,0,FALSE,n/a,n/a,N/A
+54. What You See Is What You Get: on Visualizing Music (pp. 389-395),2005,0,FALSE,n/a,n/a,N/A
+55. Databionic Visualization of Music Collections According to Perceptual Distance (pp. 396-403),2005,3,FALSE,2 in house and 1 - Musical Audio Benchmark (MAB) dataset,"various including pop, alternative, blues, electronic",Various
+"56. Musicream: New Music Playback Interface for Streaming, Sticking, Sorting, and Recalling Musical Pieces (pp. 404-411)",2005,1,FALSE,RWC Music Database,J-Pop,"Pop, Non-Western"
+57. A Real-Time Interactive Drummer Using Constraint-Satisfaction and Drum Sound Descriptors (pp. 412-419),2005,1,FALSE,Constructed MIDI drummer dataset,drumming - Rhythmic,Instrumental
+58. Theory and Evaluation of a Bayesian Music Structure Extractor (pp. 420-425),2005,1,FALSE,14 pop songs from Sony,pop,Pop
+59. The CLAM Annotator: A Cross-Platform Audio Descriptors Editing Tool (pp. 426-429),2005,0,FALSE,n/a,n/a,N/A
+61. Distributed Audio Feature Extraction for Music (pp. 434-437),2005,1,FALSE,"audio collection of 10000 songs, but used to show processing power, not any MIR things",unspecified,Doesn't Specify
+62. Learning Harmonic Relationships in Digital Audio with Dirichlet-Based Hidden Markov Models (pp. 438-443),2005,1,FALSE,Classical music recordings,classical,Classical
+63. Automatic X Traditional Descriptor Extraction: the Case of Chord Recognition (pp. 444-449),2005,1,FALSE,"three subsets taken from ""D’accord Guitar Chord Database, a guitar midi based chord database""",midi based,Non-Western
+64. Melodic Similarity Algorithms -- Using Similarity Ratings for Development and Early Evaluation (pp. 450-453),2005,1,FALSE,"variations of ""Twinkle, Twinkle little star""",classical (or folk?),Classical
+"65. On Tuning the (δ,α)-Sequential-Sampling Algorithm for δ-Approximate Matching with Alpha-Bounded Gaps in Musical Sequences (pp. 454-459)",2005,1,FALSE,classical musics in MIDI format,Classical (but MIDI),Classical
+"66. Solving the (δ,α)-Approximate Matching Problem Under Transposition Invariance in Musical Sequences (pp. 460-463)",2005,0,FALSE,n/a,n/a,N/A
+67. Foafing the Music: A Music Recommendation System based on RSS Feeds and User Preferences (pp. 464-467),2005,0,FALSE,n/a,n/a,N/A
+68. Detection of Key Change in Classical Piano Music (pp. 468-473),2005,1,FALSE,10 classical music pieces,Classical,Classical
+"69. ""The Pain, the Pain"": Modelling Music Information Behavior and the Songs We Hate (pp. 474-477)",2005,1,TRUE,Collected user study,not music,N/A
+70. Using the Gamera Framework for Building a Lute Tablature Recognition System (pp. 478-481),2005,7,FALSE,tablature sheet music,classical (lute music),Classical
+71. Marc Leman & Jean-Pierre Martens: A Simulated Annealing Optimization of Audio Features for Drum Classification (pp. 482-487),2005,1,FALSE,in house pop music,pop,"Pop, Rock"
+72. Automatic Prediction of Hit Songs (pp. 488-491),2005,1,FALSE,in house music,"various including reggae, pop, and classical",Various
+73. MATCH: A Music Alignment Tool Chest (pp. 492-497),2005,3,FALSE,"Bosendorfer Data, BassRoot Data, and hand annotated files",classical,Classical
+74. Extracting Quality Parameters for Compressed Audio from Fingerprints (pp. 498-503),2005,1,FALSE,In house (39 seconds each of 11 songs),rock & classical (I believe),"Rock, Classical"
+75. Finding Meter in Music Using An Autocorrelation Phase Matrix and Shannon Entropy (pp. 504-509),2005,5,FALSE,1-2) Ballroom and Song Excerpts databases from the ISMIR 2004 Tempo Induction contest. The 3) Essen European Folksong database and 4) the Finnish Folk Song database. 5) 35 artificial patterns from Povel and Essens (1985),"ballroom, folk, simulated",Various
+76. Combining D2K and JGAP for Efficient Feature Weighting for Classification Tasks in Music Information Retrieval (pp. 510-513),2005,5,FALSE,1) snare drum timbre recognition problem presented by Tindale et al. (2004) and 2) beat box set from Sinyor et. al. 2005,drums and beat box,Single Instrument
+77. Pitch Track Target Deviation in Natural Singing (pp. 514-519),2005,1,FALSE,"""The data used for this study was initially collected to study the differences between speaking and singing (Gerhard, 2002). 50 subjects were prompted to speak and sing various lyrics.""","sung ""O Canada""",Other
+78. Visual Playlist Generation on the Artist Map (pp. 520-523),2005,0,FALSE,n/a,n/a,N/A
+79. The Persian Music and the Santur Instrument (pp. 524-527),2005,1,FALSE,In house recorded test set,"Persian, notes on Santur","Folk, Non-Western"
+80. A Benchmark Dataset for Audio Classification and Clustering (pp. 528-531),2005,1,TRUE,created dataset with audio and meta data,"Pop, Rock, Folk/Country, Alternative, Jazz, Electronic, Blues, Rap/HipHop, Funk/Soul.",Various
+81. Lyrics Recognition from a Singing Voice Based on Finite State Automaton for Music Information Retrieval (pp. 532-535),2005,1,FALSE,"In-house - Singing voice samples with "" Segmentation and the recognition were performed by HTK (Cambridge University Engineering Department)""",vocals,Other
+82. Mining Music Reviews: Promising Preliminary Results (pp. 536-539),2005,2,FALSE,in house review datasets,(not audio),N/A
+83. Tonal Similarity from Audio Using a Template Based Attractor Model (pp. 540-545),2005,2,FALSE,one in house and one Chopin Mazurka recordings,"classical, vocal",Classical
+84. Continuous HMM and Its Enhancement for Singing/Humming Query Retrieval (pp. 546-551),2005,2,TRUE,"a MIDI database of 38 children’s
+songs and a corresponding singing voice corpus called
+SQC (Sung Query Corpus) (available on 
+http://www.cs.nthu.edu.tw/~jang
+Please follow the link of “MIR corpora” to download
+the SQC corpus and corresponding documents)","folk, vocal",Folk
+85. VOISE: Learning to Segregate Voices in Explicit and Implicit Polyphony (pp. 552-557),2005,1,FALSE,musical excepts from Ciaccona by Bach,classical,Classical
+"86. Instrument Identification in Polyphonic Music: Feature Weighting with Mixed 
+Sounds, Pitch-Dependent Timbre Modeling, and Use of Musical Context (pp. 558-563)",2005,2,FALSE,RWC-MDB-I2001 and RWC-MDB-C2001,Instrumental and classical,Classical
+87. Multiple Lyrics Alignment: Automatic Retrieval of Song Lyrics (pp. 564-569),2005,1,FALSE,In hosue dataset - various genres,various,Various
+88. Preservation Digitization of David Edelberg's Handel LP Collection: A Pilot Project (pp. 570-575),2005,0,FALSE,proposing method for developing datasets with meta data,classical,Classical
+89. Musical Genre Classification Enhanced by Improved Source Separation Technique (pp. 576-581),2005,1,FALSE,"1049 music pieces from 4 genres of greek songs, namely Rebetico (396 pieces), Dimotiko (106 pieces), Laiko (414 pieces), and Entechno (133 pieces)",greek music,Non-Western
+90. A Hierarchical Approach for Audio Stream Segmentation and Classification (pp. 582-585),2005,1,FALSE,in house - 6 hours of Chinese TV new program,Other,Other
+91. A Histogram Algorithm for Fast Audio Retrieval (pp. 586-589),2005,1,FALSE,in house - TV ads from TV broadcast,Other,Other
+92. SoniXplorer: Combining Visualization and Auralization for Content-Based Exploration of Music Collections (pp. 590-593),2005,0,FALSE,n/a,n/a,N/A
+93. Song-Level Features and Support Vector Machines for Music Classification (pp. 594-599),2005,1,FALSE,uspop2002,Pop,Pop
+94. jAudio: An Feature Extraction Library (pp. 600-603),2005,0,FALSE,n/a,n/a,N/A
+95. An Investigation of Feature Models for Music Genre Classification Using the Support Vector Classifier (pp. 604-609),2005,1,FALSE,"In-house: 11 music genres distributed evenly among the following categories: Alternative, Country, Easy Listening, Electronica, Jazz, Latin, Pop&Dance, Rap&Hiphop, R&B and Soul, Reggae and Rock",various,Various
+96. The Mel-Frequency Cepstral Coefficients in the Context of Singer Identification (pp. 610-613),2005,1,FALSE,In house- sung dataset,sung,Instrumental
+97. Speech/Music Discrimination Using a Single Warped LPC-Based Feature (pp. 614-617),2005,1,FALSE,"in house - speech data from radio and TV news programs, dialogues in movies. Languages include English, Spanish, French and German",speech/dialogue,Other
+"98. PlaySOM and PocketSOMPlayer, Alternative Interfaces to Large Music Collections (pp. 618-623)",2005,0,FALSE,n/a,n/a,N/A
+99. Experiments on Segmentation Techniques for Music Documents Indexing (pp. 624-627),2005,1,FALSE,in house MIDI pop music,pop (MIDI),Pop
+100. Improvements of Audio-Based Music Similarity and Genre Classificaton (pp. 628-633),2005,4,FALSE,In house (large & small) and Magnatune (small & large) - Magnatune was part of the ISMIR 2004 genre classification contest,various,Various
+101. Dynamic Playlist Generation Based on Skipping Behavior (pp. 634-637),2005,1,FALSE,"In house data for user study on playlist generation, 22 genres",various,Various
+102. User Evaluation of a New Interactive Playlist Generation Concept (pp. 638-643),2005,1,FALSE,In house data for user test with 7 different genres,various,Various
+103. Rhythm Classification Using Spectral Rhythm Patterns (pp. 644-647),2005,1,FALSE,ballroom dancer database,ballroom,Other
+104. Classifier Combination for Capturing Musical Variation (pp. 648-651),2005,4,FALSE,"1) 3000 polyphonic music pieces from the CCARH at Stanford (baroque & classical), 3 datasets that are variations on a theme ('Twinkle, twinkle, little star’, ‘Lachrimae Pavan’ and ‘Les Folies d’Espagne’.)",Classical and Other,"Classical, Other"
+105. A Novel HMM Approach to Melody Spotting in Raw Audio Recordings (pp. 652-657),2005,2,FALSE,1) commericial cello recordings (classical) and 2) Greek traditional music (folk),classical and folk,"Classical, Folk"
+106. A Graphical Model for Recognizing Sung Melodies (pp. 658-663),2005,1,FALSE,in house sung dataset,folk/happy birthday,Other
+107. Online Database of Scores in the Humdrum File Format (pp. 664-665),2005,1,TRUE,Created KernScores,mostly classical,Classical
+108. On the Modeling of Time Information for Automatic Genre Recognition Systems in Audio Signals (pp. 666-671),2005,1,FALSE,In house data with 7 different genres,"Blues, Classical, Electronica, Jazz, R&B/Soul, Rap and Rock",Various
+109. Beatbox Classification Using ACE (pp. 672-675),2005,1,TRUE,Collected in house beat box dataset,beat box,Instrumental
+110. Herding Folksongs (pp. 676-679),2005,0,FALSE,n/a,n/a,N/A
+111. Finding An Optimal Segmentation for Audio Genre Classification (pp. 680-685),2005,1,FALSE,"in house with 7 genres; Rock, Reggae, Heavy Metal, Classical, Jazz & Blues, Jungle and Drum & Bass",Various,Various
+112. Efficient Melody Retrieval with Motif Contour Classes (pp. 686-689),2005,2,FALSE,Musical snippet databases: Typke et al. (2005) and Müllensiefen and Frieler (2004),Various,Various
+113. A Partial Searching Algorithm and Its Application for Polyphonic Music Transcription. (pp. 690-695),2005,1,FALSE,one Recording of Bach's Fugue in C,Classical,Classical
+114. Towards a Fast and Efficient Match Algorithm for Content-Based Music Retrieval on Acoustic Data (pp. 696-701),2005,1,FALSE,In house dataset with 166 Chinese folk songs and 122 western pieces,Folk and western instrument sounds,"Folk, Instrumental"
