@@ -1,0 +1,118 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+PS1.1 Image Quality Estimation for Multi-Score OMR,2015,2,FALSE,"IMSLP, Mutopia Project",Classical - Beethoven,Classical
+PS1.2 Comparative Music Similarity Modelling Using Transfer Learning Across User Groups,2015,2,TRUE,"CASimIR (created), Magnatatune",similarity ratings (no music),N/A
+PS1.3 Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features,2015,1,FALSE,Pandora Music Genome Project,"Basic Genre: Rock, Jazz, Rap, Latin, Disco, Bluegrass, etc",Various
+PS1.4 Cover Song Identification with Timbral Shape Sequences,2015,1,FALSE,Covers 80,pop,Pop
+PS1.5 On the Impact of Key Detection Performance for Identifying Classical Music Styles,2015,2,FALSE,Sympth and Saarland Music Data western music,"sympth: classical, SMD: orchestra and chamber music",Classical
+PS1.6 Chord Detection Using Deep Learning,2015,4,FALSE,"Beatles, RWC Pop, Zweieck, Queen - OMRAS2, and RWC","Pop/Rock, Pop, EDM, Rock",Various
+PS1.7 Temporal Music Context Identification with User Listening Data,2015,1,FALSE,Gracenote DS,Holiday music,Other
+PS1.8 Improving Music Recommendations with a Weighted Factorization of the Tagging Activity,2015,1,FALSE,Last.fm,Various,Various
+PS1.9 An Efficient State-Space Model for Joint Tempo and Meter Tracking,2015,6,FALSE,"Ballroom, Hainsworth, SMC, Greek, Turkish, Indian DS, Experimental",many,Various
+PS1.10 Automatic Handwritten Mensural Notation Interpreter: From Manuscript to MIDI Performance,2015,2,FALSE,collection of classical manuscripts,classical,Classical
+PS1.11 Infinite Superimposed Discrete All-Pole Modeling for Multipitch Analysis of Wavelet Spectrograms,2015,1,FALSE,MAPS,stereo signals (not sure if music),Genre N/A
+PS1.12 Melodic Similarity in Traditional French-Canadian Instrumental Dance Tunes,2015,1,FALSE,Virtual Gramophone,French-canadian instrumental dance music,Other
+PS1.13 A Semantic-Based Approach for Artist Similarity,2015,2,FALSE,"Last.fm, MIREX audio similarity task",not specified,Doesn't Specify
+PS1.14 Predicting Pairwise Pitch Contour Relations Based on Linguistic Tone Information in Beijing Opera Singing,2015,1,FALSE,Beijing Opera,opera,Other
+PS1.15 Song2Quartet: A System for Generating String Quartet Cover Songs from Polyphonic Audio of Popular Music,2015,1,NA,RWC,classical,Classical
+PS1.16 Exploring Data Augmentation for Improved Singing Voice Detection with Neural Networks,2015,4,FALSE,"2 in house, Jamendo, RWC","Rock, pop, two in house don't specify",Various
+PS1.17 Audio Chord Recognition with a Hybrid Recurrent Neural Network,2015,2,FALSE,"MIREX audio chord estimation, Billboard: Beatles, Queen, Zweieck","Pop/Rock, Pop, EDM",Various
+PS1.18 Design and Evaluation of a Probabilistic Music Projection Interface,2015,0,FALSE,n/a,n/a,N/A
+PS1.19 Conceptual Blending in Music Cadences: A Formal Model and Subjective Evaluation,2015,1,FALSE,cadences?,recordings of chords doesn't specify anything...,N/A
+PS1.20 Harmonic-Percussive Source Separation Using Harmonicity and Sparsity Constraints,2015,1,FALSE,MASS database,doesn't specify,Doesn't Specify
+PS1.21 A Hierarchical Bayesian Framework for Score-Informed Source Separation of Piano Music Signals,2015,2,FALSE,[15] and RWC,piano pieces (rwc),Single Instrument
+PS1.22 Automatic Tune Family Identification by Musical Sequence Alignment,2015,1,NA,folk song database -doesn't specify,folk (english and japanese),Folk
+PS1.23 Evaluation of Album Effect for Feature Selection in Music Genre Recognition,2015,2,NA,In house,"Pop/Rock, Classical, Electronic, Jazz, rap, R&B",Various
+PS1.24 Music Pattern Discovery with Variable Markov Oracle: A Unified Approach to Symbolic and Audio Representations,2015,1,FALSE,JKU Pattern Development Dataset,classical,Classical
+PS1.25 Automatic Solfège Assessment,2015,1,FALSE,audio recordings from 7 singers,not specified,Doesn't Specify
+PS1.26 Evaluating Conflict Management Mechanisms for Online Social Jukeboxes,2015,0,FALSE,n/a,n/a,N/A
+PS1.27 Particle Filters for Efficient Meter Tracking with Dynamic Bayesian Networks,2015,1,FALSE,Carnatic Music Dataset (CMD),carnatic music,Non-Western
+PS1.28 Predictive Power of Personality on Music-Genre Exclusivity,2015,2,FALSE,"MixRadio database, EchoNest DB","classical, country, dance, folk, indie, jazz,metal,pop,rap and rock",Various
+PS1.29 A Toolkit for Live Annotation of Opera Performance: Experiences Capturing Wagner's Ring Cycle,2015,0,FALSE,n/a,n/a,N/A
+PS1.30 Selective Acquisition Techniques for Enculturation-Based Melodic Phrase Segmentation,2015,3,FALSE,"Meertens Tune Collection (MTC), Essen folk song collection (EFSC), Old Hungarian Folksong types col. (OHFT)","dutch folk songs, eurasia folk songs, hungarian folk songs",Folk
+OS1.1 Corpus Analysis Tools for Computational Hook Discovery,2015,1,FALSE,In house,doesn't specify,Doesn't Specify
+OS1.2 Large-Scale Content-Based Matching of MIDI and Audio Files,2015,1,FALSE,collected database of MIDI files and the Million Song Dataset,Doesn't specify,Doesn't Specify
+OS1.3 Improving Genre Annotations for the Million Song Dataset,2015,2,FALSE,"Million Song DS, Last.fm","rock, pop, alternative, indie, electronic",Various
+OS1.4 A Software Framework for Musical Data Augmentation,2015,1,FALSE,Medley DB,many genres - doesn't specify,Various
+OS2.1 Drum Transcription Using Partially Fixed Non-Negative Matrix Factorization with Template Adaptation,2015,2,FALSE,"ENST drum DS, IDMT-SMT Drums",drum reordings,Single Instrument
+OS2.2 Beat and Downbeat Tracking Based on Rhythmic Patterns Applied to the Uruguayan Candombe Drumming,2015,1,NA,35 recordings of candombe performances,Candombe drumming,Non-Western
+OS2.3 Automated Estimation of Ride Cymbal Swing Ratios in Jazz Recordings,2015,1,FALSE,Weimar Jazz Database,Jazz,Jazz
+PS2.1 Musical Offset Detection of Pitched Instruments: The Case of Violin,2015,1,FALSE,63 violin solo excerpts from youtube,Classical,Classical
+PS2.2 Specter: Combining Music Information Retrieval with Sound Spatialization,2015,0,FALSE,n/a,n/a,N/A
+PS2.3 Content-Aware Collaborative Music Recommendation Using Pre-trained Neural Networks,2015,1,FALSE,Million Song DS,not specified,Doesn't Specify
+PS2.4 Comparative Analysis of Orchestral Performance Recordings: An Image-Based Approach,2015,1,FALSE,dataset from PHENICX project,classical,Classical
+PS2.5 Monaural Blind Source Separation in the Context of Vocal Detection,2015,1,FALSE,149 annotated rock songs by 149 artists - in house,rock,Rock
+PS2.6 Detection of Common Mistakes in Novice Violin Playing,2015,1,TRUE,981 legato notes played by violin players different experience levels,Instrument Recording,Single Instrument
+PS2.7 Probabilistic Modular Bass Voice Leading in Melodic Harmonisation,2015,8,FALSE,see table,Various,Various
+PS2.8 An Iterative Multi Range Non-Negative Matrix Factorization Algorithm for Polyphonic Music Transcription,2015,2,FALSE,"MAPS, ENSTDkCI",piano recordings,Single Instrument
+"PS2.9 Training Phoneme Models for Singing with ""Songified"" Speech Data",2015,3,FALSE,"TIMIT speech dataset, XX","english spoken phrases, pop",Pop
+PS2.10 Graph-Based Rhythm Interpretation,2015,1,FALSE,IMSLP,classical? (not super sure abt this one),Classical
+PS2.11 Let it Bee -- Towards NMF-Inspired Audio Mosaicing,2015,1,FALSE,various songs (all genres) and recorded sounds (different types),various,Various
+PS2.12 Real-Time Music Tracking Using Multiple Performances as a Reference,2015,1,FALSE,in house,classical,Classical
+PS2.13 Two Data Sets for Tempo Estimation and Key Detection in Electronic Dance Music Annotated from User Corrections,2015,1,FALSE,GiantSteps,EDM,Electronic
+PS2.14 Towards Support for Understanding Classical Music: Alignment of Content Descriptions on the Web,2015,1,FALSE,paragraphs corresponding to partial content descriptions from websites (done in 9),N/A (not music),N/A
+PS2.15 FlaBase: Towards the Creation of a Flamenco Music Knowledge Base,2015,1,TRUE,FLABASE,palos - flamenco genre,Non-Western
+PS2.16 Discovery of Syllabic Percussion Patterns in Tabla Solo Recordings,2015,1,FALSE,17 minutes of audio from video shades of tabla,Tabla,Non-Western
+PS2.17 Autoregressive Hidden Semi-Markov Model of Symbolic Music Performance for Score Following,2015,1,FALSE,individual classical pieces,classical,Classical
+PS2.18 Automatic Mashup Creation by Considering both Vertical and Horizontal Mashabilities,2015,1,FALSE,dataset from [14] can't find it in linked paper,pop,Pop
+PS2.19 Hierarchical Evaluation of Segment Boundary Detection,2015,1,FALSE,SALAMI DS (410 tracks),not specified,Doesn't Specify
+PS2.20 Improving MIDI Guitar's Accuracy with NMF and Neural Net,2015,0,FALSE,phrases played on guitar,Doesn't specify,Doesn't Specify
+PS2.21 Analysis of Intonation Trajectories in Solo Singing,2015,1,FALSE,"three songs from the musical “The Sound of Music”: “Edelweiss”, “Do-Re-Mi” and “My Favourite Things.”",Other,Other
+PS2.22 Evaluating the General Chord Type Representation in Tonal Music and Organising GCT Chord Labels in Functional Chord Categories,2015,1,FALSE,Kostka & Payne harmonic datase,Doesn't specify,Doesn't Specify
+PS2.23 Beat Histogram Features from NMF-Based Novelty Functions for Music Classification,2015,2,FALSE,"GTZAN, Ballroom","Various (1), Other (Ballroom) (2)",Other
+PS2.24 Music Shapelets for Fast Cover Song Recognition,2015,2,FALSE,"123 Classical, Youtube Covers","Classical (1), Various (2)",Classical
+PS2.25 Improving Score-Informed Source Separation for Classical Music through Note Refinement,2015,1,FALSE,Bach10,Classical,Classical
+PS2.26 In Their Own Words: Using Text Analysis to Identify Musicologists' Attitudes towards Technology,2015,0,FALSE,n/a,n/a,N/A
+PS2.27 Combining Features for Cover Song Identification,2015,1,FALSE,Second Hand Song,Various? - covers of originial works,Various
+PS2.28 Score Following for Piano Performances with Sustain-Pedal Effects,2015,1,FALSE,MAPS,Doesn't specify,Single Instrument
+PS2.29 Understanding Users of Commercial Music Services through Personas: Design Implications,2015,0,FALSE,n/a,n/a,N/A
+PS2.30 Corpus-Based Rhythmic Pattern Analysis of Ragtime Syncopation,2015,1,FALSE,RAG-collection,Other (Ragtime),Other
+OS3.1 Comparing Voice and Stream Segmentation Algorithms,2015,2,FALSE,"48 fugues of Well-Tempered Clavierby J. S. Bach, and 97 pop files","Classical (1), Pop (2)","Classical, Pop"
+OS3.2 Melody Extraction by Contour Classification,2015,1,FALSE,MedleyDB,various,Various
+OS3.3 Comparison of the Singing Style of Two Jingju Schools,2015,1,FALSE,jingju music research  corpus,Non-western (jingju),Non-Western
+OS4.1 Improving Optical Music Recognition by Combining Outputs from Multiple Sources,2015,1,FALSE,string  quartets  and piano  sonatas  by  Mozart,Classical,Classical
+OS4.2 Relating Natural Language Text to Musical Passages,2015,2,FALSE,"""The scores were obtained  from  two  sources.  Most came from musescore.com. Two Bach chorales were used and  both  came  from  www.jsbchorales.net.""",Classical (both),Classical
+OS4.3 Music Boundary Detection Using Neural Networks on Combined Features and Two-Level Annotations,2015,1,FALSE,SALAMI,Various,Various
+OS4.4 Neuroimaging Methods for Music Information Retrieval: Current Findings and Future Prospects,2015,0,FALSE,n/a,n/a,N/A
+OS5.1 Improving Visualization of High-Dimensional Music Similarity Spaces,2015,2,FALSE,"GTZAN, ISMIR2004",Various (both),Various
+OS5.2 I-Vectors for Timbre-Based Music Similarity and Music Artist Classification,2015,2,FALSE,"1517Artists, GTZAN",Various (both),Various
+OS5.3 Correlating Extracted and Ground-Truth Harmonic Data in Music Retrieval Tasks,2015,1,FALSE,McGill Billboard,Pop,Pop
+PS3.1 Classical Music on the Web -- User Interfaces and Data Representations,2015,0,FALSE,n/a,n/a,N/A
+PS3.2 A Statistical View on the Expressive Timing of Piano Rolled Chords,2015,3,FALSE,"three pieces of music: Danny Boy, Serenade (by Schubert), and Ashokan Farewell","Folk (1,3), Classical (2)","Folk, Classical"
+PS3.3 Hybrid Long- and Short-Term Models of Folk Melodies,2015,1,FALSE,Essen Folk Song Collection,Folk,Folk
+PS3.4 Efficient Melodic Query Based Audio Search for Hindustani Vocal Compositions,2015,1,FALSE,50 commercial CD-quality concertaudio recordings by 18 eminent Hindustani vocal artists,Non-Western,Non-Western
+PS3.5 Modified Perceptual Linear Prediction Liftered Cepstrum (MPLPLC) Model for Pop Cover Song Recognition,2015,1,FALSE,in-house,Pop,Pop
+PS3.6 Raga Verification in Carnatic Music Using Longest Common Segment Set,2015,1,FALSE,Charsur arts foundation,Non-Western (raga),Non-Western
+PS3.7 Instrument Identification in Optical Music Recognition,2015,1,FALSE,IMSLP,classical,Classical
+PS3.8 Cross-Version Singing Voice Detection in Classical Opera Recordings,2015,1,FALSE,Jamendo,Other (Opera),Other
+PS3.9 Accurate Tempo Estimation Based on Recurrent Neural Networks and Resonating Comb Filters,2015,10,FALSE,"Ballroom, Hainsworth, SMC, Klapuri, GTZAN, Songs, Beatles, ACM Mirum, RWC Popular, HJDB","Other (1), Various (5), Pop (7, 9), Rock (7), Doesn't specify (all others)",Various
+PS3.10 Musicology of Early Music with Europeana Tools and Services,2015,0,FALSE,n/a,n/a,N/A
+PS3.11 Singing Voice Separation from Monaural Music Based on Kernel Back-Fitting Using Beta-Order Spectral Amplitude Estimation,2015,2,FALSE,"100 full-length song tracks were used (50  songs  from  the  ccMixter database  containing  many different  musical  genres,  50  songs  from  a  self-recording studio music database)","Various (1), Doesn't specify (2)
+",Various
+PS3.12 Schematizing the Treatment of Dissonance in 16th-Century Counterpoint,2015,1,FALSE,"large corpus of mass movements (almost1000) of Palestrina and Victoria, dating from the 16th cen-tury.",Classical,Classical
+PS3.13 Analysis of the Evolution of Research Groups and Topics in the ISMIR Conference,2015,0,FALSE,n/a,n/a,N/A
+PS3.14 A Comparison of Symbolic Similarity Measures for Finding Occurrences of Melodic Segments,2015,1,FALSE,"Meertens Tune Collections
+",Folk,Folk
+PS3.15 PAD and SAD: Two Awareness-Weighted Rhythmic Similarity Distances,2015,1,FALSE,generated for study,genre N/A,N/A
+PS3.16 Four Timely Insights on Automatic Chord Estimation,2015,5,FALSE,"Isophonics, McGill Billboard, USPop, RWC-Pop, Rock Corpus","Pop (1-4), Rock (1, 5)","Pop, Rock"
+PS3.17 Improving Melodic Similarity in Indian Art Music Using Culture-Specific Melodic Characteristics,2015,2,FALSE,Carnatic music dataset (CMD) and Hindustani music dataset (HMD),Non-western (both),Non-Western
+PS3.18 Searching Lyrical Phrases in A-Capella Turkish Makam Recordings,2015,1,FALSE,CompMusic,"Non-western
+",Non-Western
+PS3.19 Quantifying Lexical Novelty in Song Lyrics,2015,1,FALSE,Million Song Dataset,Various,Various
+PS3.20 An Efficient Temporally-Constrained Probabilistic Model for Multiple-Instrument Music Transcription,2015,1,FALSE,RWC isloated notes,isolated notes,Single Instrument
+PS3.21 Electric Guitar Playing Technique Detection in Real-World Recording Based on F0 Sequence Pattern Recognition,2015,2,FALSE,"42 tracks of unaccompanied electric guitar solo obtained from the CD of the textbook by Danny Gill and Nick Nolan, 5 excerpts of real-world guitar solo","Doesn't specify (1), Rock (2)",Rock
+PS3.22 Extending a Model of Monophonic Hierarchical Music Analysis to Homophony,2015,1,FALSE,SCHENKER41 corpus: a data set containing 41 excerpts ofcommon practice period music and corresponding Schenke-rian analyses,Doesn't specify (maybe classical?),Classical
+PS3.23 The MIR Perspective on the Evolution of Dynamics in Mainstream Music,2015,1,FALSE,"""a  revision  and  extension ofthe corpus used in[6]. Itincludes 7200 tracks released between  1967  and  2014,  150  tracksperyear.  Track selection   is   based   on   Besteveralbums.com,   a   review aggregator""",Pop,Pop
+PS3.24 Theme And Variation Encodings with Roman Numerals (TAVERN): A New Data Set for Symbolic Music Analysis,2015,1,TRUE,Theme And Variation Encodings eith Roman Numerals (TAVERN) dataset,Classical,Classical
+PS3.25 Benford's Law for Music Analysis,2015,2,FALSE,"set of 230 chords,  ‘Come sei veramente’ by the pianist G. Allevi","Other/Genre N/A (1), Classical? (2)",Classical
+PS3.26 An Audio to Score Alignment Framework Using Spectral Factorization and Dynamic Time Warping,2015,1,FALSE,10 human played J.S. Bach four-part chorales,Classical,Classical
+PS3.27 New Sonorities for Early Jazz Recordings Using Sound Source Separation and Automatic Mixing Tools,2015,1,FALSE,Jazzomat Databse,Jazz,Jazz
+PS3.28 Automatic Transcription of Ornamented Irish Traditional Flute Music Using Hidden Markov Models,2015,1,FALSE,Grey Larsen’s CD which accompanied his book “EssentialGuide to Irish Flute and Tin Whistle”,Folk,Folk
+PS3.29 Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination,2015,1,FALSE,"collection of following songs: Chim Chim Cheree, Take Me Out to the Ballgame, Jingle Bells, Mary Had a Little Lamb, Emperor Waltz, Hedwig's Theme (Harry Potter), Imperial March (Star Wars Theme), Eine Kleine Nachtmusik",Other,Other
+PS3.30 Emotion Based Segmentation of Musical Audio,2015,3,FALSE,"RWC Pop, RWC Jazz, RWC Genre","Pop (1), Jazz (2), Various (3)",Various
+OS6.1 MIREX Grand Challenge 2014 User Experience: Qualitative Analysis of User Feedback,2015,0,FALSE,n/a,n/a,N/A
+OS6.2 AcousticBrainz: A Community Platform for Gathering Music Information Obtained from Audio,2015,1,NA,AcousticBrainz,Various,Various
+OS6.3 How Music Alters Decision Making - Impact of Music Stimuli on Emotional Classification,2015,1,FALSE,"Publicly available music was surveyed to isolate twoclear types - music that is characterized by slow tempo,minor keys and somber tones, typical to traditionally “sad”music, and music that has upbeat tempo, major scales andcolorful tones, which are traditionally considered to be typ-ical to “happy” music.",Doesn't specify,Doesn't Specify
+OS6.4 Put the Concert Attendee in the Spotlight. A User-Centered Design and Development Approach for Classical Concert Applications,2015,0,FALSE,n/a,n/a,N/A
+OS7.1 Analysis of Expressive Musical Terms in Violin Using Score-Informed and Expression-Based Audio Features,2015,1,TRUE,SCREAM-MAC-EMT,Classical,Classical
+OS7.2 Spectral Learning for Expressive Interactive Ensemble Music Performance,2015,1,FALSE,"a dataset that contains three piano duets: Danny Boy, Serenade(by Schubert),  and Ashokan Farewell","Folk, Classical","Folk, Classical"
+OS7.3 Score-Informed Analysis of Intonation and Pitch Modulation in Jazz Solos,2015,1,FALSE,Weimar Jazz Database,Jazz,Jazz
