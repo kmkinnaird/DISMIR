@@ -1,0 +1,149 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+What’s Hot? Estimating Country-specific Artist Popularity,2010,1,FALSE,last.fm API,N/A,N/A
+Identifying Repeated Patterns in Music Using Sparse Convolutive Non-negative Matrix Factorization,2010,1,FALSE,Center for Digital Music,Beatles,"Pop, Rock"
+Locating Tune Changes and Providing a Semantic Labelling of Sets of Irish Traditional Tunes,2010,1,FALSE,30 sets of Trad irish music,Traditonal Irish,Non-Western
+Approximate Note Transcription for the Improved Identification of Difficult Chords,2010,1,FALSE,MIREX 2009 chord detection task,Not specified,Other
+Concurrent Estimation of Chords and Keys from Audio,2010,1,FALSE,174 Beatles songs,Beatles,"Pop, Rock"
+Solving Misheard Lyric Search Queries Using a Probabilistic Model of Speech Sounds,2010,3,FALSE,"KissThisGuy, CMU pronouncing dictionary, lyrics.astraweb",popular music,Pop
+State of the Art Report: Music Emotion Recognition: A State of the Art Review,2010,0,FALSE,n/a,n/a,N/A
+Looking Through the “Glass Ceiling”: A Conceptual Framework for the Problems of Spectral Similarity,2010,1,FALSE,MIREX 2004,Not specified,Other
+On the Applicability of Peer-to-peer Data in Music Information Retrieval Research,2010,1,FALSE,"Gnutella P2P network, songs ""collected from here""",not specified,Other
+A Cartesian Ensemble of Feature Subspace Classifiers for Music Categorization,2010,6,FALSE,"9GDB, GTZAN, ISMIRgene, ISMIRrythm, Latin Music Database, African Collection",NA,Various
+Improving the Generation of Ground Truths Based on Partially Ordered Lists,2010,1,FALSE,MIREX 2005,Various,Various
+Sparse Multi-label Linear Embedding Within Nonnegative Tensor Factorization Applied to Music Tagging,2010,1,FALSE,CAL500,Western popular,Pop
+Learning Tags that Vary Within a Song,2010,3,FALSE,"last.fm, Major Miner, Mechanical Turk Experiments",Not specified,Other
+Predicting High-level Music Semantics Using Social Tags via Ontology-based Reasoning,2010,2,FALSE,"1804 songs (in house), last.fm (for tags)",In house had 21 genres,Various
+Understanding Features and Distance Functions for Music Sequence Alignment,2010,2,FALSE,RWC,"orchestra, wind enemble, classical",Classical
+A Multi-pass Algorithm for Accurate Audio-to-Score Alignment,2010,1,FALSE,11 mozart sonatas played by pianist,classical,Classical
+Accurate Real-time Windowed Time Warping,2010,1,FALSE,Mazurka Test data,Classical,Classical
+Predicting Development of Research in Music Based on Parallels with Natural Language Processing,2010,0,FALSE,n/a,n/a,N/A
+A Roadmap Towards Versatile MIR,2010,0,FALSE,n/a,n/a,N/A
+State of the Art Report: Audio-Based Music Structure Analysis,2010,0,FALSE,n/a,n/a,N/A
+Music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data,2010,1,TRUE,Introduce Music21,various,Various
+An Audio Processing Library for MIR Application Development in Flash,2010,0,FALSE,n/a,n/a,N/A
+What Makes Beat Tracking Difficult? A Case Study on Chopin Mazurkas,2010,1,FALSE,Mazurka,classical,Classical
+"Upbeat and Quirky, With a Bit of a Build: Interpretive Repertoires in Creative Music Search",2010,0,FALSE,n/a,n/a,N/A
+A Comparative Evaluation of Algorithms for Discovering Translational Patterns in Baroque Keyboard Works,2010,0,FALSE,n/a,n/a,N/A
+A Multi-Perspective Evaluation Framework for Chord Recognition,2010,1,FALSE,Unclear - uses one example song?,Classical (chopin Mazurka Op. 68 3),Classical
+A Probabilistic Approach to Merge Context and Content Information for Music Retrieval,2010,1,FALSE,CAL500,Not specified,Other
+A Probabilistic Subspace Model for Multi-instrument Polyphonic Transcription,2010,2,FALSE,"MIREX Freq estimation and tracking task, 3 Bach pieces","woodwind data, classial",Classical
+A Segmentation-based Tempo Induction Method,2010,1,FALSE,RWC- BPM annotated part,Japanese pop songs,"Pop, Non-Western"
+AMUSE (Advanced MUSic Explorer) – A Multitool Framework for Music Data Analysis,2010,1,TRUE,AMUSE,n/a,N/A
+An Improved Hierarchical Approach for Music-to-symbolic Score Alignment,2010,1,FALSE,RWC - pop DB,Pop,Pop
+An Improved Query by Singing/Humming System Using Melody and Lyrics Information,2010,1,FALSE,MIR-QBSH (MIREX?),23 mandarin language songs genre not specified,Non-Western
+An Interchange Format for Optical Music Recognition Applications,2010,0,FALSE,n/a,n/a,N/A
+Are Tags Better Than Audio? The Effect of Joint Use of Tags and Audio Content Features for Artistic Style Clustering,2010,1,FALSE,"All Music Guide, Last.fm",various,Various
+Automated Music Slideshow Generation Using Web Images Based on Lyrics,2010,1,FALSE,10 japanese pop songs,pop,"Pop, Non-Western"
+Automatic Characterization of Digital Music for Rhythmic Auditory Stimulation,2010,1,FALSE,MIREX,not specfied,Doesn't Specify
+Automatic Mood Classification Using TF*IDF Based on Lyrics,2010,1,FALSE,Moody Application - Crayonroom,N/A,N/A
+Automatic Music Tagging With Time Series Models,2010,1,FALSE,CAL500,western pop,Pop
+Autoregressive MFCC Models for Genre Classification Improved by Harmonic-percussion Separation,2010,1,FALSE,TZGENRE,"blues, classic, country, disco, hip hop, jazz, metal, pop, reggae rock",Various
+Bass Playing Style Detection Based on High-level Features and Pattern Similarity,2010,2,FALSE,(other paper) Paul Westwood - bass bible,"swing, funk, blues, reggae, salsa mambo, rock, sould and motwon, africa",Various
+Beat Critic: Beat Tracking Octave Error Identification By Metrical Profile Analysis,2010,1,FALSE,RWC,"classical, jazz, and popular",Various
+Boosting for Multi-Modal Music Emotion Classification,2010,1,FALSE,500 chinese pop songs,pop,Pop
+Clustering Beat-Chroma Patterns in a Large Music Database,2010,2,FALSE,Morecowbell.dj tracks - based on echonest api and uspop2002,not specified and pop,Pop
+Concurrent Estimation of Chords and Keys from Audio,2010,1,FALSE,174 beatles songs - Center for Digital Muisc,Beatles,"Pop, Rock"
+Collaborative Filtering Based on P2P Networks,2010,1,FALSE,"P2P filtering data and listner data from last.f,",N/A,N/A
+Combined Audio and Video Analysis for Guitar Chord Identification,2010,1,FALSE,In house - guitarist performance,instrument recording,Single Instrument
+Combining Chroma Features For Cover Version Identification,2010,1,NA,collection of original performances and cover versions,"Western pop, covers range from classical world music electronic",Various
+Combining Features Reduces Hubness in Audio Similarity,2010,2,FALSE,"song excerpts from ""popular web shop selling music"", FM4 Soundpark",Many (for each ds),Various
+Computational Analysis of Musical Influence: A Musicological Case Study Using MIR Tools,2010,0,FALSE,n/a,n/a,N/A
+Crowdsourcing Music Similarity Judgments using Mechanical Turk,2010,1,FALSE,Amazon Mechanical Turk HIT,N/A - similarity judgements,N/A
+Decomposition Into Autonomous and Comparable Blocks: A Structural Description of Music Pieces,2010,1,FALSE,RWC,Pop,Pop
+Discovering Metadata Inconsistencies,2010,2,FALSE,"Codiach, library of unprocessed metadata","jazz, popular, classical, world music. 70 genres for metadatalib",Various
+Discovery of Contrapuntal Patterns,2010,1,FALSE,in house,Not specified,Doesn't Specify
+Eigenvector-based Relational Motif Discovery,2010,1,FALSE,Bach,Classical,Classical
+"Evaluating the Genre Classification Performance of Lyrical Features Relative to Audio, Symbolic and Cultural Features",2010,1,NA,SLAC,"Blues, classical, jazz, rap, rock",Various
+Evaluation of a Score-informed Source Separation System,2010,1,NA,10 second sound files of instruments - made in house,Not specified,Doesn't Specify
+Evidence for Pianist-specific Rubato Style in Chopin Nocturnes,2010,1,FALSE,Chopin dataset - IH,Classical,Classical
+Fast vs Slow: Learning Tempo Octaves from User Data,2010,1,NA,In house - 397 full length audio tracks,"Country, Jazz, rap, R&B, Rock",Various
+"Geoshuffle: Location-Aware, Content-based Music Browsing Using Self-organizing Tag Clouds",2010,1,FALSE,Magnatagatune,14 genres (not listed),Various
+Handling Repeats and Jumps in Score-performance Synchronization,2010,1,FALSE,OMR results?,Classical - beethoven,Classical
+Hierarchical Co-Clustering of Artists and Tags,2010,2,FALSE,Unspecified and Last.fm for tags,various,Various
+A Cartesian Ensemble of Feature Subspace Classifiers for Music Categorization,2010,6,FALSE,"9GDB, GTZAN, ISMIRgenre, ISMIRrythm, LatinMusic, Africa","ISMIRgenre: 6 gernes, rythm = latin and ballroom, latin, african music",Various
+Improving the Generation of Ground Truths Based on Partially Ordered Lists,2010,1,FALSE,RISM/ AII,N/A,N/A
+IBT: A Real-time Tempo and Beat Tracking System,2010,2,FALSE,"ISMIR 2004 tempo induction contest data, 1360 beat labeled pieces - private ds","ISMIR04: ballroom, loops, songs. Private ds: acoustic, afor american, balkan-greek, choral, classical, classical solo eletroinc, jazz/blues, rock pop, samba",Various
+Improving Auto-tagging by Modeling Semantic Co-occurrences,2010,1,FALSE,CAL500,NA,Various
+Improving Markov Model Based Music Piece Structure Labelling with Acoustic Information,2010,3,FALSE,"Tutstructure07, UPF Beatles, RWC",several,Various
+Infinite Latent Harmonic Allocation: A Nonparametric Bayesian Approach to Multipitch Analysis,2010,2,FALSE,Other papers test set and RWC,pop,Pop
+Informed Source Separation of Orchestra and Soloist,2010,1,FALSE,excerpt 45 sec of Ravels concerto,classical,Classical
+Is There a Relation Between the Syntax and the Fitness of an Audio Feature?,2010,1,FALSE,"Not specified - ""Database D""",NA,Other
+Islands of Gaussians: The Self Organizing Map and Gaussian Music Similarity Features,2010,1,FALSE,16754 songs,not specified,Other
+It’s Time for a Song – Transcribing Recordings of Bell-playing Clocks,2010,1,FALSE,10 recordings of bell playing clocks,bells/clocks,Single Instrument
+Learning Features from Music Audio with Deep Belief Networks,2010,1,FALSE,"Tzanetakis DS, Majorminer","TZ: classic, country, jazz, disco, HH, rock",Various
+Learning Similarity from Collaborative Filters,2010,1,FALSE,Swat10k,various,Various
+Characterization and Similarity in A Cappella Flamenco Cantes,2010,1,FALSE,COFLA,Flamenco Cantes - spain,Other
+Melody Extraction from Polyphonic Audio Based on Particle Filter,2010,1,FALSE,ISMIR 04 audio description contest database (ADC04),unspecified,Doesn't Specify
+Multiple Pitch Transcription using DBN-based Musicological Models,2010,1,FALSE,RWC,pop,Pop
+Modified Ais-based Classifier for Music Genre Classification,2010,1,FALSE,Latin Music Database,"tango, bolero, batchata, salsa, merengue, axe, forro, sertaneja, guacha, padoge",Various
+Monophonic Instrument Sound Segregation by Clustering NMF Components Based on Basis Similarity and Gain Disjointness,2010,1,FALSE,MIREX 2007 Evaluation Tasks - real performance music data,classical,Classical
+Multiple Viewpoints Modeling of Tabla Sequences,2010,1,FALSE,traditional tabla compositions compiled by somone,tabla is a percussion instrument from India,Non-Western
+Music Genre Classification via Compressive Sampling,2010,1,FALSE,GTZAN,10 genres see note,Various
+Sparse Multi-label Linear Embedding Within Nonnegative Tensor Factorization Applied to Music Tagging,2010,1,FALSE,CAL500,western popular,Pop
+Music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data,2010,0,FALSE,n/a,n/a,N/A
+Music Structure Discovery in Popular Music using Non-negative Matrix Factorization,2010,2,FALSE,"UPF Beatles,TUT Beatles",Beatles,Pop
+Musical Instrument Recognition using Biologically Inspired Filtering of Temporal Dictionary Atoms,2010,4,FALSE,"University of Iowa DB of musical insturment samples, McGill master samples, OLPC samples collection, freesound project",All are instrument samples,Single Instrument
+"YAAFE, an Easy to Use and Efficient Audio Feature Extraction Software",2010,1,FALSE,n/a,n/a,N/A
+On the Use of Microblogging Posts for Similarity Estimation and Artist Labeling,2010,2,NA,last.fm (api: list of most pop artists) and DS from other paper,see note,Various
+Parataxis: Morphological Similarity in Traditional Music,2010,1,FALSE,IMS - Crinno Dataset,greek folk,Folk
+Pitch Class Set Categories as Analysis Tools for Degrees of Tonality,2010,1,NA,classical music archives,classical,Classical
+Prediction of Time-varying Musical Mood Distributions from Audio,2010,1,FALSE,uspop2002,pop,Pop
+Quantifying the Benefits of Using an Interactive Decision Support Tool for Creating Musical Accompaniment in a Particular Style,2010,1,FALSE,13 Radiohead songs,rock,Rock
+Query-by-conducting: An Interface to Retrieve Classical-music Interpretations by Real-time Tempo Input,2010,1,FALSE,9 classical pieces,classical,Classical
+Querying Improvised Music: Do You Sound Like Yourself?,2010,0,FALSE,n/a,n/a,N/A
+Real-time Polyphonic Music Transcription with Non-negative Matrix Factorization and Beta-divergence,2010,2,FALSE,"RWC, MAPS",piano samples (both),Single Instrument
+Recognising Classical Works in Historical Recordings,2010,2,FALSE,"Kings Sound Archive (KSA), CHARM project",Many genres in each,Various
+Recognition of Variations Using Automatic Schenkerian Reduction,2010,1,FALSE,encodings of 1- sets of variations for piano by mozart,classical,Classical
+Scalable Genre and Tag Prediction with Spectral Covariance,2010,3,FALSE,"GTZAN genre dataset, Majorminer, Magnatagatune",many - notes,Various
+Similarity Measures for Chinese Pop Music Based on Low-level Audio Signal Attributes,2010,1,FALSE,RWC,"pop, j-pop","Pop, Non-Western"
+Singing / Rap Classification of Isolated Vocal Tracks,2010,1,FALSE,62 songs from difffernt hip hop and rb artists,"Hip Hop, RB",Hip Hop
+Singing Pitch Extraction by Voice Vibrato / Tremolo Estimation and Instrument Partial Deletion,2010,2,FALSE,"MIR-1k, ADC2004","1k: chinese pop, ADC; not specified, datset for melody extraction task mirex","Pop, Other"
+"Upbeat and Quirky, With a Bit of a Build: Interpretive Repertoires in Creative Music Search",2010,0,FALSE,n/a,n/a,N/A
+An Audio Processing Library for MIR Application Development in Flash,2010,1,FALSE,Audio Processing Lib for Flash,n/a,N/A
+SongWords: Exploring Music Collections Through Lyrics,2010,0,FALSE,"experiment, self created dataset",non-music,N/A
+String Quartet Classification with Monophonic Models,2010,2,NA,112 string quartet movements haydn and 95 from mozart AND CCARH,classical,Classical
+Supervised and Unsupervised Web Document Filtering Techniques to Improve Text-Based Music Retrieval,2010,2,FALSE,"C35K, CAL 500",ppular,Pop
+Symbol Classification Approach for OMR of Square Notation Manuscripts,2010,1,FALSE,Free LIbrary of Philadelphia rare book department,images of manuscripts,Other
+Tempo Induction Using Filterbank Analysis and Tonal Features,2010,1,FALSE,ISMIR 2004 tempo induction evaluation xchange dataste,ballroom and song excerpts category,Other
+The Standardized Variogram as a Novel Tool for Music Similarity Evaluation,2010,1,FALSE,ISMIR2004 Audio description context database,not specified,Other
+ThumbnailDJ: Visual Thumbnails of Music Content,2010,0,FALSE,n/a,n/a,N/A
+Timbral Qualities of Semantic Structures of Music,2010,1,FALSE,"collection of 6372 songs, tags retrieved from last.f","alt, folk, finnish iskelma, pop, world,blues, gospel, jaz,rock,classical,heavy,soul,electronic,hh,soundtrack",Various
+Towards More Robust Geometric Content-Based Music Retrieval,2010,0,FALSE,n/a,n/a,N/A
+Tunepal – Disseminating a Music Information Retrieval System to the Traditional Irish Music Community,2010,1,FALSE,"tunepal (""tunes drawn from community sources"" - inhouse?)",Traditional Irish,Non Western
+Universal Onset Detection with Bidirectional Long Short-Term Memory Neural Networks,2010,2,FALSE,ISMIR2004 tempo induction contest and Bello's dataset,unspecified,Doesn't Specify
+Unsupervised Accuracy Improvement for Cover Song Detection Using Spectral Connectivity Network,2010,1,FALSE,2125 song collection,"Pop rock, electronic, jazz blues, world, classical, misc",Various
+Users’ Relevance Criteria in Music Retrieval in Everyday Life: An Exploratory Study,2010,0,FALSE,no music dataset used,n/a,N/A
+Using jWebMiner 2.0 to Improve Music Classification Performance by Combining Different Types of Features Mined from the Web,2010,1,FALSE,SAC Dataset,"modern blues, trad blues, baroque, romantic, bebop, swing, hardcore rap, poprap, al rock, metal",Various
+Vocalist Gender Recognition in Recorded Popular Music,2010,1,TRUE,Ultrastar Database,"Rock, pop, electronic music, ballads, musical",Various
+When Lyrics Outperform Audio for Music Mood Classification: A Feature Analysis,2010,1,FALSE,5296 songs represet 18 mood categories from social tags,Not clear,Other
+From Theory to Practice: The Development and Application of a Music Classification and Content Personalization Hybrid System,2010,0,FALSE,n/a,n/a,N/A
+Pattern Identification in Melody via Wavelets,2010,1,FALSE,Strucutre and style(book) by Leon Stein,"""western music examples""",Other
+Song Prompter: An Accompaniment System based on the Automatic Alignment of Lyrics and Chords to Audio,2010,0,FALSE,n/a,n/a,N/A
+Exploiting Online Resources to Improve Chord Recognition Accuracy.,2010,0,FALSE,n/a,n/a,N/A
+Interactive Controller for Audio Object Localization and Automatic Thumbnail Music Generator,2010,0,FALSE,n/a,n/a,N/A
+Score-Informed Audio Parametrization,2010,0,FALSE,n/a,n/a,N/A
+Clone Detection for Max/MSP Patch Libraries,2010,1,FALSE,43 patches from the Max/MSP 5 distribution,N/A,N/A
+MusicGalaxy: An Adaptive User-Interface for Exploratory Music Retrieval,2010,0,FALSE,n/a,n/a,N/A
+A Novel Timeline Adjustment Functionality for the Interpretation Switcher,2010,0,FALSE,example uses beethoven sonata,classical,Classical
+Fight Against Variant Tempo: Query by Humming and Clapping,2010,1,FALSE,In house- samples of 50 people singing,N/A,N/A
+Cloudspeakers,2010,1,TRUE,"Introduced: cloudspeakers system, matched with Musicbrainz",various,Various
+Characterisation of Composer Style using High Level Musical Features,2010,2,FALSE,Baroque and KernScores,classical (both),Classical
+"The Wekinator: A System for Real-time, Interactive Machine Learning in Music",2010,0,FALSE,n/a,n/a,N/A
+The Echo Nest Musical Fingerprint,2010,0,FALSE,n/a,n/a,N/A
+Sonarflow: Visual Music Exploration \& Discovery,2010,0,FALSE,n/a,n/a,N/A
+Functional Harmony Annotation Database for Statistical Music Analysis,2010,1,TRUE,RWC,classical,Classical
+A Demo of AMUSE (Advanced MUSic Explorer),2010,0,FALSE,n/a,n/a,N/A
+The Music Inventory Database,2010,1,TRUE,RISM/AII,european music,Other
+Demonstration of the PerlHumdrum Analysis Toolkit (PHAT),2010,0,FALSE,n/a,n/a,N/A
+Semantics for Signal and Result Collections through Linked Data: How Country is my Country?,2010,0,FALSE,n/a,n/a,N/A
+Timbre-Based Percussive Rhythm Classification and Retrieval,2010,0,FALSE,n/a,n/a,N/A
+LinkedBrainz: Providing the MusicBrainz Next Generation Schema as Linked Data,2010,1,FALSE,MusicBrainz,various,Various
+Rhyme Analyzer: An Analysis Tool for Rap Lyrics,2010,1,FALSE,53 popular albums by 25 rappers,RAp,Hip Hop
+Audio Melody Extraction: Late Breaking at ISMIR 2010,2010,1,FALSE,MIREX09,unspecified,Doesn't Specify
+Gordon Music Collection Database Management System,2010,1,FALSE,MusicBrainz,NA,Various
+Towards Music Performing Humanoids,2010,0,FALSE,n/a,n/a,N/A
+MIREX-DIY under NEMA,2010,0,FALSE,n/a,n/a,N/A
+Evaluation of Performance-to-Score MIDI Alignment of Piano Duets,2010,1,FALSE,piano notes,piano,Single Instrument
+Temperament Estimation as an MIR task,2010,0,FALSE,n/a,n/a,N/A
+The Music Encoding Initiative: Release 2010-05,2010,0,FALSE,n/a,n/a,N/A
+An Online Interface to explore Audio Segments,2010,0,FALSE,n/a,n/a,N/A
