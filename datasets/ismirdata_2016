@@ -1,0 +1,114 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+(OS1-1) SiMPle: Assessing Music Similarity Using Subsequences Joins,2016,2,FALSE,"Chopin Mazurkas, Youtube Covers",classical and various,"Classical, Various"
+(OS1-2) Score-Informed Identification of Missing and Extra Notes in Piano Recordings,2016,1,FALSE,dataset from EUSIPCO paper,piano recordings,Classical
+(OS1-3) Feature Learning for Chord Recognition: The Deep Chroma Extractor,2016,4,FALSE,"Beatles, RWC, Robbie Williams dataset, MIREX Isophonics dataset",pop and others,"Pop, Rock, Various"
+(OS1-4) Learning to Pinpoint Singing Voice from Weakly Labeled Examples,2016,5,FALSE,"10000 30 second clips, RWC, Jamendo, MedleyDB, ccMixter",unspecified,Doesn't Specify
+(PS1-1) A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations,2016,1,TRUE,corpus of annotated irish traditional dance music,Irish traditional dance music,Non-Western
+(PS1-2) Adaptive Frequency Neural Networks for Dynamic Pulse and Metre Perception,2016,1,FALSE,"unspecified, two songs at various tempos",unspecified,Doesn't Specify
+(PS1-3) An Evaluation Framework and Case Study for Rhythmic Concatenative Synthesis,2016,1,FALSE,gathered/generated files,breakbeats,Other
+(PS1-4) An Ontology for Audio Features,2016,0,FALSE,n/a,n/a,N/A
+(PS1-5) Analysis and Classification of Phonation Modes In Singing,2016,1,FALSE,breathy or resonant dataset,vowels sung at different pitches/tonations,Other
+(PS1-6) Analysis of Vocal Imitations of Pitch Trajectories,2016,1,FALSE,vocals gathered by experiment,non-music,N/A
+"(PS1-7) Automatic Music Recommendation Systems: Do Demographic, Profiling, and Contextual Features Improve Their Performance?",2016,1,FALSE,LastFM gathered,unspecified,Various
+(PS1-8) Automatic Outlier Detection in Music Genre Datasets,2016,1,FALSE,GTZAN,unspecified,Various
+(PS1-9) AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles,2016,2,FALSE,"Beijing opera dataset, four recordings of a song",Classical and opera,Non-Western
+(PS1-10) Composer Recognition Based on 2D-Filtered Piano-Rolls,2016,1,FALSE,Haydn and Mozart kern files,Classical,Classical
+(PS1-11) Conversations with Expert Users in Music Retrieval and Research Challenges for Creative MIR,2016,0,FALSE,none,n/a,N/A
+(PS1-12) Downbeat Tracking Using Beat Synchronous Features with Recurrent Neural Networks,2016,7,FALSE,"Ballroom, Beatles, Hainsworth, RWC Pop, Robbie Williams, Rock, Klapuri","pop, ballroom dance, various","Various, Pop, Rock"
+(PS1-13) Enhancing Cover Song Identification with Hierarchical Rank Aggregation,2016,2,FALSE,Second Hand Song (SHS) and MSD,various,Various
+(PS1-14) Ensemble: A Hybrid Human-Machine System for Generating Melody Scores from Audio,2016,1,FALSE,self-created from MSD,various,Various
+(PS1-15) Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies,2016,1,FALSE,"Multimodal Album Reviews Dataset (MARD), non-musical",non-musical,N/A
+(PS1-16) Further Steps Towards a Standard Testbed for Optical Music Recognition,2016,1,FALSE,CVC-MUSCIMA,various,Various
+(PS1-17) Improving Voice Separation by Better Connecting Contigs,2016,1,FALSE,24 Bach fugues,Classical,Classical
+(PS1-18) Integer Programming Formulation of the Problem of Generating Milton Babbitt’s All-Partition Arrays,2016,0,FALSE,none,n/a,N/A
+(PS1-19) Integration and Quality Assessment of Heterogeneous Chord Sequences Using Data Fusion,2016,2,FALSE,Billboard dataset subsets,pop/hot 100,Pop
+(PS1-20) Landmark-Based Audio Fingerprinting for DJ Mix Monitoring,2016,2,TRUE,Disco set (private) and mixotic set (published),"house, disco",Other
+(PS1-21) Learning and Visualizing Music Specifications Using Pattern Graphs,2016,2,FALSE,transcoded blues songs,blues,Other
+(PS1-22) Listen To Me – Don’t Listen To Me: What Communities of Critics Tell Us About Music,2016,1,TRUE,Genius dataset,"user data, nonmusical?",N/A
+(PS1-23) Long-Term Reverberation Modeling for Under-Determined Audio Source Separation with Application to Vocal Melody Extraction,2016,1,FALSE,9 song excerpts,unspecified,Doesn't Specify
+(PS1-24) Nonnegative Tensor Factorization with Frequency Modulation Cues for Blind Audio Source Separation,2016,1,FALSE,MUMS single note,single notes,Single Instrument
+(PS1-25) On Drum Playing Technique Detection in Polyphonic Mixtures,2016,2,TRUE,"synthetic drum rolls, ENST annotated drum dataset (annotations published online)",drums,Single Instrument
+(PS1-26) Predicting Missing Music Components with Bidirectional Long Short-Term Memory Neural Networks,2016,1,FALSE,"Nottingham dataset, Bach chorales",classical,Classical
+(PS1-27) Structural Segmentation and Visualization of Sitar and Sarod Concert Audio,2016,1,FALSE,gat and sitar,other,Other
+(PS1-28) Template-Based Vibrato Analysis in Complex Music Signals,2016,0,FALSE,none,n/a,N/A
+(PS1-29) Towards Evaluating Multiple Predominant Melody Annotations in Jazz Recordings,2016,1,FALSE,Weimar Jazz Database,jazz,Jazz
+(OS2-1) Joint Beat and Downbeat Tracking with Recurrent Neural Networks,2016,12,FALSE,"Ballroom, Hainsworth, GTZAN, Beatles, HJTB, RWC Pop, Robbie Williams, Rock, Carnatic, Klapuri, Turkish, Cretan","Pop, ballroom, rock, nonwestern",Various
+(OS2-2) Bayesian Meter Tracking on Learned Signal Representations,2016,2,FALSE,"Ballroom, Indian Musics","nonwestern, ballroom",Non-Western
+(OS2-3) Tempo Estimation for Music Loops and a Simple Confidence Measure,2016,4,FALSE,"in house built Freesound (FSL4), APPL, MIXL, LOOP",non-genre-specific loops,Various
+(OS2-4) Brain Beats: Tempo Extraction from EEG Data,2016,1,FALSE,OpenMIIR dataset subset; EEG recordings,non-music,N/A
+(OS3-1) A Plan for Sustainable MIR Evaluation,2016,0,FALSE,none,n/a,N/A
+(OS3-2) Go with the Flow: When Listeners Use Music as Technology,2016,0,FALSE,none,n/a,N/A
+(OS3-3) A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage,2016,1,FALSE,non-music survey data,non-music,N/A
+"(PS2-1) A Hierarchical Bayesian Model of Chords, Pitches, and Spectrograms for Multipitch Analysis",2016,1,FALSE,30 pieces from MAPS database,not specified,Doesn't Specify
+(PS2-2) A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging,2016,3,FALSE,"ANEW dataset, I-Like-Music dataset, student surveys of ANEW characteristics","commercial music, otherwise unspecified","Other, Doesn't Specify"
+"(PS2-3) A Latent Representation of Users, Sessions, and Songs for Listening Behavior Analysis",2016,1,FALSE,non-music listening event data,non-music,Other
+(PS2-4) A Methodology for Quality Assessment in Collaborative Score Libraries,2016,0,FALSE,none,n/a,N/A
+(PS2-5) Aligned Hierarchies: A Multi-Scale Structure-Based Representation for Music-Based Data Streams,2016,1,FALSE,mazurka kern scores,classical,Classical
+(PS2-6) Analysing Scattering-Based Music Content Analysis Systems: Where’s the Music?,2016,1,FALSE,GTZAN,various,Various
+(PS2-7) Beat Tracking with a Cepstroid Invariant Neural Network,2016,3,FALSE,"Hainsworth, Ballroom, SMC","ballroom dance, various genres, MEs","Other, Various"
+(PS2-8) Bootstrapping a System for Phoneme Recognition and Keyword Spotting in Unaccompanied Singing,2016,3,FALSE,"Timit speech dataset, Stanford DAMP, in-house pop songs","pop, pop, non-music",Pop
+(PS2-9) Can Microblogs Predict Music Charts? An Analysis of the Relationship Between #Nowplaying Tweets and Music Charts,2016,2,FALSE,"#nowplaying music tweets, billboard top 100",non-music/text-based,N/A
+(PS2-10) Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses,2016,12,FALSE,"MIREX 2005,2006,2007,2009; Essen Collection, Roger Jang, MCK, other non-named","pop, others unspecified",Pop
+(PS2-11) Cross-Collection Evaluation for Music Classification Tasks,2016,5,FALSE,"mix of the following: GTZAN, MABDS (music audio benchmark dataset), MAGD (msd all genre dataset), ROS (acousticbrainz rosamerica collection), TAG (tagtraum genre annotations)",all datasets include various genres,Various
+(PS2-12) Downbeat Detection with Conditional Random Fields and Deep Learned Features,2016,9,FALSE,"mix of the following: RWC classical, RWC jazz, RWC genre, RWC pop, Beatles, Ballroom, Hainsworth, Klapuri, Quaero","pop, classical, jazz, rap, electronic, blues, various",Various
+"(PS2-13) Exploiting Frequency, Periodicity and Harmonicity Using Advanced Time-Frequency Concentration Techniques for Multipitch Estimation of Choir and Symphony",2016,2,FALSE,"Bach10, TRIOS",classical,Classical
+(PS2-14) Genre Ontology Learning: Comparing Curated with Crowd-Sourced Ontologies,2016,2,FALSE,"DBPedia, WikiData",non-music,N/A
+(PS2-15) Genre Specific Dictionaries for Harmonic/Percussive Source Separation,2016,1,FALSE,MedleyDB,various,Various
+(PS2-16) Good-sounds.org: A Framework to Explore Goodness in Instrumental Sounds,2016,1,FALSE,in-house single sounds of instruments,single instrument/excerpts,Single Instrument
+(PS2-17) Improving Predictions of Derived Viewpoints in Multiple Viewpoints Systems,2016,1,FALSE,The Real Book jazz corpus symbolic data,non-music/jazz,Jazz
+(PS2-18) Known Artist Live Song ID: A Hashprint Approach,2016,1,FALSE,Gracenote live song benchmark database,various,Various
+(PS2-19) Learning Temporal Features Using a Deep Neural Network and its Application to Music Genre Classification,2016,1,FALSE,GTZAN,various,Various
+(PS2-20) Meter Detection in Symbolic Music Using Inner Metric Analysis,2016,2,FALSE,"RAG collection, FMPop collection","ragtime, pop","Pop, Jazz"
+(PS2-21) Minimax Viterbi Algorithm for HMM-Based Guitar Fingering Decision,2016,0,FALSE,four specific in-house examples,n/a,N/A
+(PS2-22) Mixtape: Direction-Based Navigation in Large Media Collections,2016,1,FALSE,LastFM gathered,various,Various
+(PS2-23) Musical Note Estimation for F0 Trajectories of Singing Voices Based on a Bayesian Semi-Beat-Synchronous HMM,2016,1,FALSE,RWC Pop,pop,Pop
+(PS2-24) On the Evaluation of Rhythmic and Melodic Descriptors for Music Similarity,2016,1,FALSE,"selections from MedleyDB, MIREX 2013, Meerten's Tune Collections, in-house data","pop, dutch folk, classical,","Pop, Folk, Classical"
+(PS2-25) On the Potential of Simple Framewise Approaches to Piano Transcription,2016,1,FALSE,MAPS dataset,classical,Classical
+(PS2-26) Phrase-Level Audio Segmentation of Jazz Improvisations Informed by Symbolic Data,2016,1,FALSE,Weimar Jazz Database,jazz,Jazz
+(PS2-27) Revisiting Priorities: Improving MIR Evaluation Practices,2016,0,FALSE,none,n/a,N/A
+(PS2-28) Simultaneous Separation and Segmentation in Layered Music,2016,1,FALSE,Looperman,loops/samples,Other
+(PS2-29) Towards Modeling and Decomposing Loop-Based Electronic Music,2016,1,TRUE,self-produced electronic music tracks available from companion website,electronic,Electronic
+(PS2-30) Two (Note) Heads Are Better Than One: Pen-Based Multimodal Interaction with Music Scores,2016,0,FALSE,scores,non-music,N/A
+(OS4-1) Analyzing Measure Annotations for Western Classical Music Recordings,2016,0,FALSE,case study Karajan performance of Wagner piece,classical,Classical
+(OS4-2) Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music,2016,2,FALSE,Gerbode and ECOLM lute pieces transcribed,non-music,N/A
+(OS4-3) The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes,2016,1,FALSE,solo lyra recordings from Crinnos project,single instrument,Single Instrument
+(OS4-4) Learning a Feature Space for Similarity in World Music,2016,1,FALSE,subset of Smithsonian Folkways Recordings,"folk,",Folk
+(OS5-1) Systematic Exploration of Computational Music Structure Research,2016,7,FALSE,"Isophonics, SALAMI, Beatles TUT, Cerulean, Epiphyte, Sargon, SPAM","pop, various, heavy metal","Pop, Various"
+(OS5-2) Using Priors to Improve Estimates of Music Structure,2016,2,FALSE,"SALAMI, MIREX corpus",various,Various
+(OS5-3) Music Structural Segmentation Across Genres with Gammatone Features,2016,3,TRUE,"Beatles TUT, SALAMI IA, Jingju corpus (presented in paper)","pop, non-western, various","Pop, Various, Non-Western"
+(PS3-1) A Comparison of Melody Extraction Methods Based on Source-Filter Modelling,2016,2,FALSE,"MedleyDB, Orchset","various, classical","Various, Classical"
+(PS3-2) An Analysis of Agreement in Classical Music Perception and its Relationship to Listener Characteristics,2016,0,FALSE,experiment with beethoven's third symphony,n/a,N/A
+(PS3-3) An Attack/Decay Model for Piano Transcription,2016,1,FALSE,MAPS database,piano,Single Instrument
+(PS3-4) Automatic Drum Transcription Using Bi-Directional Recurrent Neural Networks,2016,2,FALSE,"IDMT-SMT-Drums, ENST",drums,Single Instrument
+"(PS3-5) Automatic Practice Logging: Introduction, Dataset & Preliminary Study",2016,1,TRUE,APL dataset,piano practice,Single Instrument
+(PS3-6) Data-Driven Exploration of Melodic Structure in Hindustani Music,2016,1,FALSE,in-house Hindustani music performance recordings,non-western,Non-Western
+(PS3-7) Deep Convolutional Networks on the Pitch Spiral For Music Instrument Recognition,2016,1,FALSE,MedleyDB subset,various,Various
+(PS3-8) DTV-Based Melody Cutting for DTW-Based Melody Search and Indexing in QbH Systems,2016,1,FALSE,"well known, publicly available dataset: MIR-QBSH corpus",various,Various
+(PS3-9) Elucidating User Behavior in Music Services Through Persona and Gender,2016,0,FALSE,survey of music service users,non-music,N/A
+(PS3-10) Exploring the Latent Structure of Collaborations in Music Recordings: A Case Study in Jazz,2016,1,FALSE,Discogs database,jazz,Jazz
+(PS3-11) Global Properties of Expert and Algorithmic Hierarchical Music Analyses,2016,1,FALSE,Schenker41,various,Various
+(PS3-12) Human-Interactive Optical Music Recognition,2016,0,FALSE,scores,non-music,N/A
+(PS3-13) I Said it First: Topological Analysis of Lyrical Influence Networks,2016,1,FALSE,LyricFind data,lyrics/non-music,N/A
+(PS3-14) Impact of Music on Decision Making in Quantitative Tasks,2016,1,FALSE,8 publicly available songs,unspecified,Doesn't Specify
+(PS3-15) Interactive Scores in Classical Music Production,2016,0,FALSE,none,n/a,N/A
+(PS3-16) Jazz Ensemble Expressive Performance Modeling,2016,1,FALSE,self-recorded jazz performances,jazz,Jazz
+(PS3-17) Mining Musical Traits of Social Functions in Native American Music,2016,1,FALSE,Densmore corpus of native american folksongs,native american folksongs,Folk
+(PS3-18) Mining Online Music Listening Trajectories,2016,2,FALSE,LastFm 2009 and LastFM 2014,various,Various
+(PS3-19) Musical Typicality: How Many Similar Songs Exist?,2016,1,FALSE,JPop MDB (from oricon.co.jp),pop,Pop
+(PS3-20) MusicDB: A Platform for Longitudinal Music Analytics,2016,1,FALSE,MSD,various,Various
+(PS3-21) Noise Robust Music Artist Recognition Using I-Vector Features,2016,1,FALSE,Artist20,"various, mostly rock and pop",Various
+(PS3-22) On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music,2016,1,FALSE,12 acapella recordings from CompMusic corpus,classical turkish makam,Non-Western
+(PS3-23) Querying XML Score Databases: XQuery is not Enough!,2016,0,FALSE,none,n/a,N/A
+(PS3-24) Recurrent Neural Networks for Drum Transcription,2016,2,FALSE,"IDMT-SMT-Drums, ENST",drums/percussion,Single Instrument
+(PS3-25) Singing Voice Melody Transcription Using Deep Neural Networks,2016,2,FALSE,"MedleyDB, iKala",various,Various
+(PS3-26) Sparse Coding Based Music Genre Classification Using Spectro-Temporal Modulations,2016,2,FALSE,"GTZAN, H-L dataset (in-house created)",various,Various
+(PS3-27) Time-Delayed Melody Surfaces for Rāga Recognition,2016,1,FALSE,compiled from CompMusic project corpus,carnatic music and hindustani music,Non-Western
+(PS3-28) Transcribing Human Piano Performances into Music Notation,2016,1,FALSE,in house music excerpts,classical piano,Classical
+(PS3-29) WiMIR: An Informetric Study On Women Authors In ISMIR,2016,1,FALSE,titles/authors of ISMIR papers,non-music,N/A
+(OS6-1) Automatic Melodic Reduction Using a Supervised Probabilistic Context-Free Grammar,2016,1,FALSE,GTTM,western tonal music,Other
+(OS6-2) A Neural Greedy Model for Voice Separation in Symbolic Music,2016,1,FALSE,20 popular piano pieces from musescore.com,various genres,Various
+(OS6-3) Towards Score Following In Sheet Music Images,2016,1,FALSE,Nottingham dataset,piano,Single Instrument
+(OS6-4) Extracting Ground-Truth Information from MIDI Files: A MIDIfesto,2016,1,FALSE,Isophonics Beatles,pop,Pop
+(OS71-1) Automatic Tagging Using Deep Convolutional Neural Networks,2016,2,FALSE,"MagnaTagATune dataset, MSD",various,Various
+(OS71-2) A Hybrid Gaussian-HMM-Deep Learning Approach for Automatic Chord Estimation with Very Large Vocabulary,2016,4,FALSE,"JayChou29 dataset, chinese pop song dataset (CHPop20), carole king and queen dataset (KingQueen20), USPop",various,Various
+(OS71-3) Melody Extraction on Vocal Segments Using Multi-Column Deep Neural Networks,2016,2,FALSE,"RWC, MedleyDB",various,Various
