@@ -1,0 +1,126 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+A Confidence Measure For Key Labelling. 3-9,2018,2,FALSE,"Private commercial database (834 tracks), Harte's Beatles dataset (137 tracks)","Mostly EDM (1st dataset), Beatles (2nd dataset)","Electronic, Pop, Rock"
+A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music. 409-415,2018,2,FALSE,Ground Truth: GiantStepsTempo | beaTunes,EDM | beaTunes: many genres,Various
+A Data-driven Approach to Mid-level Perceptual Musical Feature Modeling. 615-621,2018,2,FALSE,5000 songs from multiple sources. Mostly Creative Commons licensed music from jamendo.com and magnatune.com.,"focus on pop, rock, hiphop, rap, jazz, classical, electronic",Various
+A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius. 66-73,2018,1,FALSE,Stanford research center  KernScores  repository  (kern.ccarh.org),Bach's chorales and by Prætorius' chorales,Classical
+A Generalized Parsing Framework for Generative Models of Harmonic Syntax. 152-159,2018,1,FALSE,iRealPro dataset of jazz standards:  1173 chord sequences electronically-encoded by the Jazz musician community,jazz,Jazz
+A Predictive Model for Music based on Learned Interval Representations. 26-33,2018,2,FALSE,"Mozart piano music dataset, and the Essen Folk Song Collection","Classical piano, folk songs","Classical, Folk"
+A Single-Step Approach to Musical Tempo Estimation Using a Convolutional Neural Network. 98-105,2018,4,FALSE,"Lakh MIDI dataset, GiantSteps MTG key dataset, Extended Ballroom dataset","various, EDM, not given but i assume ""ballroom""",Various
+A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings. 120-127,2018,1,FALSE,Saarland Music Dataset & MAPS database (seconded),"MIDI-Audio Piano Music, and ""two subsets performed by Yamaha Disklavier Mark III (upright)""",Various
+Aligned Sub-Hierarchies: A Structure-based Approach to the Cover Song Task. 585-591,2018,1,FALSE,Mazurka KernScores,Mazurka (classical),Classical
+An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts. 34-41,2018,1,FALSE,RISM collection,Incipits (Short monophonic music excepts),Other
+An Energy-based Generative Sequence Model for Testing Sensory Theories of Western Harmony. 160-167,2018,3,FALSE,"Class: KernScores, Pop: McGill BillBoard Corpus, Jazz: iRB corpus","Classical, popular, jazz",Various
+Analysis by Classification: A Comparative Study of Annotated and Algorithmically Extracted Patterns in Symbolic Music Data. 539-546,2018,1,FALSE,MTC-ANN Dutch Folk Song: 360 folk song strophes in 26 tune families. The corpus comes with a rich set of manual annotations concerning various aspects of the melodies and lyrics,folk,Folk
+Analysis of Common Design Choices in Deep Learning Systems for Downbeat Tracking. 106-112,2018,8,FALSE,"Klapuri(4h 54m of various genres songs). 
+R. Williams(4h 31m of Pop). 
+Rock (12h 53m of Pop and Rock). 
+RWC Pop (6h 47m of Pop). 
+Beatles (8h 01m of Beatles). 
+Ballroom (6h 04m of Ballroom dances). 
+Hainsworth (3h 19m of various genres). 
+RWC Jazz( 3h 44min of Jazz).","pop, rock, jazz, others (unspecified)-but all Western music",Various
+Audio Based Disambiguation of Music Genre Tags. 645-652,2018,2,NA,"MuMu, Discogs",various,Various
+Audio-Aligned Jazz Harmony Dataset for Automatic Chord Transcription and Corpus-based Research. 483-490,2018,2,NA,"""“The Smithsonian Collection of Classic Jazz” and “Jazz:
+The Smithsonian Anthology""",jazz,Jazz
+Audio-to-Score Alignment using Transposition-invariant Features. 592-599,2018,1,FALSE,MAPS dataset,"""MUS"" subset",Classical
+"Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning. 168-174",2018,1,FALSE,Provided by KKBOX Inc streaming company (seconded),not disclosed,Doesn't Specify
+"Bridging Audio Analysis, Perception and Synthesis with Perceptually-regularized Variational Timbre Spaces. 175-181",2018,1,FALSE,Studio On Line (SOL) database,instrumental audio,Instrument Recordings
+Camera-PrIMuS: Neural End-to-End Optical Music Recognition on Realistic Monophonic Scores. 248-255,2018,NA,NA,Camera-PrIMus,incipits,Other
+Comparing RNN Parameters for Melodic Similarity. 763-770,2018,1,FALSE,RWC Music Database,Pop,Pop
+Comparison of Audio Features for Recognition of Western and Ethnic Instruments in Polyphonic Mixtures. 554-560,2018,4,FALSE,"The Western instrument samples:MUMS, RWC, and University of Iowa Musical Instrument Samples.
+Ethnic samples: Ethno World 5 Professional & Voices","recordings of western and non western instrument samples, see table 2 for list",Single Instrument
+Computational Corpus Analysis: A Case Study on Jazz Solos. 416-423,2018,NA,NA,Weimar Jazz Database (contains high-level symbolic transcriptions of jazz solos along with the audio recordings),jazz,Jazz
+Concert Stitch: Organization and Synchronization of Crowd Sourced Recordings. 608-614,2018,2,FALSE,"Synthesic dataset: 100 audio recordings downloaded from YouTube
+real world dataset:  5 audience recordings of a Grateful Dead concert performed on 1977-05-08. The audiodata was obtained from the Live Music Archive",unspecified,Doesn't Specify
+Conditioning Deep Generative Raw Audio Models for Structured Automatic Music. 182-189,2018,2,FALSE,"MusicNet dataset,  YouTube-8M dataset","piano, violin, cello",Single Instrument
+Controlled Vocabularies for Music Metadata. 424-430,2018,0,FALSE,"N/A: paper is specifically about vocabulary in music, as far as i can tell no actual music data is being crunched here",n/a,N/A
+Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation. 190-196,2018,1,FALSE,Lakh Pianoroll Dataset (LPD),multi-track piano rolls,Classical
+Cover Song Synthesis by Analogy. 197-203,2018,1,FALSE,Doesn't say,cover songs (pop),Pop
+"DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm.. 431-437",2018,2,TRUE,DALI dataset (Jamendo and MedleyDB for ground-truth),vocal (pop),Pop
+Deep Neural Networks with Voice Entry Estimation Heuristics for Voice Separation in Symbolic Music Representations. 281-288,2018,1,FALSE,originally retrieved from MuseData: self-curated dataset (Bach WTC) - MIDI frmt,Classical,Classical
+Deep Watershed Detector for Music Object Recognition. 271-278,2018,2,FALSE,DeepScores | MUSICMA++,musical sheets 2 ground truth data | handwritten muisc notation,N/A
+Disambiguating Music Artists at Scale with Audio Metric Learning. 622-629,2018,1,FALSE,Deezer - datasets built from here,unclear,Doesn't Specify
+Document Analysis of Music Score Images with Selectional Auto-Encoders. 256-263,2018,2,FALSE,"high resolution image scans of two ancient music manuscripts.
+The first corpus is a subset of 10 pages of the Salzinnes Antiphonal manuscript (CDM-Hsmu M2149.14), music score dated 1554–5.
+The second corpus is 10 pages of the Einsiedeln, Stiftsbibliothek, Codex 611(89), from 1314.",scans of music sheets/manuscripst,N/A
+Driftin' Down the Scale: Dynamic Time Warping in the Presence of Pitch Drift and Transpositions. 630-636,2018,1,FALSE,MusicNet dataset,"""approximately 34 hours of chamber music performances with various instrumentations""",N/A
+Empirically Weighing the Importance of Decision Factors for Singing Preference. 529-536,2018,1,FALSE,"""excerpts of 50 songs (ten songs from five genres) from the top 50 Billboard chart songs between the years of 2011-2015... 15-seconds of audio was extracted from each artist’s official YouTube channel. Audio was extracted from the video as mp3 files.""","""Rock, Pop, Alternative, Country, and Rap""",Various
+End-to-end Learning for Music Audio Tagging at Scale. 637-644,2018,3,FALSE,"MagnaTagATune (25k songs), Million Song Dataset (240k songs), private dataset (1.2M songs) (seconded)",various,Various
+Evaluating a Collection of Sound-Tracing Data of Melodic Phrases. 74-81,2018,1,FALSE,Doesn't say,"Hindustani, Sami joik, jazz scat singing, and Western classical vocalise",Various
+Evaluating Automatic Polyphonic Music Transcription. 42-49,2018,1,FALSE,Doesn't say,classical (Bach's Minuet in G),Classical
+Evaluating Language Models of Tonal Harmony. 211-217,2018,3,FALSE,"Chopin - KernScores | ""assorted symphonies - MATCH | KernScores in MIDI format","Piano | classical | classical - string quart, piano,",Classical
+Exploring Musical Relations Using Association Rule Networks. 400-406,2018,3,FALSE,GTZAN | Artist20 | FMA,10 genres | pop & rock | genre not specified,Various
+Frame-level Instrument Recognition by Timbre and Pitch. 135-142,2018,1,FALSE,MusicNet dataset,individual instruments,Single Instrument
+From Labeled to Unlabeled Data - On the Data Challenge in Automatic Drum Transcription. 445-452,2018,3,FALSE,"ENST-Drums dataset, the MIREX 2005, MDB-Drums, RBMA",various,Various
+Functional Harmony Recognition of Symbolic Music Data with Multi-task Recurrent Neural Networks. 90-97,2018,2,FALSE,"Beethoven Piano Sonata with Function
+Harmony (BPS-FH) dataset",classical piano music,Classical
+Generalized Skipgrams for Pattern Discovery in Polyphonic Streams. 547-553,2018,1,NA,"17 piano sonatas by
+Wolfgang Amadeus Mozart in MIDI format",classical piano music,Classical
+Genre-Agnostic Key Classification With Convolutional Neural Networks. 264-270,2018,3,FALSE,"GiantSteps MTG Key dataset, McGill Billboard dataset, and internal database (seconded)","EDM, Pop/Rock, & Classical (piano) respectively",Various
+GuitarSet: A Dataset for Guitar Transcription. 453-460,2018,1,TRUE,GuitarSet,guitar recordings,Single Instrument
+Identifying Emotions in Opera Singing: Implications of Adverse Acoustic Conditions. 376-382,2018,1,FALSE,Doesn't say,Opera,Other
+Improved Chord Recognition by Combining Duration and Harmonic Language Models. 10-17,2018,4,FALSE,1. Isophonics 2. RWC Pop 3. Robbie Williams 4. McGill Billboard,1. classic rock*? 2. American + Japanese Pop 3. r. williams 4. US billboard charts,Various
+Improving Bass Saliency Estimation Using Transfer Learning and Label Propagation. 306-312,2018,6,FALSE,"Isolated Upright Bass Recordings (ISO+): from Adam tch. Monroe’s Upright Bass Sample Library , Meatbass , Trillian , Steinberg Halion Symphonic Orchestra, and SWAM Double Bass, and RWC, the McGill University Master Samples, 1] and the Iowa Classical Instrument Samples
+The Weimar Jazz Database: 456 manually transcribed solos","jazz, orchestra (?), instrument samples",Various
+Improving Peak-picking Using Multiple Time-step Loss Functions. 313-320,2018,5,FALSE,"IDMT-SMT-Drums, ENST-Drums minus one subset, MDB-Drums and RBMA-2013, unspecified instrument-separated dataset",unspecified,Various
+Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions. 671-677,2018,0,FALSE,n/a,n/a,N/A
+Instrudive: A Music Visualization System Based on Automatically Recognized Instrumentation. 561-568,2018,1,FALSE,MedleyDB dataset,"Folk, rock, pop, country",Various
+Instrument Activity Detection in Polyphonic Music using Deep Neural Networks. 569-576,2018,2,FALSE,"MedleyDB dataset, Mixing Secrets dataset",not indicated,Doesn't Specify
+Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model. 145-151,2018,1,FALSE,SALAMI (seconded),pop (chord sequences),Pop
+Investigating Cross-Country Relationship between Users' Social Ties and Music Mainstreaminess. 678-686,2018,1,FALSE,LFM -1b,music listening events?,N/A
+"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning. 577-584",2018,3,FALSE,IRMAS | MONOTIMBRAL | Weimar Jazz Database,"training/test sets, single instrument recording | monotimbral recordings, various instruments and singing recs | jazz solos",Various
+JSYMBOLIC 2.2: Extracting Features from Symbolic Music for use in Musicological and MIR Research. 348-354,2018,2,FALSE,"MIDI portion of ""SAC"" dataset, created RenComp7 dataset","Parent Genres: Rap, Jazz, Classical, Rock, Blues, Rencomp is renaissance classical",Various
+Learning Domain-Adaptive Latent Representations of Music Signals Using Variational Autoencoders. 653-660,2018,3,FALSE,"a subset of the MAPS dataset, ENSTDkCI, which contains 30 piano recordings performed by a Yamaha Disklavier auto-piano together with MIDI files that generate the recordings;
+MIR-1k dataset which contains the 1,000 Chinese karaoke excerpts with separated voice and accompaniment tracks, clipped from 110 songs","not indicated, but probably classic and pop","Classical, Pop"
+Learning Interval Representations from Polyphonic Music Sequences. 661-668,2018,2,FALSE,"for symbolic data–Mozart/Batik data set: 13 piano sonatas containing more than 106,000 notes.
+audio–100 random piano pieces of the MAPS dataset (subset MUS)","not specified, but probably classical",Classical
+"Learning to Listen, Read, and Follow: Score Following as a Reinforcement Learning Game. 784-791",2018,1,FALSE,"Nottingham Dataset comprises 296 monophonic melodies of folk music
+479 classical pieces by various composers such as Beethoven, Mozart and Bach, collected from the freely available Mutopia Project","folk, classical","Folk, Classical"
+Listener Anonymizer: Camouflaging Play Logs to Preserve User's Demographic Anonymity. 687-694,2018,1,FALSE,Last.fm dataset by Schedl,not specified,N/A
+Main Melody Estimation with Source-Filter NMF and CRNN. 82-89,2018,1,FALSE,MedleyDB dataset,not specified,Doesn't Specify
+Matrix Co-Factorization for Cold-Start Recommendation. 792-798,2018,1,FALSE,"Million Song Dataset (using the ""Taste Profile"" and ""Last.fm"" subsets) (seconded)",Various,Various
+Meter Detection and Alignment of MIDI Performance. 113-119,2018,1,FALSE,"MIDI dataset (doesn't say which dataset, may be in house)",Classical and live performances of classical,Classical
+Methodologies for Creating Symbolic Corpora of Western Music Before 1600. 491-498,2018,1,TRUE,Josquin Research Project and assessments in La Rue edition??=>Josquin La Rue Secure Duos Dataset(JLRSDD),Classical (composers: Josquin & La Rue),Classical
+MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer. 747-754,2018,3,NA,"""various online sources"": class: reddit? | Jazz: midkar.com | Pop: midiworld.com","Classical, Jazz, Pop",Various
+Music Generation and Transformation with Moment Matching-Scattering Inverse Networks. 327-333,2018,NA,NA,"NSynth:  annotated musical notes from multiple instruments.  All recordings begin with the onset of the note and last 4s.
+Beethoven:  8s extracts of Beethoven’s piano sonata",probably just classical,Classical
+Music Mood Detection Based on Audio and Lyrics with Deep Neural Net. 370-375,2018,1,FALSE,Million Song Dataset,doesn't specify,Doesn't Specify
+Music Source Separation Using Stacked Hourglass Networks. 289-296,2018,1,FALSE,MIR-1K,a thousand song clips extracted from 110 Chinese karaoke songs at a sampling rate of 16kHz,Various
+Musical Texture and Expressivity Features for Music Emotion Recognition. 383-391,2018,1,FALSE,4Q audio emotion dataset(audio from AllMusic API),not specified,Doesn't Specify
+Musical-Linguistic Annotations of Il Lauro Secco. 461-467,2018,1,NA,Symbolically Encoded Il Lauro Secco dataset (SEILS),italian acappella madrigal,Other
+On the Impact of Music on Decision Making in Cooperative Tasks. 695-701,2018,1,FALSE,"""Publicly available music"" (seconded)","""sad"" music (slow, minor keys, somber tones) & ""happy"" (upbeat tempo, major scales, colorful tones)",Various
+On the Relationships between Music-induced Emotion and Physiological Signals. 362-369,2018,1,FALSE,"Jamendo, experiment uses Moody system",not specified,Doesn't Specify
+Onsets and Frames: Dual-Objective Piano Transcription. 50-57,2018,1,NA,MAPS,Piano recordings - genre not specified,Single Instrument
+OpenMIC-2018: An Open Data-set for Multiple Instrument Recognition. 438-444,2018,1,TRUE,Free Music Archive,Various,Various
+Optical Music Recognition in Mensural Notation with Region-based Convolutional Neural Networks. 240-247,2018,1,FALSE,Photos of 16th-18th century vocal music,sacred classical,Classical
+Part-invariant Model for Music Generation and Harmonization. 204-210,2018,1,FALSE,Bach chorale dataset from music21,classical SATB,Classical
+Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription. 58-65,2018,2,FALSE,"IDMT-SMT-Drums
+dataset and ENST-Drums minus one subset [3] and MDB Drums",drums,Single Instrument
+Precision of Sung Notes in Carnatic Music. 499-505,2018,2,FALSE,Indian Art Music Raga Recognition Dataset(Carnatic music dataset+Hindustani music rāga recognition dataset),"Carnatic music (""a form of classical music prevalent in South India"")",Carnatic Music
+Relevance of Musical Features for Cadence Detection. 355-361,2018,2,FALSE,"Bach Kernscore, Haydn KernScore",Classical,Classical
+Representation Learning of Music Using Artist Labels. 717-724,2018,3,FALSE,"Million Song Dataset, 7digital preview clips (seconded), Last.fm dataset",various,Various
+Revisiting Singing Voice Detection: A quantitative review and the future outlook. 506-513,2018,2,FALSE,Jamendo dataset (Medley DB used for qualitative analysis),"vocal, doesn't specify genre",Doesn't Specify
+SE and SNL diagrams: Flexible data structures for MIR. 341-347,2018,1,FALSE,Mazurka KernScores,Classical (specifically Chopin's Mazukas),Classical
+Searching Page-Images of Early Music Scanned with OMR: A Scalable Solution Using Minimal Absent Words. 233-239,2018,1,FALSE,images of archived of 16th century printed music,Digital images of 16th centry printed music,N/A
+Semi-supervised Lyrics and Solo-singing Alignment. 600-607,2018,1,FALSE,DAMP (Digital archive of mobile performances) from Smule's Sing! karaoke app,english pop songs (vocal only),Pop
+Shared Generative Representation of Auditory Concepts and EEG to Reconstruct Perceived and Imagined Music. 392-399,2018,2,FALSE,OpenMIIIR and NMED-T,"EEG, not music",N/A
+Skeleton Plays Piano: Online Generation of Pianist Body Movements from MIDI Performance. 218-224,2018,1,FALSE,"recorded a new audio-visual piano performance dataset with synchronized MIDI stream information on a MIDI keyboard. The dataset contains a total of 74 performance recordings (3 hours and 8 minutes) of 16 different tracks
+(8 piano duets) played by two pianists, one male and one female",piano music?,Classical
+StructureNet: Inducing Structure in Generated Melodies. 725-731,2018,1,FALSE,cleaned Nottingham folk melody dataset (seconded),folk,Folk
+Summarizing and Comparing Music Data and Its Application on Cover Song Identification. 732-739,2018,2,FALSE,"youtubecovers dataset, chopin mazurka's from the mazurka project","""popular songs of different genres"" for youtubecovers, classical for the mazurkas","Pop, Classical"
+The Many Faces of Users: Modeling Musical Preference. 709-716,2018,1,FALSE,"LFM-1b, Spotify API (side note: i don't think the spotify api is a music database, but a program?)",unspecified,Doesn't Specify
+The NES Music Database: A multi-instrumental dataset with expressive performance attributes. 475-482,2018,1,TRUE,NES APU,video game music,Other
+The Northwestern University Source Separation Library. 297-305,2018,5,FALSE,"MUSDB18 (DSD100+MedleyDB), iKala, MIR-1K, TIMIT, WSJ0",doesn't say,Doesn't Specify
+Timbre Discrimination for Brief Instrument Sounds. 128-134,2018,1,FALSE,[23],"""anechoic recordings of acoustic instruments"": 3305 single notes of 41 instruments from historical periods, lots of varying instrumtents - no genre",Single Instrument
+Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets. 225-232,2018,1,FALSE,MUSCIMA++ version 1.0,doesn't specify,N/A
+Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model. 740-746,2018,2,FALSE,bach chorales from music21 and independently collected jazz,classical and jazz,"Classical, Jazz"
+Two Web Applications for Exploring Melodic Patterns in Jazz Solos. 777-783,2018,1,FALSE,Weimar Jazz Database,a large database of jazz solo transcriptions generated by automated melody extraction algorithms,Jazz
+Understanding a Deep Machine Listening Model Through Feature Inversion. 755-762,2018,2,FALSE,"two SVD datasets (side note: i don't think svd is a music dataset? it's referred to as a 'model', and svd = singing voice detection), Jamendo dataset, rwc dataset","pop music for jamendo, pop music for rwc",Pop
+Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks. 18-25,2018,4,FALSE,"reference annotated chord datasets (Isophonics, RWC-Pop, McGill Billboard), a 'the Beatles' dataset","Chords, and Pop/Rock","Pop, Rock"
+VenueRank: Identifying Venues that Contribute to Artist Popularity. 702-708,2018,0,NA,"Music data not collected--data about artists/venues from facebook, data abt number of listeners from Spotify",n/a,N/A
+Visualization of Audio Data Using Stacked Graphs. 771-776,2018,1,FALSE,Doesn't say,"tones played by piano, violin, trumpet, and flute, and recorded saxophone performances",Single Instrument
+Vocal Melody Extraction with Semantic Segmentation and Audio-symbolic Domain Transfer Learning. 521-528,2018,4,FALSE,"MIR1K and MedleyDB (training), ADC2004, MIREX05, and MedleyDB (testing)","Chinese karaoke clips (MIR1k), songs w vocal tracks (MedleyDB). Data trained on folk songs",Various
+Vocals in Music Matter: the Relevance of Vocals in the Minds of Listeners. 514-520,2018,0,NA,"Data mined from Spotify (514), surveys of spotify users","Playlist titles, search data, artist bios",N/A
+VocalSet: A Singing Voice Dataset. 468-474,2018,1,TRUE,VocalSet,"acapella (variety of ranges, tones, and styles) male and female singers",Other
+Wave-U-Net: A Multi-Scale Neural Network for End-to-End Audio Source Separation. 334-340,2018,2,FALSE,musdb18 multi-track database and ccMixter,various,Various
+Zero-Mean Convolutions for Level-Invariant Singing Voice Detection. 321-326,2018,1,FALSE,Jamendo,doesn't say,Doesn't Specify
