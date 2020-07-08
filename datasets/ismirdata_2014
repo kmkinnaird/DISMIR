@@ -1,0 +1,133 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+"On Cultural, Textual and Experiential Aspects of Music Mood. [pdf]",2014,1,TRUE,"English-language songs of the 2000’s,",popular genres,Various
+"Sparse Cepstral, Phase Codes for Guitar Playing Technique Classification. [pdf]",2014,1,FALSE,"7 distinct playing techniques of electric guitar and individual-note dataset comprising of 7 types of guitar tones for each playing technique. The dataset contains 6,580 clips and 11,928 notes",electric guitar,Single Instrument
+Automated Detection of Single- and Multi-Note Ornaments in Irish Traditional Flute Playing. [pdf],2014,1,FALSE,monophonic flute recordings from Grey Larsen’s CD,Irish flute,Non-Western
+The Kiki-Bouba Challenge: Algorithmic Composition for Content-based MIR Research and Development. [pdf],2014,1,FALSE,test dataset of 500 music recordings from Kiki or Bouba,Various,Various
+Transfer Learning by Supervised Pre-training for Audio-based Music Classification. [pdf],2014,4,FALSE,"GTZAN, 1517-Artists, Unique and Magnatagatune datasets",various,Various
+Estimating Musical Time Information from Performed MIDI Files. [pdf],2014,2,FALSE,"recordings on a MIDI piano taken from Saarland Music Data (http://www.mpi-inf.mpg.de/resources/ SMD/), and the scores are picked from Mutopia (http://www. mutopiaproject.org/).",classical,Classical
+Estimation of the Direction of Strokes and Arpeggios. [pdf],2014,3,FALSE,"guitar and organ: RWC database
+
+piano: Database of Piano Chords: An Engineering View of Harmony
+
+harp: made by researchers",instrumental,Instrument Recordings
+Predicting Expressive Dynamics in Piano Performances using Neural Networks. [pdf],2014,8,FALSE,"MIDI score datasets: the JSB Chorales, some MuseScore pieces, the Mutopia database, the Nottingham database, the Piano-midi archive and the Voluntocracy dataset
+
+Performance datasets: developed at the Austrian Research Institute for AI (OFAI). One dataset contains performance data of all Chopin’s piano music played by Nikita Magaloff, the other contains all Mozart piano sonatas performed by Roland Batik",classical,Classical
+An RNN-based Music Language Model for Improving Automatic Music Transcription. [pdf],2014,2,FALSE,"Bach10 dataset, Nottingham dataset","classical, folk","Classical, Folk"
+Towards Modeling Texture in Symbolic Data. [pdf],2014,1,FALSE,"10 first movements of string quartets: the six quartets op. 33 by Haydn, three early quartets by Mozart (K. 80 no. 1, K. 155 no. 2 and K. 157 no. 4), and the quartet op. 125 no. 1 by Schubert.",classical,classical
+Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing. [pdf],2014,1,FALSE,"12 recordings of martinete performances, a subset of the tonas´ dataset",Flamenco,Other
+The VIS Framework: Analyzing Counterpoint in Large Datasets. [pdf],2014,3,FALSE,"Ockeghem dataset, Josquin dataset, and Palestrina dataset","different music styles in the Renaissance period: Ockeghem (1440–85), Josquin (1485–1521), and Palestrina (1540–85)",Classical
+Hierarchical Approach to Detect Common Mistakes of Beginner Flute Players. [pdf],2014,1,FALSE,Flute sound samples were obtained from two intermediates (who have played the flute for one to two years) and one expert (who holds an exam score of Grade 8 with a Distinction),instrumental,Instrument recording
+Robust Joint Alignment of Multiple Versions of a Piece of Music. [pdf],2014,1,FALSE,recordings taken from the Mazurka Project,classical,Classical
+Formalizing the Problem of Music Description. [pdf],2014,1,FALSE,GTZAN,various,Various
+An Association-based Approach to Genre Classification in Music. [pdf],2014,2,FALSE,"Latin Music Database, Million Song Dataset Benchmarking",Latin Music and various (from MSD),"Other, Various"
+Multiple Viewpiont Melodic Prediction with Fixed-Context Neural Networks. [pdf],2014,4,FALSE,"Bach chorale melodies, and folk melodies from Canada, China and Germany","classical, Canadian folk, Chinese folk, German folk",Various
+Verovio: A library for Engraving MEI Music Notation into SVG. [pdf],2014,0,FALSE,n/a,n/a,N/A
+Music Classification by Transductive Learning Using Bipartite Heterogeneous Networks. [pdf],2014,2,FALSE,GTZAN and Homburg datasets,various 10 genres,Various
+Automatic Melody Transcription based on Chord Transcription. [pdf],2014,1,TRUE,1.5 hours of audio excerpts from Western popular music,pop,Pop
+Audio-to-score Alignment at the Note Level for Orchestral Recordings. [pdf],2014,1,FALSE,dataset of Bach chorales,classical,Classical
+A Compositional Hierarchical Model for Music Information Retrieval. [pdf],2014,3,FALSE,"88 piano key samples as our learning set, Beatles datase, MAPS dataset",Bealtes and instrument recordings,"Pop, Rock, Single Instrument"
+An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures. [pdf],2014,1,TRUE,"Four out of eight songs are available, authors welcome all appropriately licensed contributions consisting of shareable raw, multitrack audio, DAW project files, rendered mixes, or a subset thereof. Due to copyright restrictions, the other songs could not be shared.",instrumental,Single Instrument
+Detecting Drops in Electronic Dance Music: Content based approaches to a socially significant music event. [pdf],2014,1,FALSE,collect music and social data from SoundCloud,EDM,Other
+Towards Automatic Content-Based Separation of DJ Mixes into Single Tracks. [pdf],2014,1,FALSE,103 DJ mix recordings downloaded from free online sources,DJ mixes,Other
+MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR Research. [pdf],2014,1,TRUE,"MedleyDB: dataset consists of 122 songs, 108 of which include melody annotations
+
+content was obtained from multiple sources: 30 songs were provided by various independent artists, 32 were recorded at NYU’s Dolan
+Recording Studio, 25 were recorded by Weathervane Music, and 35 were created by Music Delta",9 genres,Various
+Melody Extraction from Polyphonic Audio of Western Opera: A Method based on Detection of the Singer’s Formant. [pdf],2014,1,FALSE,combination of the ADC2004 test collection and our own dataset,western opera,Classical
+Codebook-based Scalable Music Tagging with Poisson Matrix Factorization. [pdf],2014,2,FALSE,CAL500 dataset and the Million Song Dataset,various,Various
+Template Adaptation for Improving Automatic Music Transcription. [pdf],2014,2,FALSE,"training: RWC database
+testing: MAPS and Bach10 database",instrumental,Single Instrument
+Note-level Music Transcription by Maximum Likelihood Sampling. [pdf],2014,1,FALSE,Bach10 dataset,classical,Classical
+Drum Transcription via Classification of Bar-Level Rhythmic Patterns. [pdf],2014,1,FALSE,14 acoustic performances from the ENST-Drums dataset,Drums,Single Instrument
+Developing Tonal Perception through Unsupervised Learning. [pdf],2014,1,FALSE,"Training: MIDI versions of the 48 Bach fugues of the WTC as corpus,
+encoded by David Huron and taken from the KernScores website",classical,Classical
+Exploiting Instrument-wise Playing/Non-Playing Labels for Score Synchronization of Symphonic Music. [pdf],2014,1,FALSE,"set of 29 symphonic pieces composed by Beethoven, Mahler, Mozart and Schubert",classical,Classical
+Multi-Strategy Segmentation of Melodies. [pdf],2014,2,FALSE,100 instrumental folk songs randomly sampled from the Liederenbank collection and 100 vocal folk songs randomly sampled from the German subset of the Essen Folk Song Collection,folk,Folk
+A Data Set for Computational Studies of Schenkerian Analysis. [pdf],2014,4,TRUE,"SCHENKER41 data set: selected 41 excerpts from Forte and Gilbert’s textbook Introduction to Schenkerian Analysis and the corresponding instructor’s manual, Cadwallader and Gagne’s textbook Analysis of Tonal Music, Pankhurst’s handbook SchenkerGUIDE, and a professor of music theory who teaches a Schenkerian analysis class",classical,Classical
+Systematic Multi-scale Set-class Analysis. [pdf],2014,2,FALSE,"dataset of class-vectors was computed from 13480 MIDI tracks, including works by Albeniz, Albinoni, Alkan, ´ Bach, Beethoven, Brahms, Bruckner, Busoni, Buxtehude, Byrd, Chopin, Clementi, Corelli, Couperin, Debussy, Dowland, Frescobaldi, Gesualdo, Guerrero, Haydn, Josquin, Lasso, Liszt, Lully, Mahler, Morales, Mozart, Pachelbel, Palestrina, Satie, Scarlatti, Shostakovich, Schumann, Scriabin, Soler, Stravinsky, Tchaikovsky, Telemann, Victoria and Vivaldi. It also includes anonymous medieval pieces, church hymns, and the Essen folksong collection","classical, medieval, folk",Various
+Spotting a Query Phrase from Polyphonic Music Audio Signals Based on Semi-supervised Nonnegative Matrix Factorization. [pdf],2014,1,FALSE,RWC Music Database: Popular Music,pop,Pop
+Bayesian Audio Alignment based on a Unified Model of Music Composition and Performance. [pdf],2014,1,FALSE,two to five recordings to nine pieces of Chopin’s Mazurka,classical,Classical
+Automatic Set List Identification and Song Segmentation for Full-Length Concert Videos. [pdf],2014,20,FALSE,YouTube videos,pop/rock,"Pop, Rock"
+On Inter-rater Agreement in Audio Music Similarity. [pdf],2014,8,FALSE,MIREX 2006 to 2013,various,Various
+Emotional Predisposition of Musical Instrument Timbres with Static Spectra. [pdf],2014,1,FALSE,"eight sustained wind and bowed string instrument tones: bassoon (Bs), clarinet (Cl), flute (Fl), horn (Hn), oboe (Ob), saxophone (Sx), trumpet (Tp), and violin (Vn). They were obtained from the McGill and Prosonus sample libraries, except for the trumpet, which had been recorded at the University of Illinois at UrbanaChampaign School of Music",instrumental,Single Instrument
+Panako - A Scalable Acoustic Fingerprinting System Handling Time-Scale and Pitch Modification. [pdf],2014,1,TRUE,test data set consists of freely available music downloaded from Jamendo,various,Various
+Perceptual Analysis of the F-Measure to Evaluate Section Boundaries in Music. [pdf],2014,3,FALSE,"a database of 463 songs composed of the conjunction of the TUT Beatles dataset, the Levy catalogue, and the freely available songs of the SALAMI dataset","Pop/rock, doesn't specify what genres from other datasets",Various
+Keyword Spotting in A-capella Singing. [pdf],2014,1,FALSE,database of 19 a-capella pop songs and recordings of the spoken lyrics,a-capella,Pop
+The Importance of F0 Tracking in Query-by-singing-humming. [pdf],2014,1,FALSE,MIREX 2005,doesn't specify,Doesn't Specify
+Vocal Separation using Singer-Vowel Priors Obtained from Polyphonic Audio. [pdf],2014,1,FALSE,"dataset comprised of nine instances of three vowels /a/, /i/, /o/ sung by a male singer over three different songs with their accompaniments, annotated at the phoneme level",spoken recordings,Other
+Improving Query by Tapping via Tempo Alignment. [pdf],2014,2,FALSE,2 datasets of symbolic input published in 2009 available on MIREX QBT webpage,N/A - its not really music data?,N/A
+Automatic Instrument Classification of Ethnomusicological Audio Recordings. [pdf],2014,1,FALSE,CREM research database composed of diversified sound samples directly recorded by ethnomusicologists in various conditions and from diversified places all around the world,sound samples,Other
+Music Analysis as a Smallest Grammar Problem. [pdf],2014,1,FALSE,a selection of Bach’s fugues,classical,Classical
+Frame-Level Audio Segmentation for Abridged Musical Works. [pdf],2014,1,FALSE,recording of Carlos Kleiber performed in 1973,opera,Classical
+Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis. [pdf],2014,2,FALSE,"audio:  78 releases containing 113 CDs, consisting of collections of
+single arias per track stored in MusicBrainz
+
+lyrics: specialized free repositories in the web",Chinese opera,"Classical, Non-Western"
+Modeling Temporal Structure in Music for Emotion Prediction using Pairwise Comparisons. [pdf],2014,2,FALSE,"IMM: 20 different 15-second excerpts, chosen from the USPOP2002 dataset
+
+YANG: 1240 different Chinese 30-second excerpts on the dimension of valence","pop, chinese pop","Pop, Non-Western"
+Musical Structural Analysis Database Based on GTTM. [pdf],2014,1,TRUE,GTTM database,classical,Classical
+Theoretical Framework of A Computational Model of Auditory Memory for Music Emotion Recognition. [pdf],2014,1,FALSE,AllMusic Guide,doesn't specify,Doesn't Specify
+Improving Music Structure Segmentation using lag-priors. [pdf],2014,2,FALSE,RWC-Popular-Music and Isophonics/Beatles test-sets,pop and bealtes,"Pop, Rock"
+Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing. [pdf],2014,1,FALSE,"48 albums, which contain 510 recordings (tracks) featuring 381 arias and over 46 hours of audio
+
+lyrics extracted from jingju.net",Chinese Opera,"Classical, Non-Western"
+A Proximity Grid Optimization Method to Improve Audio Search for Sound Design. [pdf],2014,1,FALSE,One Laptop Per Child (OLPC) sound library,"8458 sound samples, 90 sublibraries combine diverse types of content or specialize into one type, among which: musical instruments riffs or single notes, field recordings, Foley recording, synthesized sounds, vocals, animal sounds.",Other
+Introducing a Dataset of Emotional and Color Responses to Music. [pdf],2014,4,FALSE,"80 songs from the royalty free online music service Jamendo, 80 songs were included from a dataset of film music excerpts, 20 from a database of folk music and 20 from a contemporary electro-acoustic music collection",various,Various
+In-depth Motivic Analysis based on Multiparametric Closed Pattern and Cyclic Sequence Mining. [pdf],2014,1,FALSE,Johannes Kepler University Patterns Development Database (JKUPDD-Aug2013),Classical,Classical
+MIR_EVAL: A Transparent Implementation of Common MIR Metrics. [pdf],2014,0,FALSE,n/a,n/a,N/A
+Computational Modeling of Induced Emotion Using GEMS. [pdf],2014,1,FALSE,selecting music randomly from a Creative Commons recording label Magnatune,"classical, rock, pop and electronic music",Various
+Cognition-inspired Descriptors for Scalable Cover Song Retrieval. [pdf],2014,2,FALSE,"covers80 dataset by Ellis, Second Hand Songs dataset",coversongs - genre not specified,Various
+A Cross-Cultural Study on the Mood of K-POP Songs. [pdf],2014,1,FALSE,"1,892 K-pop songs across seven dominant music genres in K-pop","Ballad, Dance/Electronic, Folk, Hip-hop/Rap, Rock, R&B/Soul, and Trot","Pop, Non-Western"
+Cadence Detection in Western Traditional Stanzaic Songs using Melodic and Textual Features. [pdf],2014,1,FALSE,Meertens Tune Collections,Dutch folk songs,Folk
+Discovering Typical Motifs of a Raga from One-Liners of Songs in Carnatic Music. [pdf],2014,1,FALSE,compositions are taken from the Charsur collection,Carnatic music,Non-Western
+Analyzing Song Structure with Spectral Clustering. [pdf],2014,2,FALSE,"Beatles-TUT, Salami",various,Various
+Identifying Polyphonic Musical Patterns From Audio Recordings Using Music Segmentation Techniques. [pdf],2014,1,FALSE,JKU Patterns Development Dataset,classical,Classical
+Boundary Detection in Music Structure Analysis using Convolutional Neural Networks. [pdf],2014,1,FALSE,SALAMI,various,Various
+Tracking the “Odd”: Meter Inference in a Culturally Diverse Music Corpus. [pdf],2014,3,FALSE,"corpus of Cretan music, Turkish corpus, Carnatic music corpus","Cretan, Turkish, Carnatic",Various
+Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera. [pdf],2014,1,FALSE,built a representative dataset of patterns from the audio recordings of arias in the CompMusic Beijing opera research corpus,Chinese opera,"Classical, Non-Western"
+Taste Space Versus the World: an Embedding Analysis of Listening Habits and Geography. [pdf],2014,1,FALSE,MMTD data set,This data set contains nearly 1.1 million tweets with geographical data.,N/A
+Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation. [pdf],2014,1,FALSE,Taste Profile Subset used in the Million Song Dataset Challenge,various,Various
+Improving Music Recommender Systems: What Can We Learn from Research on Music Tastes? [pdf],2014,2,FALSE,"Psychology database PsycINFO (Ovid), and one in sociology, Sociological Abstracts",non-music,N/A
+Social Music in Cars. [pdf],2014,1,FALSE,data collected in a third year university Human Computer Interaction (HCI) course,various,Various
+A Combined Thematic and Acoustic Approach for a Music Recommendation Service in TV Commercials. [pdf],2014,3,FALSE,"English Wikipedia and over 13,000 news articles from four leading newspapers for the article data set. Our lyrics data set consists of lyrics of more than 10,000 songs by 56 popular English singers, and our poetry dataset is made up of more than 20,000 poems from 60 famous poets",various (for the lyrics dataset),Various
+Are Poetry and Lyrics All That Different? [pdf],2014,1,FALSE,"test set is a set of 55 videos to which a song should be associated using the recommandation set of 5,000 soundtracks",various,Various
+Singing-Voice Separation from Monaural Recordings using Deep Recurrent Neural Networks. [pdf],2014,1,FALSE,MIR-1K dataset,Chinese Karaoke,Various
+Impact of Listening Behavior on Music Recommendation. [pdf],2014,1,FALSE,MMTD,N/A,N/A
+Towards Seamless Network Music Performance: Predicting an Ensemble’s Expressive Decisions for Distributed Performance. [pdf],2014,1,FALSE,dataset consists of 20 performances by one pianist of the short custom-composed piece,instrument recordings,Single Instrument
+Detection of Motor Changes in Violin Playing by EMG Signals. [pdf],2014,0,FALSE,n/a,n/a,N/A
+Automatic Key Partition Based on Tonal Organization Information of Classical Music. [pdf],2014,1,FALSE,"Kostka-Payne corpus, which contains classical music excerpts in a theory book",classical,Classical
+Bayesian Singing-Voice Separation. [pdf],2014,1,FALSE,MIR-1K dataset,Chinese Karaoke pop,"Pop, Non-Western"
+Probabilistic Extraction of Beat Positions from a Beat Activation Function. [pdf],2014,3,FALSE,Ballroom dataset; the Hainsworth dataset; the SMC dataset,"Ballroom, Various, Various",Various
+Geographical Region Mapping Scheme Based on Musical Preferences. [pdf],2014,1,FALSE,Last.fm,various,Various
+On Comparative Statistics for Labelling Tasks: What can We Learn from MIREX ACE 2013? [pdf],2014,3,FALSE,Isophonics dataset and two versions of the McGill Billboard dataset,"Beatles, Queen, American pop",Various
+Merged-Output HMM for Piano Fingering of Both Hands. [pdf],2014,1,FALSE,manually labeled fingerings of classical piano pieces,classical,Classical
+Modeling Rhythm Similarity for Electronic Dance Music. [pdf],2014,1,FALSE,120 songs from a total of 60 artists (2 songs per artist) from a variety of EDM genres and subgenres was selected,EDM,Electronic
+MuSe: A Music Recommendation Management System. [pdf],2014,1,TRUE,MUSE,N/A - i don't think this has its own set of music data,N/A
+Tempo- and Transposition-invariant Identification of Piece and Score Position. [pdf],2014,2,FALSE,"first dataset consists of performances of the first movements of 13 Mozart piano sonatas by Roland Batik
+
+second dataset consists of nearly the complete solo piano works by Chopin performed by Nikita Magaloff",classical,Classical
+Gender Identification and Age Estimation of Users Based on Music Metadata. [pdf],2014,1,FALSE,Last.fm,Various - doesn't specify,Various
+Information-Theoretic Measures of Music Listening Behaviour. [pdf],2014,1,TRUE,"compiled ‘Streamable Playlists with User Data’ (SPUD) – a dataset comprising 10, 000 playlists from Last.fm 1 produced by 3351 users, with track metadata including audio streams from Spotify. 2 We combine the dataset with the mood and genre classification of Syntonetic’s Moodagent",Various,Various
+Evaluation Framework for Automatic Singing Transcription. [pdf],2014,1,FALSE,proposed dataset consists of 38 melodies sung by adult and child untrained singers,pop and traditional children's songs (all singing recordings),"Pop, Other"
+What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features? [pdf],2014,1,FALSE,"created an ad-hoc corpus of music for this study, containing 400 different music tracks by 395 different artists","blues, classical, country, disco/funk/soul, electronic, jazz, rap/hip-hop, reggae, rock and rock’n’roll",Various
+Music Information Behaviors and System Preferences of University Students in Hong Kong. [pdf],2014,1,FALSE,Survey responses of 101 students,25 genres,Various
+LyricsRadar: A Lyrics Retrieval System Based on Latent Topics of Lyrics. [pdf],2014,1,FALSE,"lyrics database contains 6902 Japanese popular songs (J-POP) and 5351 English popular songs
+
+English songs from Music Lyrics Database","pop, jpop","Pop, Non-Western"
+JAMS: A JSON Annotated Music Specification for Reproducible MIR Research. [pdf],2014,1,TRUE,"JAMS: partial list of converted datasets include Isophonics, Billboard, SALAMI, RockCorpus, tmc323, Cal500, Cal10k, ADC04, and MIREX05",Various,Various
+On The Changing Regulations of Privacy and Personal Information in MIR. [pdf],2014,0,FALSE,n/a,n/a,N/A
+A Multi-model Approach to Beat Tracking Considering Heterogeneous Music Styles. [pdf],2014,3,FALSE,"Ballroom, Hainsworth and SMC","ballroom, various, various",Various
+Extending Harmonic-Percussive Separation of Audio Signals. [pdf],2014,0,FALSE,n/a,n/a,N/A
+Singing Voice Separation Using Spectro-Temporal Modulation Features. [pdf],2014,1,FALSE,MIR-1K,karaoke clips sung by amateur singers,Various
+Harmonic-Temporal Factor Decomposition Incorporating Music Prior Information for Informed Monaural Source Separation. [pdf],2014,1,FALSE,RWC instrument database,instrumental,Single Instrument
+Design And Evaluation of Onset Detectors using Different Fusion Policies. [pdf],2014,3,FALSE,"[1] database of commercial and noncommercial recordings
+
+[2] 321 audio excerpts taken from various sources
+
+[3] recordings of the four major percussion instruments in Jingju","various, various, Chinese instrumental",Various
+Evaluating the Evaluation Measures for Beat Tracking. [pdf],2014,1,FALSE,MillionSongSubset,Various,Various
+Improving Rhythmic Transcriptions via Probability Models Applied Post-OMR. [pdf],2014,1,FALSE,"Nine scores of four-movement quartets by Mozart (5),1 Haydn (1), and Beethoven (4) were used for the primary evaluation",classical,Classical
+Classifying EEG Recordings of Rhythm Perception. [pdf],2014,0,FALSE,n/a,n/a,N/A
+"Ten Years of MIREX (Music Information Retrieval Evaluation eXchange): Reflections, Challenges and Opportunities. [pdf]",2014,10,FALSE,MIREX,various,Various
