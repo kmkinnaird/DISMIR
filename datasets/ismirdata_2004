@@ -1,0 +1,106 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+01. Retrieval of percussion gestures using timbre classification techniques.,2004,1,FALSE,1260 drum patterns played by 3 experts,solo drum patterns,Single Instrument
+02. Music meter and tempo tracking from raw polyphonic audio.,2004,1,FALSE,300 raw audio recordings of greek dance folklore music,Folklore,Folk
+03. Comparison Of Features For DP-Matching Based Query-by-Humming System.,2004,2,FALSE,"Humming Data, Children's songs dataset",Children's songs,Folk
+04. Time-Warped Longest Common Subsequence Algorithm for Music Retrieval.,2004,1,FALSE,Digital Tradition Collection,Folk songs,Folk
+04. Towards Automatic Transcription of Australian Aboriginal Music.,2004,2,FALSE,Recordings of australian music performance,"Folk songs: voice and clapsticks, didgeridoo, voice and didgeridoo",Non-Western
+05. Pattern Matching in Polyphonic Music as a Weighted Geometric Translation Problem.,2004,3,FALSE,"Bach Two-Part Invention Number 1, Mozart Piano sonata K311, Bach Well-Tempered  Clavier",Classical,Classical
+06. Clustering Symbolic Music Using Paradigmatic and Surface Level Analyses.,2004,1,TRUE,Mutopia,Classical,Classical
+07. Melodic Atoms for Transcribing Carnatic Music.,2004,0,FALSE,Melodies in Carnatic music,Non-Western,Non-Western
+08. Music Recommendation from Song Sets.,2004,1,FALSE,"18,647 songs",Various,Various
+09. Automatic Record Reviews.,2004,1,FALSE,Minnowatch Testbed,"Seems like various, doesn't specify which genre used",Various
+10. Tempo Tracking with a Single Oscillator.,2004,1,FALSE,Beatles Piano corpus by Cemgil et AI.,Pop/Rock,"Pop, Rock"
+11. A Hybrid Graphical Model for Aligning Polyphonic Audio with Musical Scores.,2004,1,FALSE,Classical Midi Archives,Classical,Classical
+12. Demonstration of 'Music Plus One'--- a System for Orchestral Musical Accompaniment.,2004,1,FALSE,Self created DS with Music Minus ONe,Classical,Classical
+13. Automatic Genre Classification Using Large High-Level Musical Feature Sets.,2004,1,FALSE,950 MIDI files,Classical,Classical
+14. Search Effectiveness Measures for Symbolic Music Queries in Very Large Databases.,2004,1,FALSE,Essen Folks,flk,Folk
+15. Eigenrhythms: Drum pattern basis sets for classification and generation.,2004,1,FALSE,MIDI tracks,"blues, country, disco, hiphop, house, new wave, rock, pop, punk, rythm and blues",Various
+16. Disambiguating Music Emotion Using Software Agents.,2004,0,FALSE,n/a,n/a,N/A
+17. Optimizing Measures Of Melodic Similarity For The Exploration Of A Large Folk Song Database.,2004,1,FALSE,577 luxemburg folksongs,folk,Folk
+18. Visual Collaging Of Music In A Digital Library.,2004,0,FALSE,n/a,n/a,N/A
+19. GREENSTONE as a Music Digital Library Toolkit.,2004,1,TRUE,Beatles dataset,Beatles,"Pop, Rock"
+20. An Analytical Methodology for Acousmatic Music.,2004,0,FALSE,n/a,n/a,N/A
+21. A Matlab Toolbox to Compute Music Similarity from Audio.,2004,1,FALSE,118 pieces classifed into 19 categories,doesn't specify but seems to be various,Various
+22. Estimating The Tonality Of Polyphonic Audio Files: Cognitive Versus Machine Learning Modelling Strategies.,2004,1,FALSE,878 exceprts of classcial music - in house,classical,Classical
+23. Instrument identification in solo and ensemble music using Independent Subspace Analysis.,2004,1,FALSE,RWC - instrument DB,Instruments,Single instrument
+24. Dance music classification: A tempo-based approach.,2004,1,FALSE,Ballroom dance music dataset,Ballroom/dance music,Other
+"25. Mapping Music In The Palm Of Your Hand, Explore And Discover Your Collection.",2004,0,FALSE,n/a,n/a,N/A
+26. Digital Music Interaction Concepts: A User Study.,2004,1,FALSE,Moodlogic,experimental data,N/A
+27. A Brazilian Popular Music Oriented Digital Library For Musical Harmony E-Learning.,2004,1,FALSE,"In house, Brazilian choro music",Brazilian Choro music,Non-Western
+28. A Prototypical Service for Real-Time Access to Local Context-Based Music Information.,2004,0,FALSE,n/a,n/a,N/A
+29. Automatic extraction of music descriptors from acoustic signals.,2004,2,FALSE,Unclear,Not specified,Doesn't Specify
+30. A Case Study of Distributed Music Audio Analysis Using the Geddei Processing Framework.,2004,1,FALSE,Not specified,Not specified,Doesn't Specify
+31. Query-by-Beat-Boxing: Music Retrieval For The DJ.,2004,2,FALSE,"75 sound files recorded by two beatboxers, and database of 200 pre-recorded loops","beatbox sounds - vocal bass drums, snare drums, vocal high hats. Drums and Bass, House, Rythm and blues, Reggae",Single instrument
+32. Indexing and Retrieval of Music Documents through Pattern Analysis and Data Fusion Techniques.,2004,1,FALSE,107 Beatles songs in MIDI downloaded from internet,Beatles,pop/rock
+33. A Comparison of Rhythmic Similarity Measures.,2004,1,FALSE,West African and Afro-American rythm samples,West African and Afro-American Traditional Muisic,Non-Western
+34. Rhythm and Tempo Recognition of Music Performance from a Probabilistic Approach.,2004,1,FALSE,6 piano pieces played in person and recorded in SMF,Classical and Beatles,Classical and pop/rock
+"35. Sound, Music and Textual Associations on the World Wide Web.",2004,2,FALSE,DB of unique webpages containing links to music or sound files --> Document with sound file name and text to be parsed into tokens,"Unclear, these are just soundfiles and info about them",N/A
+36. Exploring Microtonal Matching.,2004,1,FALSE,Melodic sequences in equal tempered 12 tone. Sudanese degung sudanese madenda tuning systems,sudanese instrument,Single instrument and Non-Western
+"37. The International Music Information Retrieval Systems Evaluation Laboratory: Governance, Access and Security.",2004,0,FALSE,n/a,n/a,N/A
+38. Extracting Melody Lines From Complex Audio.,2004,1,FALSE,Classical Music Archives,Classical,Classical
+39. Creating a nested melodic representation: competition and cooperation among bottom-up and top-down Gestalt principles.,2004,1,TRUE,Essen Folksong Database,Folk,Folk
+40. From Sound Sampling To Song Sampling.,2004,0,FALSE,n/a,n/a,N/A
+41. Tools and Architecture for the Evaluation of Similarity Measures : Case Study of Timbre Similarity.,2004,1,FALSE,350 song items by same artist that satify additional criteria,various genres - not listed,Various
+42. Finding Approximate Repeating Patterns from Sequence Data.,2004,0,FALSE,n/a,n/a,N/A
+"43. Survey Of Music Information Needs, Uses, And Seeking Behaviours: Preliminary Findings.",2004,0,FALSE,n/a,n/a,N/A
+44. Industrial audio fingerprinting distributed system with CORBA and Web Services.,2004,0,FALSE,n/a,n/a,N/A
+45. Audio Issues In MIR Evaluation.,2004,0,FALSE,n/a,n/a,N/A
+46. Well-Tempered Spelling: A Key Invariant Pitch Spelling Algorithm.,2004,2,TRUE,Project Guttenburg - Music,Chamber music,Classical
+47. MusicBLAST - Gapped Sequence Alignment for MIR.,2004,0,FALSE,n/a,n/a,N/A
+48. Automatic Drum Sound Description for Real-World Music Using Template Adaptation and Matching Methods.,2004,1,TRUE,RWC - MDB - P -2001,Pop - RWC P,Pop
+49. Utility System For Constructing Database Of Performance Deviations.,2004,2,FALSE,1: 10 midi formatted expressive piano performances 2: 60 classical pieces,classical piano,Classical
+50. Beat and meter extraction using gaussified onsets.,2004,1,FALSE,single song example,Uses a folk song as example,Folk
+51. Features and classifiers for the automatic classification of musical audio signals.,2004,1,FALSE,"150 samples of audio, 30 sec segment from random songs","rock, classical, heavy metal, drum and bass, reggae, jungle music",Various
+52. Methodology and Tools for the evaluation of automatic onset detection algorithms in music.,2004,2,TRUE,RWC and anechoic recordings made in lab,"rock, classical, pop, techno, jazz (other - unsure)",Various
+53. Melodic Similarity: Looking for a Good Abstraction Level.,2004,1,TRUE,Real Book,Jazz,Jazz
+54. Visualizing and Exploring Personal Music Libraries.,2004,1,FALSE,"Music library of about 2,500 Tracks",Not specified,Various
+55. Web Services for Music Information Retrieval.,2004,0,TRUE,"AWS - Listmania!, Google Web Services API",not music,N/A
+56. Extracting the perceptual tempo from music.,2004,1,FALSE,Excerpts of Songs from collection,"Classical, country, dance, hip hop, jazz, latin, reggae, rock, sould",Various
+57. Speech-Recognition Interfaces for Music Information Retrieval: 'Speech Completion' and 'Speech Spotter'.,2004,0,FALSE,n/a,n/a,N/A
+58. Gaussian Mixture Models For Extraction Of Melodic Lines From Audio Recordings.,2004,1,FALSE,"N/A - uses one song: Respect, Aretha Franklin",Pop,Pop
+59. Causal Tempo Tracking of Audio.,2004,1,FALSE,doesn't specify,various,Various
+60. Extraction of Drum Patterns and their Description within the MPEG-7 High-Level-Framework.,2004,1,FALSE,90 excerpts of 40 test songs,"doesn't specify, probably various",Various
+61. Timbre Classification Of A Single Musical Instrument.,2004,1,FALSE,clarinet sounds,clarinet,Single instrument
+62. Towards an Efficient Algorithm for Automatic Score-to-Audio Synchronization.,2004,1,FALSE,"complex piano pieces, chopin and beethoven",classical,Classical
+63. Automatic Location And Measurement Of Score-based Gestures In Audio Recordings.,2004,0,FALSE,uses 2 music pieces from: SilviusLeopoldWeis,baroque according to google,Classical
+64. Micro-level groundtruthing environment for OMR.,2004,0,FALSE,n/a,n/a,N/A
+65. Methodological Considerations Concerning Manual Annotation Of Musical Audio In Function Of Algorithm Development.,2004,1,FALSE,MoodLogic: metadata database,various,Various
+66. Tempo And Beat Estimation Of Musical Signals.,2004,1,FALSE,498 excerpts from several music genres,various,Various
+67. Expressive Notation Package - an Overview.,2004,0,FALSE,n/a,n/a,N/A
+68. Improving Melody Classification by Discriminant Feature Extraction and Fusion.,2004,1,FALSE,749 midi files collected from the internet,"western classical, chinese music, and jazz",Various
+69. Time Series Alignment for Music Information Retrieval.,2004,1,FALSE,480 queries of popular tunes (example: beatles and sound of music),various,Various
+70. A multi-parametric and redundancy-filtering approach to pattern identification.,2004,0,FALSE,one song: mozart sonata,classical,Classical
+71. An MPEG-7 Database System and Application for Content-Based Management and Retrieval of Music.,2004,1,FALSE,CUIDADO project database,Genre of CUIDADO is not specified,Doesn't Specify
+72. Fast labelling of notes in music signals.,2004,1,FALSE,"Mutopia: single voiced scores for piano, violin, clarinet, oboe,Mozart and Bach concertos",classical,Classical
+73. The emergence of complex network patterns in music networks.,2004,2,FALSE,"allmusicguide, artofthemix",Not music data,N/A
+74. CsoundXML: a meta-language in XML for sound synthesis.,2004,1,FALSE,collection of sound instruments,instrument sounds,Single instrument
+75. Stochastic Model of a Robust Audio Fingerprinting System.,2004,0,FALSE,n/a,n/a,N/A
+76. Artist Classification with Web-Based Data.,2004,1,FALSE,"data about music artists from 14 genres, not actual music data",various,Various
+77. Whose future is it?,2004,0,FALSE,n/a,n/a,N/A
+78. Audio Features for Noisy Sound Segmentation.,2004,0,FALSE,n/a,n/a,N/A
+79. Audio Fingerprinting In Peer-to-peer Networks.,2004,0,FALSE,n/a,n/a,N/A
+80. Feature Weighting for Segmentation.,2004,1,FALSE,In house set of songs,Rock and Classical?,Rock and Classical
+81. A search method for notated polyphonic music with pitch and tempo fluctuations.,2004,1,TRUE,RISM A/II Collection,doesn't specify,Doesn't Specify
+82. Pregroup Grammars for Chords.,2004,0,FALSE,n/a,n/a,N/A
+83. Classification of musical genre: a machine learning approach.,2004,1,NA,300 midi songs from 6 genres,"Blues, Classical, disco, pop, jazz, rock",Various
+84. MusicAustralia: towards a national music information infrastructure.,2004,1,TRUE,Info fro libraries in AUS,All types,Various
+85. Understanding Search Performance in Query-by-Humming Systems.,2004,2,FALSE,MUSART testbed,Beatles and traditional songs,"Pop, Rock, Folk"
+86. The Anatomy of a Bibliographic Search System for Music.,2004,1,TRUE,Variations2,NA,N/A
+87. Polyphonic transcription by non-negative sparse coding of power spectra.,2004,1,FALSE,Recording of Bach,Classical,Classical
+88. Music Information Retrieval systems: why do individuals use them and what are their needs?.,2004,1,FALSE,Questionaires/interviews  from participants,N/A,N/A
+89. Learning to Align Polyphonic Music.,2004,2,TRUE,piano-midi (link) and created DS,Piano muisc,Single Instrument
+90. A Polyphonic Music Retrieval System Using N-Grams.,2004,1,FALSE,"Classical Music Archives- 10,000 polyphonic MIDI performances",Classical music performances,Classical
+91. Towards Characterisation of Music via Rhythmic Patterns.,2004,1,TRUE,698 samples of standard latin and ballroom dance music - first 30 seconds,"cha cha, jive, quickstep, slow waltz, rumba, samba,tango, viennese waltz",Other
+92. Musical instrument recognition based on class pairwise feature selection.,2004,1,FALSE,Recordings of 10 instrumnets,classical music and jazz,"Classical, Jazz"
+93. Musical key extraction from audio.,2004,1,FALSE,237 performances of classical piano sonatas on CD,Classical Piano,Classical
+94. Towards a Socio-cultural Compatibility of MIR Systems.,2004,1,FALSE,10 anchor songs for people to rate,various genres popular in germany,Various
+95. Organizing digital music for use: an examination of personal music collections.,2004,0,FALSE,Ethnographies collected from students - no music,N/A,N/A
+96. Automatic Chord Transcription with Concurrent Recognition of Chord Symbols and Boundaries.,2004,1,FALSE,RWC dataset,1 minute excerpts from 7 songs from RWC-MDB-P-2001,Pop
+97. The Influence of Pitch on Melodic Segmentation.,2004,0,FALSE,Generated melodies,single instrument,Single Instrument
+98. Automatic Detection Of Vocal Segments In Popular Songs.,2004,1,FALSE,20 popular songs,pop,"Pop, Rock"
+99. A Drum Pattern Retrieval Method by Voice Percussion.,2004,1,FALSE,RWC,drum patterns,Single Instrument
+100. Perceptual Segment Clustering For Music Description And Time-axis Redundancy Cancellation.,2004,1,FALSE,http://web.media.mit.edu/~tristan/Blog/Segment_Clustering_v1.html,single instrument,Single Instrument
+101. MIR In Matlab: The MIDI Toolbox.,2004,0,FALSE,n/a,n/a,N/A
+102. Drum sound classification in polyphonic audio recordings using localized sound models.,2004,2,FALSE,"Training data - 25 polyphonic audio recordings, 75 isolated drum samples Test data - 20 song expeceprts from CDs",Drum samples and song excerpts,Single Instrument
+103. Towards Automatic Identification Of Singing Language In Popular Music Recordings.,2004,1,FALSE,225 tracks in english and madarin,pop,"Pop, Rock"
+104. Architecture for an MPEG-7 Web Browser.,2004,0,FALSE,n/a,n/a,N/A
