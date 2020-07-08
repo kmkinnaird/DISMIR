@@ -1,0 +1,132 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+[A-00]   (Anniversary paper) Data Usage in MIR: History & Future Recommendations,2019,0,FALSE,N/A,N/A,N/A
+[A-01]   Zero-shot Learning for Audio-based Music Classification and Tagging,2019,3,FALSE,"Free  Music  Archive  (FMA)  and  OpenMIC-2018, Million Song Dataset",Various,Various
+[A-02]   Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition,2019,1,FALSE,MUSCIMA++,Doesn't specify,Doesn't Specify
+[A-03]   An Attention Mechanism for Musical Instrument Recognition,2019,1,FALSE,OpenMIC,Doesn't specify,Various
+[A-04]   MIDI-Sheet Music Alignment Using Bootleg Score Synthesis,2019,1,FALSE,"""sheet music scans and MIDI representations  for  22  compositions  from  8  different composer""",Classical,"Classical, Single Instrument"
+[A-05]   mirdata: Software for Reproducible Usage of Datasets,2019,3,FALSE,"Beatles Dataset, iKala Dataset, Salami Dataset","isolate note recordings (1), Doesn't specify (classical?) (2), Classical (3)","Rock, Non-Western, Pop, Various"
+[A-06]   Cover Detection Using Dominant Melody Embeddings,2019,1,FALSE,"""audio of cover tracks providedby the SecondHandSongs website API""(SecondHandSongs Million Song Dataset, this dataset is no longer available)",Doesn't specify,Doesn't Specify
+[A-07]   Identifying Expressive Semantics in Orchestral Conducting Kinematic,2019,1,TRUE,""" professional  conducting  move-ment  dataset  collected  by  the  authors""(orchestral conductiong motion capture data)",N/A,Classical
+[A-08]   The RomanText Format: A Flexible and Standard Method for Representing Roman Numerial Analyses,2019,1,TRUE,"N/A (""a public corpus of expert Roman numeral analyses)",N/A,Classical
+[A-09]   20 Years of Playlists: A Statistical Analysis on Popularity and Diversity,2019,4,FALSE,"Art of the Mix(AOTM, ""Playlists submitted by
+users to the Art of the Mix website""),
+Yes.com (CORN): Playlists from radio stations
+in the United States. 
+Spotify (SPOT): Playlists from Twitter’s users
+tweeting via Spotify. 
+Deezer (DEEZ): Playlist from Deezer’s users,
+crawled in-house.",Various (all),Various
+[A-10]   Identification and Cross-Document Alignment of Measures in Music Score Images,2019,3,FALSE,"""measure annotations that were created manually by musicologists for digital music editions"", IMSLP/Petrucci Music Library, MUSCIMA++",Doesn't specify (all),Doesn't Specify
+"[A-11]   Query-by-Blending: A Music Exploration System Blending Latent Vector Representations of Lyric Word, Song Audio, and Artist",2019,1,FALSE,"""we made a dataset con-taining 433,936 songs by 44,696 artists. """,Various,Various
+[A-12]   Improving Structure Evaluation Through Automatic Hierarchy Expansion,2019,1,FALSE,SALAMI  dataset,Doesn't specify,"Various, Non-western"
+[A-13]   Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations,2019,1,FALSE,Musdb18,Doesn't specify,Various
+[A-14]   An Initial Computational Model for Musical Schemata Theory,2019,1,FALSE,""" 40  keyboard  sonata  excerpts  from  pre-Classical  andClassical  periods. """,Classical,"Classical, Single Instrument"
+[B-00]   (Anniversary paper) Music Performance Analysis: A Survey,2019,0,FALSE,N/A,N/A,N/A
+[B-01]   Evolution of the Informational Complexity of Contemporary Western Music,2019,1,FALSE,"Million Song Dataset ---  ""6,661 songs which charted on the Bill-board Hot 100 as identified in a previous study""",Pop,Pop
+[B-02]   Deep Unsupervised Drum Transcription,2019,1,FALSE,"""in-housedataset of drum stems that are crawled from many web-sites""","Pop/Rock
+","Pop, Rock, Single Instrument"
+[B-03]   Estimating Unobserved Audio Features for Target-Based Orchestration,2019,1,FALSE,"OrchDB(""individually recorded musical notes from a variety of orchestral instruments"")",notes,Single Instrument
+[B-04]   Towards Automatically Correcting Tapped Beat Annotations for Music Recordings,2019,1,FALSE,"""101different music recordings avail-able  on  YouTube""",Various,Various
+[B-05]   Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation,2019,1,FALSE,Lakh MIDIDataset (LMD),Doesn't specify. Classical?,Doesn't Specify
+[B-06]   Learning Soft-Attention Models for Tempo-invariant Audio-Sheet Music Retrieval,2019,1,NA,MSMD,"Classical
+","Classical, Single Instrument"
+[B-07]   Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music,2019,1,FALSE,"""a subset of 149 scores across all 11 Moroccan nawabat from the CompMusic Arab-Andalusian corpus [25] of Dunya""",Non-Western (Moroccan nawab ̄at),Non-Western
+[B-08]   Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast,2019,7,FALSE,"MUSAN Corpus[31]  (MUSAN), GTZAN  Speech  and  Music  Dataset[34]  (GTZAN), Scheirer  &  Slaney  Music  Speech  Cor-pus[28] (SSMSC), MuSpeak Speech and Music DetectionDataset (MuSpeak), OFAI Speech and Music DetectionDataset[30]  (OFAI), ESC-50:  Dataset  for  Environmental Sound Classification[23] (ESC). Sveriges Radio dataset","Doesn't specify (1-6), various (7)","Various, Non-western"
+[B-09]   Towards Explainable Music Emotion Recognition: The Route via Mid-level Features,2019,2,FALSE,"Aljanaki & Soleymani’s Mid-level Perceptual Features dataset, Soundtracks dataset","Doesn't specify (1), Soundtracks (2)",Various
+[B-10]   Community-Based Cover Song Detection,2019,2,FALSE,"Covers80, in-house 10 sets of covers",Various,"Pop, Rock, Various"
+[B-11]   Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning,2019,2,FALSE,candombe dataset and the BRID dataset,"Uruguayan candombe (1), Brazilian samba (2)",Non-Western
+[B-12]   Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition,2019,2,FALSE,"McGill Billboard, BPS-FH","Pop (1), Classical (2)","Classical, Single Instrument"
+"[B-13]   Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model",2019,1,FALSE,RWC,Pop,Pop
+[B-14]   Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste,2019,1,FALSE,Choral Singing Dataset,Classical,Classical
+[B-15]   Guitar Tablature Estimation with a Convolutional Neural Network,2019,1,FALSE,GuitarSet,Doesn't specify,"Single Instrument, Various"
+[C-00]   (Anniversary paper) Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come,2019,0,FALSE,N/A,N/A,N/A
+[C-01]   Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice,2019,1,FALSE,"DAMP dataset (vocal-only recordings from mobile phones of uses from Smule karaoke app), MUSDB18",Doesn't specify (pop?),"Single Instrument, Various"
+[C-02]   Augmenting Music Listening Experiences on Voice Assistants,2019,0,FALSE,N/A,N/A,N/A
+[C-03]   Coupled Recurrent Models for Polyphonic Music Composition,2019,1,FALSE,KernScores,Classical,Classical
+[C-04]   Hit Song Prediction: Leveraging Low- and High-Level Audio Features,2019,1,FALSE,Million Song Dataset,Various,Various
+[C-05]   Da-TACOS: A Dataset for Cover Song Identification and Understanding,2019,1,TRUE,Da-TACOS,"Rock, Pop, Metal, Jazz",Various
+[C-06]   Harmonic Syntax in Time: Rhythm Improves Grammatical Models of Harmony,2019,1,FALSE,iRealPro,Jazz,Jazz
+[C-07]   Learning to Traverse Latent Spaces for Musical Score Inpainting,2019,1,FALSE,"""dataset of monophonic folk melodies  in  the  Scottish  and  Irish  style  taken  from  the Session website""",Folk,Folk
+[C-08]   Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music,2019,1,FALSE,Erkomaishvili dataset,Georgian chants,"Non-Western, Single-instrument(vocal)"
+"[C-09]   The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale",2019,1,FALSE,AcousticBrainz Genre Dataset,Various,Various
+[C-10]   Data-Driven Song Recognition Estimation Using Collective Memory Dynamics Models,2019,1,FALSE,"100 tracks provided by Soundtrack Your Brand
+",unspecified,Doesn't Specify
+[C-11]   Towards Interpretable Polyphonic Transcription with Invertible Neural Networks,2019,1,FALSE,MUS  subset  of  the MAPS corpus,Doesn't specify,Single Instrument
+[C-12]   Learning to Generate Music With Sentiment,2019,1,TRUE,VGMIDI,Video game soundtracks,Other
+[C-13]   Backtracking Search Heuristics for Solving the All-partition Array Problem,2019,0,FALSE,N/A,N/A,N/A
+[C-14]   Modeling and Learning Structural Breaks in Sonata Forms,2019,1,FALSE,"musedata humdrum-mozart-quartets (""a corpus of 27 movements of string quartets written by Mozart"")",Classical,Classical
+[C-15]   Auto-adaptive Resonance Equalization using Dilated Residual Networks,2019,1,FALSE,"The set comprised contemporary pop and rock music, as well as film scores.","Pop, Rock, other","Pop, Rock, Other"
+[D-01]   Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach,2019,0,FALSE,N/A,N/A,N/A
+[D-02]   A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity,2019,1,FALSE,"Meertens Tune Collection (MTC-ANN),",Dutch folk,Folk
+[D-03]   JosquIntab: A Dataset for Content-based Computational Analysis of Music in Lute Tablature,2019,1,TRUE,JOSQUINTAB,Classical,Classical
+[D-04]   A Dataset of Rhythmic Pattern Reproductions and Baseline Automatic Assessment System,2019,1,TRUE,Musical Aptitude Standard Test (MAST) Rhythmic Dataset,Doesn't specify,N/A
+[D-05]   Self-Supervised Methods for Learning Semantic Similarity in Music,2019,1,FALSE,"""collection of piano compositions from 27 artists""",Classical,"Classical, Single Instrument"
+[D-06]   Blending Acoustic and Language Model Predictions for Automatic Music Transcription,2019,1,FALSE,MAPS dataset,Classical,"Classical, Single Instrument"
+[D-07]   Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar,2019,0,FALSE,N/A,N/A,N/A
+[D-08]   A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction,2019,1,FALSE,MAPS dataset,Classical,"Classical, Single Instrument"
+[D-09]   Learning Similarity Metrics for Melody Retrieval,2019,1,FALSE,"Meertens Tune Collection (MTC-ANN),",Doesn't specify,Folk
+[D-10]   Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other,2019,9,FALSE,"Ballroom, Beatles, Hainsworth, Simac, SMC, HJDB, ACM Mirum, GiantSteps, GTZAN
+",Doesn't specify (all),Various
+[D-11]   Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?,2019,1,FALSE,in-house?,"Various: Soul, Bebop, High Energy (Hi-NRG), Power Pop, Rock-steady",Various
+"[D-12]   AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing",2019,1,TRUE,AIST Dance Video Database,"NA? Various? Yes various, including pop, jazz, hip hop, break, etc.",Various
+[D-13]   Microtiming Analysis in Traditional Shetland Fiddle Music,2019,1,FALSE,27 recordings of solo fiddle tunes available in the Tobar an Dualchais website,Folk,Folk
+[D-14]   SUPRA: Digitizing the Stanford University Piano Roll Archive,2019,1,TRUE,"SUPRA-RW from Stanford University Piano Roll Archive (SUPRA),",Doesn't specify,"Classical, Single Instrument"
+[D-15]   Fast and Flexible Neural Audio Synthesis,2019,1,FALSE,""" smaller  subset  of  the  NSynthdataset [4] identical to GANSynth [3].  These total 70,379examples, comprising mostly of strings, brass, woodwindsand mallets with pitch labels within MIDI range 24-84 (F0of∼32-1000 Hz). Each sample is 4 seconds long and sam-pled at 16KHz, resulting in 64,000 dimension""",Doesn't specify,N/A
+[E-00]   (Anniversary paper) 20 Years of Automatic Chord Recognition from Audio,2019,0,FALSE,N/A,N/A,N/A
+[E-01]   DeepSRGM - Sequence Classification and Ranking in Indian Classical Music Via Deep Learning,2019,1,FALSE,Carnatic Music Dataset,Non-western --- Indian Classical Music,Non-Western
+[E-02]   Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN,2019,2,TRUE,"both in house ""The first dataset (D1) consists of 100 audio
+excerpts of popular music (average length 30 s) that were
+produced from MIDI [14]. The second dataset (D2) from
+[4] consists of 110 audio excerpts of film music ""","Pop (1), Film music (2)","Pop, Other"
+[E-03]   Convolutional Composer Classification,2019,1,FALSE,KernScores collection,"Classical, Ragtime","Classical, Jazz"
+[E-04]   A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation,2019,1,FALSE,Il Lauro Secco anthology,Classical --- madrigals,"Classical, Single Instrument"
+"[E-05]   The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music",2019,1,TRUE,Harmonix set,Pop,Pop
+[E-06]   FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing,2019,0,FALSE,N/A,N/A,N/A
+[E-07]   Automatic Assessment of Sight-reading Exercises,2019,1,FALSE,provided by the FloridaBandmasters Association (FBA). It consists of audio record-\ings  of  Florida  All-State  auditions  of  middle  and  highschool students,"band music (scales, etudes, sight-reading)",Single Instrument
+[E-08]   Supervised Symbolic Music Style Translation Using Synthetic Data,2019,2,FALSE,"""created a synthetic [dataset], generated using RealBand from the Band-in-a-Box (BIAB) software package [2]."" the Bodhidharma MIDI dataset",Various (checked supplementary material for this),Various
+[E-09]   Deep Music Analogy Via Latent Representation Disentanglement,2019,1,FALSE,Nottingham dataset,Doesn't specify,Folk
+[E-10]   Query by Video: Cross-modal Music Retrieval,2019,2,FALSE,"AudioSet, Cowen2017","Doesn't specify, probably various (1), N/A --- videos (2)",Doesn't Specify
+[E-11]   Investigating CNN-based Instrument Family Recognition for Western Classical Music Recordings,2019,3,TRUE,"Studio On Line (DB-SOL), University of Rochester Multi-model Music Performance Dataset (DB-URMP), Monotimbral Classical Dataset (DB-MTC)","Isolate note recordings (1), Doesn't specify (classical?) (2), Classical (3)","Classical, Single Instrument"
+[E-12]   A Bi-Directional Transformer for Musical Chord Recognition,2019,3,FALSE,"Isophonics, Robbie Williams, UsPop2002 (from RWC)","Pop/Rock (1), Pop (2), Pop (3)","Pop, Rock"
+[E-13]   SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis,2019,1,TRUE,"SAMBASET
+",Samba,Non-Western
+[E-14]   Deep-Rhythm for Global Tempo Estimation in Music,2019,11,FALSE,"Lack MIDI, GiantSteps MTG key dataset, Extended Ballroom, ACM-Mirum, ISMIR04, Ballroom, Hainsworth, GTzan-Rhythm, SMC, Giantsteps Tempo, RWC-popular","Various (1), EDM (2), Various (3), Doesn't specify (4-10), Pop (11)","Various, Pop"
+[E-15]   Large-vocabulary Chord Transcription Via Chord Structure Decomposition,2019,3,FALSE,"Isophonics, (McGill) Billboard, MARL (from UsPop and RWC-Pop)",Doesn't specify (all),"Pop, Rock"
+"[F-01]   BandNet: A Neural Network-based, Multi-Instrument Beatles-Style MIDI Music Composition Machine",2019,1,FALSE,Beatles music pulled from internet,Pop/Rock,"Pop, Rock"
+[F-02]   Can We Listen To It Together?: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior,2019,0,FALSE,N/A,N/A,N/A
+[F-03]   Adversarial Learning for Improved Onsets and Frames Music Transcription,2019,1,FALSE,MAESTRO dataset,Classical,Classical
+[F-04]   Automatic Music Transcription and Ethnomusicology: a User Study,2019,1,FALSE,Sousta Corpus,Sousta (greek dance music) --- Folk?,Other
+[F-05]   LakhNES: Improving Multi-instrumental Music Generation with Cross-domain Pre-training,2019,2,FALSE,"NES Music Database, Lakh MIDI dataset",Nintendo game music,Other
+"[F-06]   Taking Form: A Representation Standard, Conversion Code, and Example Corpora for Recording, Visualizing, and Studying Analyses of Musical Form",2019,1,TRUE,generated for this study,Classical,Classical
+[F-07]   Learning Complex Basis Functions for Invariant Representations of Audio,2019,1,FALSE,"JKUPDD  dataset,  MUS  subset  of  the MAPS corpus",Classical,"Classical, Single Instrument"
+[F-08]   Folded CQT RCNN For Real-time Recognition of Instrument Playing Techniques,2019,1,TRUE,generated for this study,Doesn't specify,Doesn't Specify
+[F-09]   humdrumR: a New Take on an Old Approach to Computational Musicology,2019,0,FALSE,N/A,"N/A
+",N/A
+[F-10]   Tunes Together: Perception and Experience of Collaborative Playlists,2019,0,FALSE,N/A,N/A,N/A
+[F-11]   A Holistic Approach to Polyphonic Music Transcription with Neural Networks,2019,2,FALSE,"Chorales, Quartets",Doesn't specify,Classical
+[F-12]   Generalized Metrics for Single-f0 Estimation Evaluation,2019,3,FALSE,"iKala, MedleyDB, Orchset","Doesn't specify (1), Various (2), Doesn't specify (3)","Various, Classical, Pop"
+[F-13]   Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders,2019,1,FALSE,Studio-On-Line,single instrument notes recordings,Single Instrument
+[F-14]   The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications,2019,1,FALSE,in-house dataset of metadata from ISMIR proceedings,N/A,N/A
+[F-15]   Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations,2019,1,FALSE,Meertens Tune Collection Annotated Corpus (MTC-ANN),Dutch folk,Folk
+[F-16]   A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music,2019,1,FALSE,in-house,Classical,Classical
+[F-17]   Mapping Timing Strategies in Drum Performance,2019,1,FALSE,generated for this study,Doesn't specify,Single Instrument
+[F-18]   Improving Singing Aid System for Laryngectomees With Statistical Voice Conversion and VAE-SPACELi,2019,1,FALSE,in-house,Japanese Children's Songs (non-western?),Non-Western
+[G-01]   Approachable Music Composition with Machine Learning at Scale,2019,2,TRUE,"Bach training data, Bach Doodle Dataset",Classical (both),Classical
+[G-02]   Scalable Searching and Ranking for Melodic Pattern Queries,2019,0,FALSE,N/A,N/A,N/A
+[G-03]   Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals,2019,1,FALSE,CBF-periDB,non-western folk music,"Non-Western, Single Instrument, Folk"
+[G-04]   Controlling Symbolic Music Generation based on Concept Learning from Domain Knowledge,2019,1,FALSE,""" dataset  introduced by Pachet et al. [24]""","Various: Jazz, Blues, Pop, Rock",Various
+[G-05]   Unmixer: An Interface for Extracting and Remixing Loops,2019,1,FALSE,in-house,doesn't specify,Doesn't Specify
+[G-06]   Quantifying Disruptive Influence in the AllMusic Guide,2019,1,FALSE,AllMusic guide,Various,Various
+[G-07]   Leveraging knowledge bases and parallel annotations for music genre translation,2019,1,FALSE,"""dataset used in the 2018 AcousticBrainz Genre Task, partof the MediaEval benchmarking initiative""",Various,Various
+[G-08]   Generating Structured Drum Pattern Using Variational Autoencoder and Self-similarity,2019,1,FALSE,LakhMIDI Dataset,Doesn't specify,Doesn't Specify
+[G-09]   Rendering Music Performance With Interpretation Variations Using Conditional Variational RNN,2019,1,FALSE,in-house,Classical,"Classical, Single Instrument"
+[G-10]   An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats,2019,1,FALSE,"""modified dataset  of  Bach  chorales  originally  produced  by Craig Sapp""",Classical,Classical
+[G-11]   Quantifying Musical Style: Ranking Symbolic Music based on Similarity to a Style,2019,2,FALSE,"Classical Archives MIDI dataset, BachBot data",Classical (both),Classical
+[G-12]   Audio Query-based Music Source Separation,2019,1,FALSE,MUSDB18,doesn't specify,Various
+[G-13]   Mosaic Style Transfer Using Sparse Autocorrelograms,2019,1,FALSE,in-house,doesn't specify,Doesn't Specify
+[G-14]   Automatic Choreography Generation with Convolutional Encoder-decoder Network,2019,1,FALSE,"""100 YouTube choreography videos andcorresponding audio""",K-Pop,"Pop, Non-Western"
+[G-15]   Hierarchical Classification Networks for Singing Voice Segmentation and Transcription,2019,2,FALSE,"TONAS, ISMIR2014 sung
+melody dataset",Flamenco,"Non-Western, Single Instrument"
+[G-16]   VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance,2019,2,TRUE,"Yamaha Signature MIDI collection, MuseScore(MuseScore is a website. I think here the author actually generated a new dataset partially curated from MuseScore)",Doesn't specify (both),"Classical, Single Instrument"
+[G-17]   MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music,2019,1,FALSE,"""1000 cell phone pictures taken of 100 scores of classical piano music""",Classical,"Classical, Single Instrument"
+[G-18]   A Convolutional Approach to Melody Line Identification in Symbolic Scores,2019,3,FALSE,all appear to be in-house,"Classical (1), Pop/Jazz (2), Western art music (3)","Classical, Pop, Jazz"
