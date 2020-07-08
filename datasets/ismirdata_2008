@@ -1,0 +1,154 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+"A Comparison of Signal-Based Music Recommendation to Genre Labels, Collaborative Filtering, Musicological Analysis, Human Recommendation, and Random Baseline
+ Terence Magno and Carl Sable",2008,3,FALSE,"compare recommendation engines to today’s leading online music discovery tools (Pandora, Last.fm, and Allmusic)",Various,Various
+A Comparison of Statistical and Rule-Based Models of Melodic Segmentation,2008,1,FALSE,"a subset of the EFSC, database Erk, containing 1705 Germanic folk melodies",Germanic folk songs,Folk
+A Discrete Mixture Model for Chord Labelling,2008,1,FALSE,chord transcriptions for the entirety of the Beatles 12 studio albums,Pop/Rpck,"Pop, Rock"
+A Manual Annotation Method for Melodic Similarity and the Study of Melody Feature Sets,2008,1,FALSE,e test collection employed consists of 1198 encoded songs,Dutch folk songs,Folk
+A Real-Time Equalizer of Harmonic and Percussive Components in Music Signals,2008,1,FALSE,RWC,Jazz and Pop,"Jazz, Pop"
+"A Robot Singer With Music Recognition Based on Real-Time Beat Tracking
+ Kazumasa Murata, Kazuhiro Nakadai, Kazuyoshi Yoshii, Ryu Takeda, Toyotaka Torii, Hiroshi G. Okuno, Yuji Hasegawa and Hiroshi Tsujino",2008,1,FALSE,3 songs from the RWC music database,Pop,Pop
+Accessing Music Collections via Representative Cluster Prototypes in a Hierarchical Organization Scheme,2008,1,FALSE,used an in-house collection containing 2 545 tracks from 13 genres,"A Cappella, Acid Jazz, Blues, Bossa Nova, Celtic, Electronica, Folk Rock, Italian, Jazz, Metal, Punk Rock, Rap, and Reggae",Various
+Automatic Chord Recognition Based on Probabilistic Integration of Chord Transition and Bass Pitch Estimation,2008,1,FALSE,one-minute excerpts from 150 songs in 12 Beatles albums,Pop/Rock,"Pop, Rock"
+Automatic Identification of Simultaneous Singers in Duet Recordings,2008,1,FALSE,"vocal recordings by ten male amateur singers, each asked to perform 30 passages of songs with a Karaoke machine",Mandarin pop,Pop
+Characterisation of Harmony With Inductive Logic Programming,2008,2,FALSE,Beatles songs and the Real Book songs,"pop, jazz","Jazz, Pop"
+Chord Recognition using Instrument Voicing Constraints,2008,1,FALSE,use real recordings of chords played on a guitar,instrumental,Single Instrument
+Collective Annotation of Music From Multiple Semantic Categories,2008,1,FALSE,"4,951 Western popular songs",pop,Pop
+Detection of Stream Segments in Symbolic Musical Data,2008,1,FALSE,a small set of musical extracts for piano - KernScores,classical,Classical
+Development of a Music Organizer for Children,2008,1,FALSE,MySQL database,Doesn't Specify,Doesn't Specify
+"Development of An Automatic Music Selection System Based on Runner’s Step Frequency
+ Masahiro Niitsuma, Hiroshi Takaesu, Hazuki Demachi, Masaki Oono and Hiroaki Saito",2008,1,FALSE,RWC Music Database: Popular Music,Pop,Pop
+Evaluating and Visualizing Effectiveness of Style Emulation in Musical Accompaniment,2008,1,FALSE,"songs from the five albums: Green Day’s Dookie and American Idiots, Keane’s Hopes and Fears, and Radiohead’s Pablo Honey and Hail to the Thief",Pop/Rock,"Pop, Rock"
+"Instrument
+ Equalizer for Query-By-Example Retrieval: Improving Sound Source 
+ Separation Based on Integrated Harmonic and Inharmonic Models",2008,1,FALSE,5 SMFs from the RWC Music Database,Pop,Pop
+Kernel Expansion for Online Preference Tracking,2008,1,FALSE,subset of the uspop2002 dataset from labROSA,pop,Pop
+Learning Musical Instruments from Mixtures of Audio with Weak Labels,2008,1,FALSE,Instrument recordings were taken from a set of instrument samples made available by the University of Iowa,instrumental,Single Instrument
+MoodSwings: A Collaborative Game for Music Mood Label Collection,2008,1,FALSE,uspop2002 database from labROSA,pop,Pop
+Music Thumbnailer: Visualizing Musical Pieces in Thumbnail Images Based on Acoustic Features,2008,1,FALSE,RWC Music Database: Music Genre,"popular, rock, dance, jazz, Latin, classical, march, world, vocal, and traditional Japanese music",Various
+Playlist Generation Using Start and End Songs,2008,1,FALSE,"Austrian music portal, the FM4 Soundpark","Hip Hop, Reggae, Funk, Electronic, Pop and Rock",Various
+Speeding Melody Search With Vantage Point Trees,2008,2,FALSE,"query set was drawn from the QBSH corpus used in the 2006 MIREX comparison of query-by-humming melodic search systems
+
+melody database contained 2348 folk melodies from the Essen database",folk,Folk
+Structured Polyphonic Patterns,2008,1,FALSE,corpus of 185 chorale harmonizations by J.S.Bach,classical,Classical
+Ternary Semantic Analysis of Social Tags for Personalized Music Recommendation,2008,1,FALSE,Last.fm,Various,Various
+Tonal Pitch Step Distance: A Similarity Measure for Chord Progressions,2008,1,FALSE,The Real Book,jazz,Jazz
+Vocal Segment Classification in Popular Music,2008,1,FALSE,147 pop mp3s,pop,Pop
+A Music Database and Query System for Recombinant Composition,2008,1,TRUE,MusicDB,Various,Various
+A Database for the Accommodation of Structural and Stylistic Variability in Improvised Jazz Piano Performances,2008,3,FALSE,"36 performances divided into 3 sets, constituting 12 varying performances of Nica’s Dream, Dindi and Without a Song, respectively",jazz,Jazz
+A Framework for Automated Schenkerian Analysis,2008,0,FALSE,n/a,n/a,N/A
+A Geographic Interface for Large Music Collections,2008,1,FALSE,Last.fm,various,Various
+A Music Identification System Based on Chroma Indexing and Statistical Modeling,2008,1,FALSE,a database of 1000 recordings and by a query set of 50 different performances of a subset of the works in the database,orchestral music,Classical
+A New Music Database Describing Deviation Information of Performance Expressions,2008,1,TRUE,CrestMuse Performance Expression Database,classical,Classical
+A Preference Ranking Model Using a Discriminatively Trained Classifier,2008,0,FALSE,n/a,n/a,N/A
+A Robust Musical Audio Search Method Based on Diagonal Dynamic Programming Matching of Self-Similarity Matrices,2008,1,FALSE,ten pieces of MIDI data in the RWC Music Database,Classical,Classical
+A Study on Feature Selection and Classification Techniques for Automatic Genre Classification of Traditional Malay Music,2008,1,FALSE,"Musical files for this experiment were obtained from the Malaysia Arts Academy, Sultan Salahuddin Abdul Aziz Shah’s Cultural and Arts Centre at Universiti Putra Malaysia, Student’s Cultural Centre at Universiti Malaya and also personal collections of audio CDs from many individuals",Traditional Malay Music,Non-Western
+A Text Retrieval Approach to Content-Based Audio Hashing,2008,1,FALSE,a data set of 4000 songs drawn randomly from a variety of musical genres,various,Various
+A Tunneling-Vantage Indexing Method for Non-Metrics,2008,1,FALSE,"various recordings with piano music (piano concertos and solo works by Beethoven, Liszt, and Schumann)",classical,Classical
+A Web of Musical Information,2008,2,TRUE,"a number of linked datasets, 2 have detail",unspecified,Doesn't Specify
+Analyzing Afro-Cuban Rhythm Using Rotation-Aware Clave Template Matching with Dynamic Programming,2008,1,FALSE,constructed a small four-song database,Afro-Cuban music,Non-Western
+Application of the Functional Requirements for Bibliographic Records (FRBR) to Music,2008,0,FALSE,n/a,n/a,N/A
+Armonique: Experiments in Content-Based Similarity Retrieval Using Power-Law Melodic and Timbre Metrics,2008,1,FALSE,1236 MIDI-encoded music pieces from the Classical Music Archives,classical,Classical
+Asynchronous Music Production in Life-sized Video Communication System t-Room,2008,0,FALSE,n/a,n/a,N/A
+Audio Cover Song Identification: MIREX 2006-2007 Results and Analyses,2008,2,FALSE,"MIREX 2006 dataset, MIREX 2007 dataset",various,Various
+Audio-to-Score Alignment In the Audacity Audio Editor,2008,0,FALSE,n/a,n/a,N/A
+Automatic Mapping of Scanned Sheet Music to Audio Recordings,2008,2,FALSE,"metadata is drawn from specialized annotation databases provided by commercial services such as Gracenote or DE-PARCON
+
+Audio dataset: 32 Beethoven piano sonatas conducted by Daniel Barenboim",classical,Classical
+Beat Tracking Using Group Delay Based Onset Detection,2008,2,FALSE,"MIREX 2006 dataset
+
+consists of twenty 30 second excerpts from pieces of traditional Cretan music, downloaded from the Institute of Mediterranean Studies","pop, traditional Cretan music","Pop, Non-Western"
+Clustering Music Recordings By Their Keys,2008,1,FALSE,collected from CD recordings and contain the singing voice together with musical instrument accompaniment,pop,Pop
+Cochonut: Recognizing Complex Chords From MIDI Guitar Sequences,2008,0,FALSE,n/a,n/a,N/A
+Combining Feature Kernels for Semantic Music Retrieval,2008,1,FALSE,CAL-500 data set,various,Various
+"Combining Features Extracted From Audio, Symbolic and Cultural Sources",2008,1,TRUE,"SAC dataset consists of 250 MIDI files and 250 matching MP3s, as well as accompanying metadata",10 genres,Various
+"Connecting the Dots: Music Metadata Generation, Schemas and Applications",2008,0,FALSE,n/a,n/a,N/A
+Content-based Music Information Retrieval System with Automatic DJ Mixing,2008,0,FALSE,n/a,n/a,N/A
+Content-Based Musical Similarity Computation Using the Hierarchical Dirichlet Process,2008,1,FALSE,a dataset that we compiled from the South by Southwest (SXSW) 2007 and 2008 festivals’ freely distributed “artist showcase” mp3s,"country, electronic, hiphop, jazz, metal, punk, and rock",Various
+Creating and Evaluating Multi-Phrase Music Summaries,2008,1,FALSE,twenty rock and pop songs accessible through web-based interface,rock and pop,"Rock, Pop"
+"Creating Transparent, Steerable Recommendations",2008,0,FALSE,n/a,n/a,N/A
+Demonstration: Using MusicXML 2.0 to Create Symbolic Music Data Sets,2008,0,FALSE,n/a,n/a,N/A
+Detection of Pitched/Unpitched Sound Using Pitch Strength Clustering,2008,2,FALSE,Paul Bagshaw’s Database and Keele Pitch Database,speech,N/A
+Direct and Inverse Inference in Music Databases: How to Make a Title Funk?,2008,1,FALSE,"music dataset comprising 37,000 popular songs of various styles",various,Various
+Dynamic Bayesian Networks for Chord and Key Extraction from Symbolic Music Data,2008,0,FALSE,n/a,n/a,N/A
+Enhanced Bleedthrough Correction for Early Music Documents With Recto-Verso Registration,2008,3,FALSE,"167 pages from three different books:
+two printed books of music by Luca Marenzio from 1581 and 1598, RISM M-0539 and RISM M-0582
+
+one manuscript compiled by the Alamire scriptorium in 1534, the Occo Codex",Classical,Classical
+Extending Content-Based Recommendation: the Case of Indian Classical Music,2008,1,FALSE,assembled from the author’s personal music collection,Indian Classical music,Non-Western
+Fast Index Based Filters for Music Retrieval,2008,1,FALSE,Mutopia,various,Various
+Fast MIR in a Sparse Transform Domain,2008,2,FALSE,same databases as papers 1 and 4,Pop/Rock (beatles),"Pop, Rock"
+Five Approaches to Collecting Tags for Music,2008,1,FALSE,Cal500,Pop,Pop
+FM4 Soundpark: Audio-based Music Recommendation in Everyday Use,2008,1,TRUE,FM4 Soundpark - 9000 songs,Various,Various
+Gamera Versus Aruspix: Two Optical Music Recognition Approaches,2008,4,FALSE,"four books of madrigals for four voices, composed by Luca Marenzio",madrigals,Classical
+Graph-RAT: A Toolkit for Conducting MIR Research,2008,0,FALSE,n/a,n/a,N/A
+Herd the Music - A Social Music Annotation Game,2008,0,FALSE,n/a,n/a,N/A
+High-Level Audio Features: Distributed Extraction and Similarity Search,2008,1,FALSE,"Music Information Database 41,446 songs in MP3 format",various,Various
+Hit Song Science is Not Yet a Science,2008,1,FALSE,HiFind database,various,Various
+HPCP-based Music Classiﬁcation,2008,0,FALSE,n/a,n/a,N/A
+Hubs and Homogeneity: Improving Content-Based Music Modeling,2008,1,FALSE,subset of the uspop data set,Pop,Pop
+Human Music Retrieval: Noting Time,2008,0,FALSE,n/a,n/a,N/A
+Hybrid Numeric/Rank Similarity Metrics for Musical Performance Analysis,2008,1,FALSE,300 performances of five Chopin mazurkas,classical,Classical
+Hyperlinking Lyrics: A Method for Creating Hyperlinks Between Phrases in Song Lyrics,2008,1,FALSE,79 Japanese songs taken from the RWC Music Database: Popular Music,Japanese pop,Non-Western
+Joint Structure Analysis With Applications to Music Annotation and Synchronization,2008,1,FALSE,RWC Database,classical,Classical
+Learning a Metric for Music Similarity,2008,1,FALSE,"top 1000 most-popular mp3 blogs on the Web, as defined by music blog aggregator, The Hype Machine’s “TOP MUSIC BLOGS On The Net”",pop,Pop
+Machine Annotation of Sets of Traditional Irish Dance Tunes,2008,1,TRUE,traditional musician record 10 audio files of flute tunes from the Foinn Seisiun series of books published by Comhaltas Ceoltoiri Eireann,Traditional Irish Dance Tunes,Non-Western
+MCIpa: A Music Content Information Player and Annotator for Discovering Music,2008,0,FALSE,n/a,n/a,N/A
+Melody Expectation Method Based on GTTM and TPS,2008,0,FALSE,n/a,n/a,N/A
+MIREX 2008 Audio Classification Tasks,2008,0,FALSE,n/a,n/a,N/A
+MIRtoolbox Demo,2008,0,FALSE,n/a,n/a,N/A
+MOODY: A Web-Based Music Mood Classification and Recommendation System,2008,0,FALSE,n/a,n/a,N/A
+"Multi-Feature Modeling of Pulse Clarity: Design, Validation and Optimization",2008,1,FALSE,database of 360 short excerpts of movie soundtracks,movie soundtrack,Other
+Multi-Label Classification of Music Into Emotions,2008,1,FALSE,233 musical albums choosing three songs from each album,"Classical, Reggae, Rock, Pop, Hip-Hop, Techno and Jazz",Various
+Multiple-Feature Fusion Based Onset Detection for Solo Singing Voice,2008,1,FALSE,"18 singing recordings of pop songs, from 4 singers",pop,Pop
+Multiple-Instance Learning for Music Information Retrieval,2008,1,FALSE,data used in our experiments come from our MajorMiner game,Various - 10+,Various
+Music and Lyrics: Can Lyrics Improve Emotion Estimation for Music?,2008,0,FALSE,n/a,n/a,N/A
+Music Genre Classification: A Multilinear Approach,2008,2,FALSE,"GTZAN, ISMIR 2004","GTZAN: Blues, Classical, Country, Disco, HipHop, Jazz, Metal, Pop, Reggae, Rock
+
+ISMIR 2004: Classical, Electronic, JazzBlues, MetalPunk, RockPop, World",Various
+Music Retrieval Based on Social Tags: A Case Study,2008,1,FALSE,Last.fm,Doesn't Specify,Doesn't Specify
+Music Structure Analysis Using a Probabilistic Fitness Measure and an Integrated Musicological Model,2008,1,FALSE,data set of 557 manually annotated popular music pieces,"pop/rock, jazz, blues and schlager",Various
+"Music,
+ Movies and Meaning: Communication in Film-Makers’ Search for 
+ Pre-Existing Music, and the Implications for Music Information Retrieval",2008,0,FALSE,n/a,n/a,N/A
+MusicBox: Navigating the Space of Your Music,2008,0,FALSE,n/a,n/a,N/A
+N-Gram Chord Profiles for Composer Style Identification,2008,7,FALSE,"jazz fake books: Real Book 1, 2, and 3; New Real Book 1, 2, and 3; Jazz Limited",jazz,Jazz
+Non-Negative Matrix Division for the Automatic Transcription of Polyphonic Music,2008,0,FALSE,tested on a Mozart sonata,Classical,Classical
+"Noteﬂight: An Online, Browser-based Editor for Music Notation",2008,0,FALSE,recording of Mozart’s sonata KV279 played by a professional pianist,Classical,Classical
+Oh Oh Oh Whoah! Towards Automatic Topic Detection in Song Lyrics,2008,1,FALSE,subset of the collection marketed through Verisign Austria’s 1 content download platform,31 genres,Various
+On Rhythmic Pattern Extraction in Bossa Nova Music,2008,1,FALSE,two different players invited to record the accompaniment of 16 Bossa Nova songs on a MIDI guitar,Bossa Nova - Brazilian Music,Non-Western
+On the Use of Sparse Time-Relative Auditory Codes for Music,2008,1,FALSE,Tzanetakis genre dataset (GTZAN),10 genres,Various
+Online Activities for Music Information and Acoustics Education and Psychoacoustic Data Collection,2008,1,FALSE,MySQL database,user activity - no music data,N/A
+Perceptually-Based Evaluation of the Errors Usually Made When Automatically Transcribing Music,2008,1,FALSE,15 excerpts with inserted errors,classical,Classical
+Performer Identification in Celtic Violin Recordings,2008,1,FALSE,monophonic recordings of nine Celtic jigs performed by two professional violinists,Celtic,Non-Western
+Quantifying Metrical Ambiguity,2008,0,FALSE,n/a,n/a,N/A
+Real-time Score Tracking for Personalization of Live Orchestral Performances,2008,0,FALSE,n/a,n/a,N/A
+Real-Time Visualizer/Equalizer for Harmonic and Percussive Components in Music Sounds,2008,0,FALSE,n/a,n/a,N/A
+Realtime Audio Analysis for Humanoid Robotics and Dance,2008,0,FALSE,n/a,n/a,N/A
+Resolving Overlapping Harmonics for Monaural Musical Sound Separation Using Pitch and Common Amplitude Modulation,2008,1,FALSE,constructed a database of 20 quartet pieces by J. S. Bach,classical,Classical
+Rhyme and Style Features for Musical Genre Categorisation By Song Lyrics,2008,1,FALSE,private collection of 397 song lyrics,various,Various
+Rhythm Complexity Measures: A Comparison of Mathematical Models of Human Perception and Performance,2008,2,FALSE,past studies of temporal patterns,doesn't specify,Doesn't Specify
+Segmentation-Based Lyrics-Audio Alignment Using Dynamic Programming,2008,1,FALSE,15 popular music items of different musical styles,"pop, rock, R&B, punk and so on",Various
+Social Playlists and Bottleneck Measurements : Exploiting Musician Social Graphs Using Content-Based Dissimilarity and Pairwise Maximum Flow Values,2008,1,FALSE,collected the network data from Myspace using web crawling and HTML scraping techniques,not music data,N/A
+Streamcatcher: Integrated Visualization of Music Clips and Online Audio Streams,2008,0,FALSE,n/a,n/a,N/A
+Structured Representation of Harmony for Music Retrieval,2008,0,FALSE,n/a,n/a,N/A
+Support for MIR Prototyping and Real-Time Applications in the ChucK Programming Language,2008,0,FALSE,n/a,n/a,N/A
+The 2007 MIREX Audio Mood Classification Task: Lessons Learned,2008,1,FALSE,a collection of 1250 tracks from libraries of Associated Production Music (APM),27 genres,Various
+The Latin Music Database,2008,1,TRUE,Latin Music Database (LMD),ten Latin musical genres,Non-Western
+"The Liner Notes Digitization Project: Providing Users With Cultural, Historical, and Critical Music Information",2008,1,FALSE,"Liner Notes Markup Language (LNML): encoding of fifty albums from the 80s Rock genre, currently encoding fifty additional Jazz albums",rock and jazz,"Rock, Jazz"
+The Perlhumdrum and Perllilypond Toolkits for Symbolic Music Information Retrieval,2008,0,FALSE,n/a,n/a,N/A
+"The Perlhumdrum and Perllilypond Toolkits for Symbolic Music Information Retrieval
+ Ian Knopke",2008,0,FALSE,n/a,n/a,N/A
+The Quest for Musical Genres: Do the Experts and the Wisdom of Crowds Agree?,2008,2,FALSE,"MP3.com database, Last.fm database",13 genres,Various
+Timbre and Rhythmic TRAP-TANDEM Features for Music Retrieval,2008,1,FALSE,AllMusic,"rock, jazz, hiphop, electronica, soul, adult contemporary",Various
+Towards Quantitative Measures of Evaluating Song Segmentation,2008,0,FALSE,n/a,n/a,N/A
+Towards Structural Alignment of Folk Songs,2008,1,FALSE,manually encoded musical scores,folk songs,Folk
+Uncovering Affinity of Artists to Multiple Genres From Social Behaviour Data,2008,1,FALSE,"gathered the 1,030,068 user playlists published on MusicStrands",various,Various
+Using Audio Analysis and Network Structure to Identify Communities in On-Line Social Networks of Artists,2008,0,FALSE,n/a,n/a,N/A
+Using Bass-Line Features for Content-Based MIR,2008,1,FALSE,an audio data set consisting of 300 musical pieces of six different genres,"Pop/Rock, Metal/Punk, Electronic, Jazz/Blues, Classical, and World",Various
+Using Expressive Trends for Identifying Violin Performers,2008,1,FALSE,a data-set of violin recordings from 23 different performers for Sonatas and Partitas for solo violin by J.S. Bach,classical,Classical
+Using Statistic Model to Capture the Association Between Timbre and Perceived Tempo,2008,2,FALSE,"ballroom data set consists of 698 30-second audio excerpts
+
+the songs data set contains 465 audio clips from nine genres",various,Various
+Using the Sdif Sound Description Interchange Format for Audio Features,2008,0,FALSE,n/a,n/a,N/A
+Using XQuery on MusicXML Databases for Musicological Analysis,2008,1,FALSE,Wikifonia lead sheet database,various,Various
+Web Based Musical Document Viewer for Digital Music Libraries,2008,0,FALSE,n/a,n/a,N/A
