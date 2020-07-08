@@ -1,0 +1,131 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+(OS1-1) An Auditory Streaming Approach for Melody Extraction from Polyphonic Music,2011,2,FALSE,ISMIR 04 and MIREX 05,doesn't specify,Doesn't Specify
+(OS1-2) An Acoustic-Phonetic Approach to Vocal Melody Extraction,2011,1,FALSE,ADC2004 ISMIR 2004 Audio descriptoin Contest,pop,Pop
+(OS1-3) A System for Evaluating Singing Enthusiasm for Karaoke,2011,1,FALSE,272 stimuli,non-music,N/A
+"(OS1-4) Automatic Assessment of Singer Traits in Popular Music: Gender, Age, Height and Race",2011,1,FALSE,UltraStar Database,Various,Various
+(PS1-1) A Preplexity Based Cover Song Matching System for Short Length Queries,2011,1,FALSE,1000 classical music pieces,classical,Classical
+(PS1-2) Humming Method for Content-Based Music Information Retrieval,2011,1,FALSE,140 songs from commerical cds,"pp/rock, spanish folk music",Various
+(PS1-3) Large-scale music similarity search with spatial trees,2011,1,FALSE,Million song dataset,not specified,Various
+(PS1-4) A simple-cycles weighted kernel based on harmony structure for similarity retrieval,2011,2,FALSE,Isophonics Database and Ultimate Guitar,Beatles songs,Pop
+(PS1-5) HarmTrace: Improving Harmonic Similarity Estimation Using Functional Harmony Analysis,2011,1,FALSE,"5,028 Band-in-Box Files",N/A,N/A
+(PS1-6) Adapting Metrics for Music Similarity Using Comparative Ratings,2011,1,FALSE,MagnaTagATune,not specified,Doesn't Specify
+(PS1-7) Using Mutual Proximity to Improve Content-Based Audio Similarity,2011,8,FALSE,"homburg, ismir2004-train, ismir2004-dev,ballroom, 4 private (see note)","doesn't specify, each dataset has 10 genres+",Various
+(PS1-8) Learning the Similarity of Audio Music in Bag-of-frames Representation from Tagged Music Data,2011,2,FALSE,"MajorMiner, Magnatagatune",not specified,Doesn't Specify
+"(PS1-9) Compression-based Similarity Measures in Symbolic, Polyphonic Music",2011,1,FALSE,Dataset used in other paper that I can't find,classical,Classical
+(PS1-10) How Much Metadata Do We Need in Music Recommendation? A Subjective Evaluation Using Preference Sets,2011,1,FALSE,Last.fm,various,Various
+(PS1-11) NextOne Player: A Music Recommendation System Based on User Behavior,2011,0,FALSE,Nextoneplayer - isn't a dataset,n/a,N/A
+(PS1-12) How Similar Is Too Similar?: Exploring Users' Perceptions of Similarity in Playlist Evaluation,2011,1,FALSE,MIREX2010 AMS task,"Blues, classical, country, electronica, HH, jazz, rock",Various
+(PS1-13) A Real-Time Signal Processing Framework of Musical Expressive Feature Extraction Using Matlab,2011,2,FALSE,"Benchmark IH: feature analysis, oboe performance dataset",Oboe,Single Instrument
+(PS1-14) A Scalable Audio Fingerprint Method with Robustness to Pitch-Shifting,2011,2,FALSE,"RTL and Virgin Radio recordings, 30.000 songs","Radio recordings, genre not specifed for 30 songs",Doesn't Specify
+(PS1-15) A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting,2011,1,FALSE,RWC,"Jazz, Pop, Classical",Various
+(PS1-16) Fast Hamming Space Search for Audio Fingerprinting Systems,2011,1,FALSE,8740 songs from CD and Internet,"Pop, classical, folk",Various
+"(PS1-17) Segmentation, Clustering, and Display in a Personal Audio Database for Musicians",2011,1,FALSE,Adaboost training data,western and chinese music,Various
+(PS1-18) An Interactive System for Electro-Acoustic Music Analysis,2011,1,FALSE,"24 homogenous sounds, 100 pieces of 2 minutes long,",Electro-acoustic,Electronic
+(OS2-1) A Multicultural Approach in Music Information Research,2011,1,TRUE,CompMusic,"Carnatic, hindustani, turkish, beijing opera, arab andalusian,",Various
+(OS2-2) Assessing the Tuning of Sung Indian Classical Music,2011,2,FALSE,"Pianoteq, and IH of Indian classical music",Western classical and Indian classial music *,Classical
+(OS2-3) A Computational Investigation of Melodic Contour Stability in Jewish Torah Trope Performance Traditions,2011,2,FALSE,In-house - Cantillion DS,Hungarian and Moroccan oral performances,Other
+(OS2-4) Tarsos - a Platform to Explore Pitch Scales in Non-Western and Western Music,2011,1,TRUE,"1 African fiddle piece, dataset of 800 files","African fiddle, unclear",Non-Western
+(PS2-1) A Classification-Based Polyphonic Piano Transcription Approach Using Learned Feature Representations,2011,3,FALSE,"Poliner and ellis, MAPS, Marlot",piano recordings,Single Instrument
+(PS2-2) Constrained Spectrum Generation Using A Probabilistic Spectrum Envelope for Mixed Music Analysis,2011,1,FALSE,RWC: No. 43: Sicilienne op.78”,Classical,Classical
+(PS2-3) Pulse Detection in Syncopated Rhythms Using Neural Oscillators,2011,1,FALSE,16 rhythms,"Son clave, rumba clave, hard clave rythms",Non-Western
+(PS2-4) A Two-Fold Dynamic Programming Approach to Beat Tracking for Audio Music with Time-Varying Tempo,2011,2,FALSE,"MCK, MAZ","maz:  chopin mazurka pieces, Mck: ?",Classical
+(PS2-5) Tempo Estimation Based on Linear Prediction and Perceptual Modelling,2011,2,FALSE,"Ballroom Dataset, songs dataset","rock, classic, electronica, flameno, jazz, afrobeat, samba, balkan, greek, chaha, rumba, samba, quickste, tango, waltz",Various
+(PS2-6) A Transient Detection Algorithm for Audio Using Iterative Analysis of STFT,2011,1,TRUE,LSML Dataset,Various,Various
+(PS2-7) Modeling Musical Attributes to Characterize Two-Track Recordings with Bass and Drums,2011,1,FALSE,Bass Bible - P. Westwood,"Western, Latin and African music styles",Non-Western
+"(PS2-8) Chroma Toolbox: PITCH, CHROMA, CENS, CRP",2011,0,FALSE,n/a,n/a,N/A
+(PS2-9) A Comparison of Statistical and Rule-Based Models for Style-Specific Harmonization,2011,1,FALSE,140 songs from pop/rock bands,pop and rock,"Pop, Rock"
+(PS2-10) Melody Extraction based on Harmonic Coded Structure,2011,2,FALSE,"ADC2004, MIREX2005",Not specified,Doesn't Specify
+(PS2-11) Timbre and Melody Features for the Recognition of Vocal Activity and Instrumental Solos in Polyphonic Music,2011,1,FALSE,RWC,POP,Pop
+(PS2-12) Quantifying the Relevance of Locally Extracted Information for Musical Instrument Recognition from Entire Pieces of Music,2011,1,FALSE,220 music pieces from various genres,Various,Various
+(PS2-13) Score-Informed Voice Separation For Piano Recordings,2011,3,FALSE,LSML - 26 clips from indian film songs and western music songs,western classical,Classical
+(PS2-14) A Postprocessing Technique for Improved Harmonic/Percussion Separation for Polyphonic Music,2011,1,FALSE,NA,not specified,N/A
+(PS2-15) Factorization of Overlapping Harmonic Sounds Using Approximate Matching Pursuit,2011,1,FALSE,University of Iowa DB of Instrument Samples,piano sounds only,Single Instrument
+(PS2-16) Computational Approaches for the Understanding of Melody in Carnatic Music,2011,0,FALSE,n/a,n/a,N/A
+(PS2-17) Modeling Melodic Improvisation in Turkish Folk Music Using Variable-Length Markov Models,2011,1,TRUE,Uzun Hava Humdrum DB,turkish folk music,Folk
+(PS2-18) Iranian Traditional Music Dastgah Classification,2011,1,FALSE,Collection of Traditional Iranian music,Traditional Iranian Music,Non-Western
+"(PS2-19) The Temperament Police: The Truth, the Ground Truth, and Nothing but the Truth",2011,1,FALSE,"data from other paper, seems in house",Classical,Classical
+(PS2-20) Methodology and Resources for The Structural Segmentation of Music Pieces into Autonomous and Comparable Blocks,2011,1,FALSE,RWC,Pop,Pop
+(OS3-1) The Music Encoding Initiative as a Document-Encoding Framework,2011,1,FALSE,MEI,unspecified,Doesn't Specify
+(OS3-2) Low Dimensional Visualization of Folk Music Systems Using the Self Organizing Cloud,2011,1,FALSE,folk songs,folk,Folk
+(OS3-3) New Approaches to Optical Music Recognition,2011,0,FALSE,n/a,n/a,N/A
+(OS4-1) Songle: A Web Service for Active Music Listening Improved by User Contributions,2011,0,FALSE,n/a,n/a,N/A
+(OS4-2) Improving Perceptual Tempo Estimation with Crowd-Sourced Annotations,2011,1,FALSE,1473 tracks,"rock, country, pop, soul, funk, rnb, jazz, latin,reggae,disco, rap",Various
+(OS4-3) Investigating the Similarity Space of Music Artists on the Micro-Blogosphere,2011,2,FALSE,AllMusic and last fm,Various (14 genres),Various
+(OS4-4) Musical Influence Network Analysis and Rank of Sample-Based Music,2011,1,FALSE,"42,447 user-generated records of sampling, excluding any entry involving cover song sampling.","electronic dance, rock, hip hop, soul/disco/funk, reggae",Various
+(OS5-1) User studies in the Music Information Retrieval Literature,2011,0,FALSE,n/a,n/a,N/A
+(OS5-2) Social Capital and Music Discovery: An Examination of the Ties through Which Late Adolescents Discover New Music,2011,1,FALSE,Interviews with students about music discovery,N/A,N/A
+(OS5-3) MIR in School? Lessons from Ethnographic Observation of Secondary School Music Classes,2011,0,FALSE,n/a,n/a,N/A
+(OS5-4) Ethnographic observations of musicologists at the British Library: implications for Music Information Retrieval,2011,1,FALSE,British Library recording database,"early music, classical music, romantic, contemporary (electronic",Various
+(PS3-1) Peachnote: Music Score Search and Analysis Platform,2011,1,TRUE,Petrucci Music Library,Musical Scores - doesn't specify genre some are piano,Doesn't Specify
+(PS3-2) The Melodic Signature Index for Fast Content-based Retrieval of Symbolic Scores Camelia Constantin,2011,1,TRUE,"bach, , hausmusik, Gutenburg Sheet Music Project, hyms, music XML, wikifonia, wima",Mostly Classical sheet music,Classical
+(PS3-3) Dynamic Programming in Transposition and Time-Warp Invariant Polyphonic Content-Based Music Retrieval,2011,1,FALSE,Mutopia,doesn't specify,Doesn't Specify
+(PS3-4) Rhythm Extraction from Polyphony Symbolic Music,2011,1,FALSE,Music21,"7000 MIDI files (including 501 classical, 527 jazz/latin, 5457 pop/rock, bach, ragtime",Various
+(PS3-5) Complexity Driven Recombination of MIDI Loops,2011,0,FALSE,n/a,n/a,N/A
+(PS3-6) Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit,2011,1,FALSE,Music21 and Essen Folksong DB,folk songs from china and central europe,Folk
+(PS3-7) Probabilistic Modeling of Hierarchical Music Analysis,2011,1,FALSE,8 excerpts of music,Classical,Classical
+(PS3-8) Neo-Riemannian Cycle Detection with Weighted Finite-State Transducers,2011,1,FALSE,Romantic music scores - cited from another paper,Romantic music scores,Classical
+(PS3-9) Using Sequence Alignment and Voting to Improve Optical Music Recognition from Multiple Recognizers,2011,1,FALSE,"public domain, scanned one page pieces of western classical music",western classical,Classical
+(PS3-10) OCR based post processing of OMR for the recovery of transposing instruments in complex orchestral scores,2011,1,FALSE,"RWC, IMSLP, Bavarian state library",classical,Classical
+(PS3-11) Classifying Bach’s Handwritten C-Clefs,2011,1,FALSE,Unclear,classical,Classical
+(PS3-12) Automatic Pitch Detection in Printed Square Notation,2011,1,FALSE,"Liber : pages, PDF format",Church music,Other
+(PS3-13) Associations between Musicology and Music Information Retrieval,2011,1,FALSE,Dataset of ismir preceedings (2000-2007,N/A,N/A
+(PS3-14) Potential Relationship Discovery in Tag-Aware Music Style Clustering and Artist Social Networks,2011,2,FALSE,data about artists gathered from Twitter API and LastFM,Various,Various
+(PS3-15) Using Network Sciences to Rank Musicians and Composers in Brazilian Popular Music,2011,1,FALSE,n/a,n/a,N/A
+(PS3-16) Finding Community Structure in Music Genres Networks,2011,1,FALSE,280 samples,"four genres: blues, mpb (Brazilian popular music), reggae and rock",Various
+"(PS3-17) Guitar Tab Mining, Analysis and Ranking",2011,1,FALSE,NA,Beatles,"Pop, Rock"
+(PS3-18) A Musical Web Mining and Audio Feature Extraction Extension to The Greenstone Digital Library Software,2011,0,FALSE,n/a,n/a,N/A
+(PS3-19) Knowledge Representation Issues in Musical Instrument Ontology Design,2011,0,FALSE,n/a,n/a,N/A
+(PS3-20) The Studio Ontology Framework,2011,0,FALSE,n/a,n/a,N/A
+(PS4-1) Music Structural Segmentation by Combining Harmonic and Timbral Information,2011,1,FALSE,Isophonics,180 beatles songs,"Pop, Rock"
+(PS4-2) A Regularity-Constrained Viterbi Algorithm and Its Application to The Structural Segmentation of Songs,2011,1,FALSE,RWC,pop,Pop
+(PS4-3) Structural Change on Multiple Time Scales as a Correlate of Musical Complexity,2011,1,FALSE,"17,116 pieces of popular from the British singles charts between 1951 and 2011",Various,Various
+(PS4-4) l1-Graph Based Music Structure Analysis,2011,2,FALSE,PopMusic dataset and UPF Beatles,"pop, rock, hip hop and jazz (PM) and pop/rock",Various
+(PS4-5) Causal prediction of continuous-valued music features,2011,1,FALSE,180 beatles songs,Pop/Rock,"Pop, Rock"
+(PS4-6) Exemplar-based Assignment of Large Missing Audio Parts using String Matching on Tonal Features,2011,1,FALSE,"OMRAS2 Metadata Project dataset: the beatles, queen, Michael jackson","pop/rock, rock, pop","Pop, Rock"
+(PS4-7) Aligning Semi-Improvised Music Audio with Its Lead Sheet,2011,1,FALSE,said it comes from this paper,Jazz,Jazz
+(PS4-8) Expressive Timing from Cross-Performance and Audio-based Alignment Patterns: An Extended Case Study,2011,1,FALSE,CHARM Mazurka Project,classical,Classical
+(PS4-9) Incremental Bayesian Audio-to-Score Alignment with Flexible Harmonic Structure Models,2011,1,FALSE,RWC Jazz,Jazz,Jazz
+(PS4-10) Stochastic Modeling of a Musical Performance with Expressive Representations from the Musical Score,2011,2,FALSE,created DS and CrestMuse DS,classical western,Classical
+(PS4-11) The Natural Language of Playlists,2011,3,FALSE,"Million Song Dataset, Art of the Mix, LastFM",doesn't specify,Doesn't Specify
+(PS4-12) On the Importance of “Real” Audio Data for MIR Algorithm Evaluation at the Note-Level - A Comparative Study,2011,1,FALSE,Vienna symphonic library,classical,Classical
+(PS4-13) A Comparative Study of Collaborative vs. Traditional Musical Mood Annotation,2011,1,FALSE,collected experimental data,unspecified,Doesn't Specify
+(PS4-14) Design and creation of a large-scale database of structural annotations,2011,1,TRUE,SALAMI database,"jazz, classical and world music","Jazz, Classical, Non-Western"
+(PS4-15) Music Structure Segmentation Algorithm Evaluation: Expanding on MIREX 2010 Analyses and Datasets,2011,2,TRUE,MRX10V2: MIREX 2009 and 2010,"classical, jazz, world, popular, live",Various
+(PS4-16) Music Information Robotics: Coping Strategies for Musically Challenged Robots,2011,1,FALSE,"created own dataset of frame drum sounds,",Instrument recordings,Single Instrument
+(PS4-17) The potential for automatic assessment of trumpet tone quality,2011,1,FALSE,recordings of notes and chords from musicians with various skill level,Instrument recordings,Single Instrument
+(PS4-18) Elementary Sources: Latent Component Analysis for Music Composition,2011,1,FALSE,"Soundspotter, and 90 second Bach Clips",Classical,Classical
+(PS4-19) Cross-Modal Aesthetics from A Feature Extraction Perspective: A Pilot Study,2011,1,FALSE,"Ten ten-second solo piano clips by the following composers were chosen for this experiment: Handel, Mozart, Liszt, Debussy, Hindemith, Barber, Ligeti, Phillip Glass, Bill Evans, and David Lanz. T",Western piano recordings,Single Instrument
+(OS6-1) The Million Song Dataset,2011,1,TRUE,Million Song Dataset,Various,Various
+(OS6-2) Audio Music Similarity and Retrieval: Evaluation Power and Stability,2011,1,FALSE,MIREX editions 2006-2011,doesn't specify,Doesn't Specify
+(OS6-3) MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval,2011,1,FALSE,songs from Rolling Stone 500 best songs list - in house data and tags are from Music Genome project,"bossanova, country rock, hymn, orchestral pop, slide blues",Various
+(OS6-4) Information Retrieval Meta-Evaluation: Challenges and Opportunities in the Music Domain,2011,0,FALSE,n/a,n/a,N/A
+(OS7-1) A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings,2011,0,FALSE,"uses 3 songs only: “In the year 2525” by Zager and Evans,  Ormandy of the Hungarian Dance No. 5 by Johannes Brahm, Beethoven’s piano sonata Op. 31","rock, classical",Various
+(OS7-2) Analysis of Acoustic Features for Automated Multi-Track Mixing,2011,1,FALSE,48 songs from RockBand game,Rock,Rock
+(OS7-3) Accelerating The Mixing Phase In Studio Recording Productions By Automatic Audio Alignment,2011,1,FALSE,3 hours of audio data (recordings),"J. Brahms’ sextet op. 18,  P. Manoury’s “Tensio”",Classical
+(OS8-1) An Expert Ground Truth Set for Audio Chord Recognition and Music Analysis,2011,1,FALSE,Chords,single instrument,Single Instrument
+(OS8-2) Leveraging Noisy Online Databases for Use in Chord Recognition,2011,1,FALSE,Isophonics,218 beatles songs,"Pop, Rock"
+(OS8-3) A Vocabulary-Free Infinity-Gram Model for Nonparametric Bayesian Chord Progression Analysis,2011,1,FALSE,Center for Digital Music - Beatles,Beatles songs,"Pop, Rock"
+(OS8-4) A Feature Smoothing Method for Chord Recognition Using Recurrence Plots,2011,1,FALSE,1. Christopher Hart Beatles dataset 2. Queen Dataset 3. RWC pop,"pop/rock, rock, pop","Pop, Rock"
+(PS6-1) Multiscale Scattering for Audio Classification,2011,1,FALSE,GTZAN,10 genres,Various
+(PS6-2) Multi-scale temporal fusion by boosting for music classification,2011,1,FALSE,Instrument Recognition DB (not named) and CAL500,Pop and Instrument Recordings,Single Instrument
+(PS6-3) Audio-based Music Classification with a Pretrained Convolutional Network,2011,1,FALSE,Million Song Dataset,20 genres are included,Various
+(PS6-4) Music Genre Classification by Ensembles of Audio and Lyrics Features,2011,2,FALSE,2 DS from other papers,Various,Various
+(PS6-5) Unsupervised Learning of Sparse Features for Scalable Audio Classification,2011,1,FALSE,GTZAN,Various,Various
+(PS6-6) Sparse Signal Decomposition on Hybrid Dictionaries Using Musical Priors,2011,0,FALSE,"""5 musical exceperpts"": Beatles, Glockenspiel, Beethoven, Mozart","Classical, Pop/Rock, Instrument Recording",Single Instrument
+(PS6-7) Music Genre Classification using Similarity Functions,2011,1,FALSE,119 j pop songs,J Pop,Non-Western
+(PS6-8) New Trends in Musical Genre Classification Using Optimum-Path Forest,2011,1,FALSE,"GTZAN Genre, Magnatatune",Various,Various
+(PS6-9) Combining Content-Based Auto-Taggers with Decision-Fusion,2011,1,FALSE,CAL500,Pop,Pop
+(PS6-10) Music Tagging with Regularized Logistic Regression,2011,1,FALSE,CAL500,Pop,Pop
+(PS6-11) An Empirical Study of Multi-Label Classifiers for Music Tag Annotation,2011,2,FALSE,CAL500 and Magnatatune,Pop and Various,"Pop, Various"
+(PS6-12) Semantic Annotation and Retrieval of Music using a Bag of Systems Representation,2011,1,FALSE,CAL500,Pop,Pop
+(PS6-13) Temporal pooling and multiscale learning for automatic annotation and ranking of music audio,2011,1,FALSE,Magnatatune,Doesn't specify,Doesn't Specify
+(PS6-14) Music Mood Classification of Television Theme Tunes,2011,1,FALSE,Magnatatune,various,Various
+(PS6-15) Musical Moods: A Mass Participation Experiment for Affective Classification of Music,2011,0,FALSE,n/a,n/a,N/A
+(PS6-16) Modeling Dynamic Patterns for Emotional Content in Music,2011,1,FALSE,76 audio recordings: vocal and piano,unspecified,Doesn't Specify
+(PS6-17) Identifying Emotion Segments in Music by Discovering Motifs in Physiological Data,2011,1,FALSE,NTWICM,"Pop/Rock, Rock, and Rock","Pop, Rock"
+(PS6-18) Multi-Modal Non-Prototypical Music Mood Analysis in Continuous Space: Reliability and Performances,2011,0,FALSE,n/a,n/a,N/A
+(PS6-19) Music Emotion Classification of Chinese Songs based on Lyrics Using TF*IDF and Rhyme,2011,1,FALSE,Kook.com dataset from this paper,Chinese Pop,Non-Western
+(PS6-20) Urgency Analysis of Audible Alarms in The Operating Room,2011,1,FALSE,8 IEC Alarm sounds from Music Eng survey,alarm sounds,Other
+(OS9-1) Modeling Musical Emotion Dynamics with Conditional Random Fields,2011,1,FALSE,uspop2002,pop,Pop
+(OS9-2) Mining the Correlation between Lyrical and Audio Features and the Emergence of Mood,2011,1,FALSE,lyricsmode.com,Doesn't Specify,Doesn't Specify
+(OS9-3) Exploring The Relationship Between Mood and Creativity in Rock Lyrics,2011,2,FALSE,Mood Tag Dataset (used in MIREX 2010) and LyricWiki.com,Various,Various
