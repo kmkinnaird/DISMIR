@@ -19,7 +19,7 @@ The dataset genres were divided into ten categories, which are:
 - __Doesn't Specify__: author does not specify the genre of the data used
 - __N/A__: non-audio datasets such as text or symbolic data
 
-Some specific genres fall under multiple categories, such as Japanese or Korean pop music which is labelled as both Pop and Non-Western.
+Some specific genres fall under multiple categories, such as Japanese or Korean pop music which is labelled as both Pop and Non-Western. Additionally, any papers that do not use or describe any data is marked with a zero.
 
 The paper using this dataset can be found in the 2020 Transactions of the International Society of Music Information Retrieval.
 All reviewed papers can be found in the conference proceedings from the [ISMIR website](http://ismir.net/conferences/).
