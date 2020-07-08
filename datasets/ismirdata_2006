@@ -1,0 +1,98 @@
+paper_title,year,num_datasets,introduced,dataset_used,genre,genre_clean
+Data Dictionary: Metadata for Phonograph Records,2006,1,TRUE,Data Dictionary,metadata,Other
+Overview of On-demand Metadata Extraction Network (OMEN),2006,1,TRUE,OMEN,metadata,Other
+Ask a Librarian: The Role of Librarians in the Music Information Retrieval,2006,0,FALSE,n/a,n/a,N/A
+Exploiting Recommended Usage Metadata: Exploratory Analyses,2006,1,FALSE,epinions.com,5772 Review Texts,Other
+Joint Beat & Tempo Tracking from Music Signals,2006,0,FALSE,n/a,n/a,N/A
+Bayesian Modelling of Temporal Structure in Musical Audio,2006,0,FALSE,n/a,n/a,N/A
+The Cyclic Beat Spectrum: Tempo-Related Audio Features for Time-Scale,2006,1,FALSE,not specified,various genres,Various
+Prospects for Improving OMR with Multiple Recognizers,2006,1,FALSE,OMR Quick-Test,unspecified,Doesn't Specify
+Identifying Music Documents in a Collection of Images,2006,0,FALSE,n/a,n/a,N/A
+Optical Music Recognition of Early Typographic Prints using,2006,3,FALSE,Early typographic prints,non-music,N/A
+Separating Voices in MIDI,2006,1,FALSE,chewBach,"classical, specifically JS Bach",Classical
+A Pattern Recognition Approach for Melody Track Selection in MIDI Files,2006,6,FALSE,NA,"jazz, classical, pop","Jazz, Classical, Pop"
+Evolving Performance Models by Performance Similarity: Beyond,2006,1,FALSE,Real Book,acoustic saxophone recordings,Single Instrument
+Heroic Frogs Save the Bow: Performing Musician's Annotation and Interaction,2006,0,FALSE,n/a,n/a,N/A
+Evaluation of the Technical Level of Saxophone Performers by considering the evolution of Spectral Parameters of Sound,2006,1,FALSE,recordings of Saxophone Performers from music conservatory of Bordeaux,recordings of Saxophone Performers from music conservatory of Bordeaux,Single Instrument
+Predicting genre Labels for artists using FreeDB,2006,2,FALSE,"FreeDB, AllMusic",various,Various
+A Study on Music Genre Classification Based on Universal Acoustic Models,2006,3,FALSE,"Magnatunes, RWC, Dortmund","classical, electronic, rock, jazz/blues, ambient",Various
+The Significance of the Non-Harmonic “Noise” Versus the Harmonic Series,2006,13,FALSE,not specified,samples of single notes of 10 musical instruments,Single Instrument
+Musical Genre Classification: Is it worth pursuing and how can it be,2006,0,FALSE,n/a,n/a,N/A
+A Computationally Efficient Speech/Music Discriminator for Radio Recordings,2006,1,FALSE,7 BBC Internet radio stations,various,Various
+Probabilistic Combination of Features for Music Classification,2006,1,FALSE,http://www.ballroomdancers.com/,"Cha Cha Cha, Jive, Quickstep, Rumba, Samba, Tango, Viennese Waltz, Slow Waltz",Other
+Chroma-based Estimation of Musical Key from Audio-Signal Analysis,2006,1,FALSE,not specified,"European baroque, classical and romantic",Classical
+Key Estimation Using a Hidden Markov Model,2006,1,FALSE,not specified,Beatles,"Pop, Rock"
+Audio Key Finding using Low-Dimensional Spaces,2006,1,FALSE,152 pieces from naxos collection,classical,Classical
+Automatic Chord Recognition from Audio using an HMM with,2006,1,FALSE,48 fugues from Well-Tempered Clavier,classical,Classical
+Fast Generation of Optimal Music Playlists using Local Search,2006,0,FALSE,n/a,n/a,N/A
+Song Intersection by Approximate Nearest Neighbor Search,2006,1,FALSE,complete recordings of madonna and miles davis,NA,"Jazz, Pop"
+"A Fast, Randomized, Maximum Subset Matching Algorithm for",2006,1,FALSE,Musedata,classical,classical
+ENST-Drums: an Extensive Audio-Visual Database for Drum Signal,2006,1,TRUE,ENST-Drums,audiovisual database of drum performances by three professional drummers,Single Instrument
+A Large Publicly Accessible Database of Annotated Audio for Music Research,2006,1,TRUE,Codaich,"53 candidate genres, which are distributed among the coarse categories of popular, world, classical and jazz.",Various
+Low Level Descriptors for Automatic Violin Transcription,2006,1,FALSE,not specified,database of 1500 violin notes and double stops,Single Instrument
+Music Information Retrieval from a Singing Voice Based on Verification of,2006,1,FALSE,161 Japanese songs,Japanese songs,Non-Western
+Automatic Feature Weighting in Automatic Transcription of Specified Part in,2006,NA,FALSE,Auld lang syne song - made with data from RWC-MDB-I-2001,Instrument performances,Single Instrument
+Singing Voice Separation from Monaural Recordings,2006,NA,FALSE,karaoke CD,10 songs: rock and country music,"Rock, Other"
+The Song Remains the Same: Identifying Versions of the Same Piece using Tonal,2006,1,FALSE,a music collection of popular music,pop,Pop
+Visually Profiling Radio Stations,2006,0,FALSE,n/a,n/a,N/A
+An Efficient Multiscale Approach to Audio Synchronization,2006,1,FALSE,not specified,classical,classical
+Perception of Structure in Popular Music,2006,1,FALSE,RWC database,"6 songs that cover a range of
+popular music styles",Pop
+Globally Optimal Audio Partitioning,2006,1,FALSE,recordings of musical performances,classical,Classical
+Realtime Multiple Pitch Observation using Sparse Non-Negative Constraints,2006,1,FALSE,RWC database,classical,Classical
+On the Requirement of Automatic Tuning Frequency Estimation,2006,2,FALSE,small database (65 tracks),"jazz (pre-test DB), classical and pop","Jazz, Classical, Pop"
+Multiple Fundamental Frequency Estimation by summing Harmonic Amplitudes,2006,4,FALSE,"samples from the McGill University Master Samples collection, the University of Iowa website, IRCAM Studio Online, and of recordings for the acoustic guitar",recordings from 32 musical instruments,Single Instrument
+Transcription of the Singing Voice in Polyphonic Music,2006,1,FALSE,RWC database,100 acoustic recordings of typical pop songs,Pop
+Independent Component Analysis for Music Similarity Computation,2006,1,FALSE,ISMIR’04 Genre Classification Contest training set,"six genres: classical, electronic, jazz/blues, metal/punk, rock/pop, world",Various
+Music Summarization via Key Distributions: Analyses of Similarity Assessment,2006,1,FALSE,Variation Sets,"baroque, classical, romantic",Classical
+More of an Art than a Science': Supporting the Creation of Playlists and Mixes,2006,1,FALSE,Art of the Mix database,n/a,N/A
+Perceptual Evaluation of Music Similarity,2006,1,FALSE,18 audio excerpts,"pop, rock, country, blues, jazz, heavy metal, hip hop, classical and funk",Various
+PAPA: Pscychology and Purpose-Aware Automatic Playlist Generation,2006,1,FALSE,57 songs various genres - seems in house,"various includes pop, rock, soul, hip hop",Various
+Modeling Music and Words using a Multiclass Naïve Bayes approach,2006,1,FALSE,"2,131 songs from our personal collections",doesn't specify,Doesn't Specify
+Assigning and Visualizing Music Genres by Web-based Co-Occurance Analysis,2006,1,FALSE,webdata - allmusicguide,"""9 general genres""",Various
+Web-based Artists Categorization,2006,0,FALSE,webdata,14 genres not specified,Various
+Social Cognition and Melodic Persistence: Where Metadata and Content,2006,0,FALSE,several songs,unspecified,Doesn't Specify
+A Probabilistic Model of Melody Perception,2006,1,FALSE,Essen Folksong collection,65 songs,Folk
+A Mid-level Melody-based Representation for Calculating Audio Similarity,2006,1,FALSE,http://lgm.fri.uni-lj.si/~matic/similarity.,36 songs,"Pop, Rock"
+Mel-Frequency Cepstral Coefficients: An Evaluation of Robustness of,2006,1,FALSE,data set of 46 songs,rock and pop,"Pop, Rock"
+Optimal Filtering of Dynamics in short-time Features for Music Organization,2006,2,FALSE,MIS (Music Instrument Samples) database and small created DS,"alternative, country, easy listening, electronica, jazz, latin, pop&dance, rap&hiphop, r&b and soul, reggae and rock AND alto saxophone notes",Various
+Hybrid Collaborative and Content-based Music Recommendation Using,2006,1,FALSE,Japanese single CDs that were ranked in the weekly top-20 sales rankings from Apr. 2000 to Dec. 2005.,Japanese songs,Non-Western
+Music Scope Headphones: Natural User Interface for Selection of Music,2006,1,FALSE,RWC database - RWC-MDB-J2001 No. 38,Jazz,Jazz
+Moody Tunes: the Rockanango Project,2006,1,TRUE,NA,"Pop, Rock, Jazz, Rhythm & Blues, Classical",Various
+Remixing Stereo Music with Score-Informed Source Separation,2006,1,FALSE,100 stereo mixtures of four-part Bach chorales,baroque,Classical
+A Genre Classsification Plug-in for Data Collection -,2006,0,FALSE,n/a,n/a,N/A
+Good Vibrations: Music Discovery through Personal Music Concepts -,2006,0,FALSE,n/a,n/a,N/A
+The Sonic Visualizer: A Visualization Platform for Semantic Descriptors from,2006,0,FALSE,n/a,n/a,N/A
+"Musical Key Extraction from Audio using Profile Training – S. van de Par,",2006,1,FALSE,same dataset used in ISMIR 2004 Musical key extraction from audio,classical,Classical
+Muugle: A Modular Music Information Retrieval Framework – M. Bosma,2006,2,FALSE,815 ringtones and 476.621 incipits of the RISM collection,ringtones,Other
+An Integrated MIR Programming and Testing Environment,2006,0,FALSE,n/a,n/a,N/A
+Problems and Opportunities of Applying Data and Audio Mining Techniques,2006,0,FALSE,n/a,n/a,N/A
+BDB-MUS: e-music for the preservation of Brazilian Musical Heritage –,2006,1,TRUE,BDB-MUS – Brazilian Digital Music Library,Brazilian musical forms and genres,Non-Western
+Feature Selection Pitfalls and Music Classification -,2006,1,FALSE,Magnatune database,24 genres,Various
+Towards a MIR System for Malaysian Music -,2006,0,FALSE,n/a,n/a,N/A
+Improving Beat-Tracking by Stream-Based Evaluation of Musical Events,2006,0,FALSE,n/a,n/a,N/A
+A Multifaceted Approach to Music Similarity -,2006,1,FALSE,purchased top ten rated songs in eleven different genres from the iTunes music store.,"Hiphop/Rap, Classical, Pop, World, Jazz, Dance, Electronic, Country, Blues, Alternative, and R&B/Soul.",Various
+Instrument Classification using HMM,2006,1,FALSE,"not specified, ""designed a database""","classical guitar, violin, trumpet and clarinet",Single Instrument
+The Map of Mozart -,2006,1,FALSE,complete works of the composer Wolfgang Amadeus Mozart,classical,Classical
+Efficient Genre Classification using Qualitative Representations,2006,1,FALSE,85 MIDI files,pop and classical,"Pop, Classical"
+Assessing the Performance of Melodic Similarity Algorithms Using Human,2006,0,FALSE,n/a,n/a,N/A
+Tempo Tracking with a Periodicty Comb Kernel –,2006,2,FALSE,not specified,"one containing percussive and non-percussive classical music, and one containing percussive popular music.","Pop, Classical"
+AIST Annotation for the RWC Music Database,2006,1,FALSE,RWC database,"popular, classical, jazz","Pop, Classical, Jazz"
+"Feature-based Synthesis: A Tool for Evaluation, Designing, and Interacting with",2006,0,FALSE,n/a,n/a,N/A
+A Retrieval Approach for Human/Robot Music Performance,2006,1,FALSE,not specified,musical rhythmic phrases specific to each individual instrument,Single Instrument
+An Audio Crawler Focused on Weblogs,2006,0,FALSE,n/a,n/a,N/A
+MusicRainbow: A New User Interface to Discover Artists Using Audio-Based,2006,1,FALSE,subset of the DB-XL collection used in this paper,various,Various
+Efficient Lyrics Extraction from the Web,2006,1,FALSE,set of song titles used in ISMIR 2005 Automatic Retrieval of Song Lyrics,various,Various
+Factors Affecting Response Rates for Real-Life MIR Queries,2006,0,FALSE,n/a,n/a,N/A
+Composer Attribtution by Quantifying Compositional Strategies,2006,1,FALSE,http://www.musical-style-recognition.org,16 JS Bach fugues for organ,Classical
+Language Identification in Vocal Music,2006,3,FALSE,"SPE, MUS, ACAP","SPE: German and English speech, MUS: modern pop and rock, ACAP: acapella",Various
+Extending Audacity as a Grouth-Truth Annotation Tool,2006,0,FALSE,n/a,n/a,N/A
+Everyday Life Music Information-Seeking Behaviour of Young Adults,2006,0,FALSE,n/a,n/a,N/A
+A Philosophical Wish List for Research in Music Information Retrieval,2006,0,FALSE,n/a,n/a,N/A
+Jaudio: Additions and Improvements,2006,0,FALSE,n/a,n/a,N/A
+Lilypond for pyScore: Approaching a universal translator for music notation,2006,0,FALSE,n/a,n/a,N/A
+An Implementation of a Simple Playlist Generator Based on Audio Similarity,2006,0,FALSE,n/a,n/a,N/A
+Interactive Multimedia Playroom – update and SAQs,2006,0,FALSE,n/a,n/a,N/A
+Understanding and Quantifying the “Album Effect” in Artist Identification,2006,1,FALSE,not specified,original recordings of hit songs and re-releases of those songs,Various
+Ground Truth for Automatic Music Mood Classification,2006,1,FALSE,20-second long excerpts from around the middle of 470 music track,12 genres,Various
+Midi Genre Classification by Invariant Features,2006,1,FALSE,50 musical pieces in MIDI format,"classical music, pop music and traditional Japanese music","Classical, Pop, Non-Western"
