@@ -4,11 +4,24 @@ This is a published collection of the data used in "Data Usage in MIR: History, 
 If you use these datasets or wish to discuss any of the dataset contents, please open an issue!
 
 ## Background
-For this study, all available accepted papers from each of the Conferences of the International Society of Music Information Retrieval (ISMIR) were reviewed by the authors. _Include general overview of how and why papers were reviewed_
+For this study, all available accepted papers from each of the 20 Conferences of the International Society of Music Information Retrieval (ISMIR) were reviewed by the authors. Each paper was reviewed by at least two different authors, one as the 'leader' to make initial decisions, and another as the 'checker' to ensure agreement. The datasets used and discussed in each paper were recorded, then the genres seen in the dataset were recorded. A number of other aspects of each paper's data usage were also recorded (these can be found below in Dataset Content.
 
-In order to 
+The dataset genres were divided into ten categories, which are:
+- __Pop/Rock__: Western music with wide appeal (often found on record charts)
+- __Classical__: Western, often European, art music; generally produced between 1550 and 1900; includes both religious and secular music as well as classical opera
+- __Jazz__: a genre with many subgenres; often includes syncopation, improvisation, prominent meter, and distinctive performance techniques
+- __Folk__: music transmitted through oral tradition, often with unknown composers; often multigenerational and linked to national cultures
+- __Electronic__: music using electronic or digital instruments; electro-acoustic music also falls under this category
+- __Non-Western__: any non-North American popular music that does not fall under Pop/Rock or Classical genres
+- __Instrument Recording__: recordings of a single instrument playing a piece or single note/sound datasets; includes vocal datasets with single voices
+- __Other__: audio datasets that do not fit into other categories; i.e. ballroom music, movie/video game music, non-musical sounds, spoken voice, etc.
+- __Various__: datasets containing 3 or more of the above categories
+- __Doesn't Specify__: author does not specify the genre of the data used
+- __N/A__: non-audio datasets such as text or symbolic data
 
-The paper referenced above can be found in the Transactions of the International Society of Music Information Retrieval.
+Some specific genres fall under multiple categories, such as Japanese or Korean pop music which is labelled as both Pop and Non-Western. Additionally, any papers that do not use or describe any data is marked with a zero.
+
+The paper using this dataset can be found in the 2020 Transactions of the International Society of Music Information Retrieval.
 All reviewed papers can be found in the conference proceedings from the [ISMIR website](http://ismir.net/conferences/).
 
 ## Datasets
@@ -22,10 +35,10 @@ Each dataset contains the following variables:
 - `paper_name`: 'chr' - Title of reviewed paper
 - `year`: 'num' - Conference year the paper was accepted
 - `num_datasets`: 'num' - Number of datasets used in paper
-- `introduced`: 'bool' - True if paper introduced a newly available dataset, False otherwise
+- `introduced`: 'bool' - True if paper introduced a newly available dataset (publicly available or made available by request), False otherwise
 - `description`: 'chr' - Description of datasets used in paper analysis
 - `genre`: 'chr' - Description of genres included in used datasets
-- `genre_clean`: 'chr' - Standardized categorization of used genres
+- `genre_clean`: 'chr' - Standardized categorization of used genres (possible values in Background)
 
 ## Copyright Information
 This dataset is released under the MIT license.
