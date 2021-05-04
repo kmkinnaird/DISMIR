@@ -1,4 +1,4 @@
-Paper Title,Year,Genre cleaned
+paper_title,year,genre_clean
 Techniques for Automatic Music Transcription,2000,Instrumental
 Optical Music Recognition System within a Large-Scale Digitization Project,2000,Pop/Rock
 PROMS: A Web-based Tool for Searching in Polyphonic Music,2000,Doesn't Specify
