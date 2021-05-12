@@ -23,15 +23,16 @@ Some specific genres fall under multiple categories, such as Japanese or Korean 
 
 As some papers use multiple datasets, and the genre of each dataset is recorded, some papers will have multiple genre notations (up to two notations for a single dataset). For this reason categories like Various may be accompanied by another genre tag for the same paper.
 
-The paper using this dataset can be found in the 2020 Transactions of the International Society of Music Information Retrieval.
 All reviewed papers can be found in the conference proceedings from the [ISMIR website](http://ismir.net/conferences/).
 
 ## Datasets
 ### Available Datasets
-There are 22 dataset .csv files available:
-- 1-20: Papers from each individual conference, denoted by `ismirdata_'conference year'.csv` i.e. `ismirdata_2019.csv`
-- 21: `ismirdata_full` - joined dataset containing all years
+There are 24 dataset files available in the `datasets` folder:
+- 1-20: Papers from each individual conference, denoted by `ismirdata_'conference year'.csv` i.e. `ismirdata_2019.csv`. These files are found in the `raw_years` folder.
+- 21: `fulldata` - joined dataset containing all years
 - 22: `figure_data` - modified dataset containing all years that was used to create paper figures
+- 23: `datasets_separated` - dataset containing no genre information; separate datasets in one paper are split into separate columns
+- 24: `genres_separated` - dataset containing no dataset names; separate non-clean genre designations are split into separate columns
 
 ### Dataset Content
 Each of the individual year datasets and the `ismirdata_full` dataset contains the following variables:
@@ -39,11 +40,15 @@ Each of the individual year datasets and the `ismirdata_full` dataset contains t
 - `year`: 'num' - Conference year the paper was accepted
 - `num_datasets`: 'num' - Number of datasets used in paper
 - `introduced`: 'bool' - True if paper introduced a newly available dataset (publicly available or made available by request), False otherwise
-- `description`: 'chr' - Description of datasets used in paper analysis
+- `datasets_used`: 'chr' - Description of datasets used in paper analysis
 - `genre`: 'chr' - Description of genres included in used datasets
 - `genre_clean`: 'chr' - Standardized categorization of used genres (possible values in Background)
 
 The `figure_data` dataset contains only the paper_name, year, and genre_clean variables shown above.
+
+The `datasets_separated` dataset contains the paper_name, year, num_datasets, and introduced variables shown above. It contains the information from the datasets_used variable split into separate columns labelled dataset1, dataset2, etc.
+
+The `genres_separated` dataset contains the paper_name, year, num_datasets, and genre_clean variables shown above. It contains the information from the genre variable split into separate columns labelled genre1, genre2, etc.
 
 ## Copyright Information
 This dataset is released under the MIT license.
